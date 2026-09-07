@@ -3,3 +3,5 @@ players_data.json
 match_data.json
 data_cache.pkl
 all_metrics_boxplots.png
+cohens_d_barplot.png
+pvalue_cohens_d_barplot.png
