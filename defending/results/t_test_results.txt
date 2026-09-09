@@ -1,0 +1,36 @@
+Research question
+Among FIFA World Cup 2026 players who played at least 180 minutes, was the mean
+number of direct defensive pressures per 90 minutes different between defenders
+and midfielders?
+
+Hypotheses
+H0: mu_defenders = mu_midfielders
+H1: mu_defenders != mu_midfielders
+
+Test
+Welch independent two-sample t-test, two-sided, alpha = 0.05
+
+Results
+Defender sample size: 60
+Midfielder sample size: 60
+Defender mean: 3.435
+Midfielder mean: 4.641
+Mean difference (Defender - Midfielder): -1.207
+t statistic: -3.5841
+Welch degrees of freedom: 117.91
+p value: 0.000493
+95% CI for mean difference: [-1.873, -0.540]
+Decision: Reject H0
+Conclusion: The sample provides statistically significant evidence that midfielders have a higher mean direct defensive pressure rate than defenders.
+
+Supporting assumption checks
+Shapiro-Wilk p value, defenders: 0.000051
+Shapiro-Wilk p value, midfielders: 0.408335
+Levene median-centred p value: 0.888573
+
+Notes
+- Welch's test does not require equal population variances.
+- The defender sample is right-skewed. The balanced samples of 60 players per
+  group make the t procedure reasonably robust through the central limit theorem.
+- The test describes an association with player position; it does not prove
+  that a position causes a particular pressure rate.

@@ -1,0 +1,9 @@
+column,meaning,data_type
+player_id,FIFA player identifier,text
+player_name,Player's official FIFA display name,text
+team_name,National team,text
+position,FIFA position category,categorical
+matches_played,Matches in which the player appeared,count
+minutes_played,Total tournament minutes played,continuous
+direct_defensive_pressures,Direct pressures recorded by FIFA,count
+direct_pressures_per90,Direct pressures / minutes played x 90,continuous

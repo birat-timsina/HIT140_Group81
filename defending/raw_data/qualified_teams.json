@@ -1,0 +1,774 @@
+{
+  "ContinuationToken": null,
+  "ContinuationHash": null,
+  "Results": [
+    {
+      "IdCompetition": "17",
+      "IdSeason": "285023",
+      "IdStage": null,
+      "IdTeam": "43921",
+      "IdCountry": "USA",
+      "TeamName": [
+        {
+          "Locale": "en-GB",
+          "Description": "USA"
+        }
+      ],
+      "TeamType": 1,
+      "Properties": {},
+      "IsUpdateable": null
+    },
+    {
+      "IdCompetition": "17",
+      "IdSeason": "285023",
+      "IdStage": null,
+      "IdTeam": "43899",
+      "IdCountry": "CAN",
+      "TeamName": [
+        {
+          "Locale": "en-GB",
+          "Description": "Canada"
+        }
+      ],
+      "TeamType": 1,
+      "Properties": {},
+      "IsUpdateable": null
+    },
+    {
+      "IdCompetition": "17",
+      "IdSeason": "285023",
+      "IdStage": null,
+      "IdTeam": "43911",
+      "IdCountry": "MEX",
+      "TeamName": [
+        {
+          "Locale": "en-GB",
+          "Description": "Mexico"
+        }
+      ],
+      "TeamType": 1,
+      "Properties": {},
+      "IsUpdateable": null
+    },
+    {
+      "IdCompetition": "17",
+      "IdSeason": "285023",
+      "IdStage": null,
+      "IdTeam": "43819",
+      "IdCountry": "JPN",
+      "TeamName": [
+        {
+          "Locale": "en-GB",
+          "Description": "Japan"
+        }
+      ],
+      "TeamType": 1,
+      "Properties": {},
+      "IsUpdateable": null
+    },
+    {
+      "IdCompetition": "17",
+      "IdSeason": "285023",
+      "IdStage": null,
+      "IdTeam": "43978",
+      "IdCountry": "NZL",
+      "TeamName": [
+        {
+          "Locale": "en-GB",
+          "Description": "New Zealand"
+        }
+      ],
+      "TeamType": 1,
+      "Properties": {},
+      "IsUpdateable": null
+    },
+    {
+      "IdCompetition": "17",
+      "IdSeason": "285023",
+      "IdStage": null,
+      "IdTeam": "43817",
+      "IdCountry": "IRN",
+      "TeamName": [
+        {
+          "Locale": "en-GB",
+          "Description": "IR Iran"
+        }
+      ],
+      "TeamType": 1,
+      "Properties": {},
+      "IsUpdateable": null
+    },
+    {
+      "IdCompetition": "17",
+      "IdSeason": "285023",
+      "IdStage": null,
+      "IdTeam": "43922",
+      "IdCountry": "ARG",
+      "TeamName": [
+        {
+          "Locale": "en-GB",
+          "Description": "Argentina"
+        }
+      ],
+      "TeamType": 1,
+      "Properties": {},
+      "IsUpdateable": null
+    },
+    {
+      "IdCompetition": "17",
+      "IdSeason": "285023",
+      "IdStage": null,
+      "IdTeam": "44005",
+      "IdCountry": "UZB",
+      "TeamName": [
+        {
+          "Locale": "en-GB",
+          "Description": "Uzbekistan"
+        }
+      ],
+      "TeamType": 1,
+      "Properties": {},
+      "IsUpdateable": null
+    },
+    {
+      "IdCompetition": "17",
+      "IdSeason": "285023",
+      "IdStage": null,
+      "IdTeam": "43820",
+      "IdCountry": "JOR",
+      "TeamName": [
+        {
+          "Locale": "en-GB",
+          "Description": "Jordan"
+        }
+      ],
+      "TeamType": 1,
+      "Properties": {},
+      "IsUpdateable": null
+    },
+    {
+      "IdCompetition": "17",
+      "IdSeason": "285023",
+      "IdStage": null,
+      "IdTeam": "43822",
+      "IdCountry": "KOR",
+      "TeamName": [
+        {
+          "Locale": "en-GB",
+          "Description": "Korea Republic"
+        }
+      ],
+      "TeamType": 1,
+      "Properties": {},
+      "IsUpdateable": null
+    },
+    {
+      "IdCompetition": "17",
+      "IdSeason": "285023",
+      "IdStage": null,
+      "IdTeam": "43976",
+      "IdCountry": "AUS",
+      "TeamName": [
+        {
+          "Locale": "en-GB",
+          "Description": "Australia"
+        }
+      ],
+      "TeamType": 1,
+      "Properties": {},
+      "IsUpdateable": null
+    },
+    {
+      "IdCompetition": "17",
+      "IdSeason": "285023",
+      "IdStage": null,
+      "IdTeam": "43924",
+      "IdCountry": "BRA",
+      "TeamName": [
+        {
+          "Locale": "en-GB",
+          "Description": "Brazil"
+        }
+      ],
+      "TeamType": 1,
+      "Properties": {},
+      "IsUpdateable": null
+    },
+    {
+      "IdCompetition": "17",
+      "IdSeason": "285023",
+      "IdStage": null,
+      "IdTeam": "43927",
+      "IdCountry": "ECU",
+      "TeamName": [
+        {
+          "Locale": "en-GB",
+          "Description": "Ecuador"
+        }
+      ],
+      "TeamType": 1,
+      "Properties": {},
+      "IsUpdateable": null
+    },
+    {
+      "IdCompetition": "17",
+      "IdSeason": "285023",
+      "IdStage": null,
+      "IdTeam": "43926",
+      "IdCountry": "COL",
+      "TeamName": [
+        {
+          "Locale": "en-GB",
+          "Description": "Colombia"
+        }
+      ],
+      "TeamType": 1,
+      "Properties": {},
+      "IsUpdateable": null
+    },
+    {
+      "IdCompetition": "17",
+      "IdSeason": "285023",
+      "IdStage": null,
+      "IdTeam": "43928",
+      "IdCountry": "PAR",
+      "TeamName": [
+        {
+          "Locale": "en-GB",
+          "Description": "Paraguay"
+        }
+      ],
+      "TeamType": 1,
+      "Properties": {},
+      "IsUpdateable": null
+    },
+    {
+      "IdCompetition": "17",
+      "IdSeason": "285023",
+      "IdStage": null,
+      "IdTeam": "43930",
+      "IdCountry": "URU",
+      "TeamName": [
+        {
+          "Locale": "en-GB",
+          "Description": "Uruguay"
+        }
+      ],
+      "TeamType": 1,
+      "Properties": {},
+      "IsUpdateable": null
+    },
+    {
+      "IdCompetition": "17",
+      "IdSeason": "285023",
+      "IdStage": null,
+      "IdTeam": "43872",
+      "IdCountry": "MAR",
+      "TeamName": [
+        {
+          "Locale": "en-GB",
+          "Description": "Morocco"
+        }
+      ],
+      "TeamType": 1,
+      "Properties": {},
+      "IsUpdateable": null
+    },
+    {
+      "IdCompetition": "17",
+      "IdSeason": "285023",
+      "IdStage": null,
+      "IdTeam": "43888",
+      "IdCountry": "TUN",
+      "TeamName": [
+        {
+          "Locale": "en-GB",
+          "Description": "Tunisia"
+        }
+      ],
+      "TeamType": 1,
+      "Properties": {},
+      "IsUpdateable": null
+    },
+    {
+      "IdCompetition": "17",
+      "IdSeason": "285023",
+      "IdStage": null,
+      "IdTeam": "43855",
+      "IdCountry": "EGY",
+      "TeamName": [
+        {
+          "Locale": "en-GB",
+          "Description": "Egypt"
+        }
+      ],
+      "TeamType": 1,
+      "Properties": {},
+      "IsUpdateable": null
+    },
+    {
+      "IdCompetition": "17",
+      "IdSeason": "285023",
+      "IdStage": null,
+      "IdTeam": "43843",
+      "IdCountry": "ALG",
+      "TeamName": [
+        {
+          "Locale": "en-GB",
+          "Description": "Algeria"
+        }
+      ],
+      "TeamType": 1,
+      "Properties": {},
+      "IsUpdateable": null
+    },
+    {
+      "IdCompetition": "17",
+      "IdSeason": "285023",
+      "IdStage": null,
+      "IdTeam": "43860",
+      "IdCountry": "GHA",
+      "TeamName": [
+        {
+          "Locale": "en-GB",
+          "Description": "Ghana"
+        }
+      ],
+      "TeamType": 1,
+      "Properties": {},
+      "IsUpdateable": null
+    },
+    {
+      "IdCompetition": "17",
+      "IdSeason": "285023",
+      "IdStage": null,
+      "IdTeam": "43850",
+      "IdCountry": "CPV",
+      "TeamName": [
+        {
+          "Locale": "en-GB",
+          "Description": "Cabo Verde"
+        }
+      ],
+      "TeamType": 1,
+      "Properties": {},
+      "IsUpdateable": null
+    },
+    {
+      "IdCompetition": "17",
+      "IdSeason": "285023",
+      "IdStage": null,
+      "IdTeam": "43883",
+      "IdCountry": "RSA",
+      "TeamName": [
+        {
+          "Locale": "en-GB",
+          "Description": "South Africa"
+        }
+      ],
+      "TeamType": 1,
+      "Properties": {},
+      "IsUpdateable": null
+    },
+    {
+      "IdCompetition": "17",
+      "IdSeason": "285023",
+      "IdStage": null,
+      "IdTeam": "43834",
+      "IdCountry": "QAT",
+      "TeamName": [
+        {
+          "Locale": "en-GB",
+          "Description": "Qatar"
+        }
+      ],
+      "TeamType": 1,
+      "Properties": {},
+      "IsUpdateable": null
+    },
+    {
+      "IdCompetition": "17",
+      "IdSeason": "285023",
+      "IdStage": null,
+      "IdTeam": "43942",
+      "IdCountry": "ENG",
+      "TeamName": [
+        {
+          "Locale": "en-GB",
+          "Description": "England"
+        }
+      ],
+      "TeamType": 1,
+      "Properties": {},
+      "IsUpdateable": null
+    },
+    {
+      "IdCompetition": "17",
+      "IdSeason": "285023",
+      "IdStage": null,
+      "IdTeam": "43835",
+      "IdCountry": "KSA",
+      "TeamName": [
+        {
+          "Locale": "en-GB",
+          "Description": "Saudi Arabia"
+        }
+      ],
+      "TeamType": 1,
+      "Properties": {},
+      "IsUpdateable": null
+    },
+    {
+      "IdCompetition": "17",
+      "IdSeason": "285023",
+      "IdStage": null,
+      "IdTeam": "43854",
+      "IdCountry": "CIV",
+      "TeamName": [
+        {
+          "Locale": "en-GB",
+          "Description": "Côte d'Ivoire"
+        }
+      ],
+      "TeamType": 1,
+      "Properties": {},
+      "IsUpdateable": null
+    },
+    {
+      "IdCompetition": "17",
+      "IdSeason": "285023",
+      "IdStage": null,
+      "IdTeam": "43879",
+      "IdCountry": "SEN",
+      "TeamName": [
+        {
+          "Locale": "en-GB",
+          "Description": "Senegal"
+        }
+      ],
+      "TeamType": 1,
+      "Properties": {},
+      "IsUpdateable": null
+    },
+    {
+      "IdCompetition": "17",
+      "IdSeason": "285023",
+      "IdStage": null,
+      "IdTeam": "43946",
+      "IdCountry": "FRA",
+      "TeamName": [
+        {
+          "Locale": "en-GB",
+          "Description": "France"
+        }
+      ],
+      "TeamType": 1,
+      "Properties": {},
+      "IsUpdateable": null
+    },
+    {
+      "IdCompetition": "17",
+      "IdSeason": "285023",
+      "IdStage": null,
+      "IdTeam": "43938",
+      "IdCountry": "CRO",
+      "TeamName": [
+        {
+          "Locale": "en-GB",
+          "Description": "Croatia"
+        }
+      ],
+      "TeamType": 1,
+      "Properties": {},
+      "IsUpdateable": null
+    },
+    {
+      "IdCompetition": "17",
+      "IdSeason": "285023",
+      "IdStage": null,
+      "IdTeam": "43963",
+      "IdCountry": "POR",
+      "TeamName": [
+        {
+          "Locale": "en-GB",
+          "Description": "Portugal"
+        }
+      ],
+      "TeamType": 1,
+      "Properties": {},
+      "IsUpdateable": null
+    },
+    {
+      "IdCompetition": "17",
+      "IdSeason": "285023",
+      "IdStage": null,
+      "IdTeam": "43961",
+      "IdCountry": "NOR",
+      "TeamName": [
+        {
+          "Locale": "en-GB",
+          "Description": "Norway"
+        }
+      ],
+      "TeamType": 1,
+      "Properties": {},
+      "IsUpdateable": null
+    },
+    {
+      "IdCompetition": "17",
+      "IdSeason": "285023",
+      "IdStage": null,
+      "IdTeam": "43948",
+      "IdCountry": "GER",
+      "TeamName": [
+        {
+          "Locale": "en-GB",
+          "Description": "Germany"
+        }
+      ],
+      "TeamType": 1,
+      "Properties": {},
+      "IsUpdateable": null
+    },
+    {
+      "IdCompetition": "17",
+      "IdSeason": "285023",
+      "IdStage": null,
+      "IdTeam": "43960",
+      "IdCountry": "NED",
+      "TeamName": [
+        {
+          "Locale": "en-GB",
+          "Description": "Netherlands"
+        }
+      ],
+      "TeamType": 1,
+      "Properties": {},
+      "IsUpdateable": null
+    },
+    {
+      "IdCompetition": "17",
+      "IdSeason": "285023",
+      "IdStage": null,
+      "IdTeam": "43935",
+      "IdCountry": "BEL",
+      "TeamName": [
+        {
+          "Locale": "en-GB",
+          "Description": "Belgium"
+        }
+      ],
+      "TeamType": 1,
+      "Properties": {},
+      "IsUpdateable": null
+    },
+    {
+      "IdCompetition": "17",
+      "IdSeason": "285023",
+      "IdStage": null,
+      "IdTeam": "43969",
+      "IdCountry": "ESP",
+      "TeamName": [
+        {
+          "Locale": "en-GB",
+          "Description": "Spain"
+        }
+      ],
+      "TeamType": 1,
+      "Properties": {},
+      "IsUpdateable": null
+    },
+    {
+      "IdCompetition": "17",
+      "IdSeason": "285023",
+      "IdStage": null,
+      "IdTeam": "43971",
+      "IdCountry": "SUI",
+      "TeamName": [
+        {
+          "Locale": "en-GB",
+          "Description": "Switzerland"
+        }
+      ],
+      "TeamType": 1,
+      "Properties": {},
+      "IsUpdateable": null
+    },
+    {
+      "IdCompetition": "17",
+      "IdSeason": "285023",
+      "IdStage": null,
+      "IdTeam": "43934",
+      "IdCountry": "AUT",
+      "TeamName": [
+        {
+          "Locale": "en-GB",
+          "Description": "Austria"
+        }
+      ],
+      "TeamType": 1,
+      "Properties": {},
+      "IsUpdateable": null
+    },
+    {
+      "IdCompetition": "17",
+      "IdSeason": "285023",
+      "IdStage": null,
+      "IdTeam": "43967",
+      "IdCountry": "SCO",
+      "TeamName": [
+        {
+          "Locale": "en-GB",
+          "Description": "Scotland"
+        }
+      ],
+      "TeamType": 1,
+      "Properties": {},
+      "IsUpdateable": null
+    },
+    {
+      "IdCompetition": "17",
+      "IdSeason": "285023",
+      "IdStage": null,
+      "IdTeam": "43914",
+      "IdCountry": "PAN",
+      "TeamName": [
+        {
+          "Locale": "en-GB",
+          "Description": "Panama"
+        }
+      ],
+      "TeamType": 1,
+      "Properties": {},
+      "IsUpdateable": null
+    },
+    {
+      "IdCompetition": "17",
+      "IdSeason": "285023",
+      "IdStage": null,
+      "IdTeam": "1895293",
+      "IdCountry": "CUW",
+      "TeamName": [
+        {
+          "Locale": "en-GB",
+          "Description": "Curaçao"
+        }
+      ],
+      "TeamType": 1,
+      "Properties": {},
+      "IsUpdateable": null
+    },
+    {
+      "IdCompetition": "17",
+      "IdSeason": "285023",
+      "IdStage": null,
+      "IdTeam": "43908",
+      "IdCountry": "HAI",
+      "TeamName": [
+        {
+          "Locale": "en-GB",
+          "Description": "Haiti"
+        }
+      ],
+      "TeamType": 1,
+      "Properties": {},
+      "IsUpdateable": null
+    },
+    {
+      "IdCompetition": "17",
+      "IdSeason": "285023",
+      "IdStage": null,
+      "IdTeam": "44037",
+      "IdCountry": "BIH",
+      "TeamName": [
+        {
+          "Locale": "en-GB",
+          "Description": "Bosnia and Herzegovina"
+        }
+      ],
+      "TeamType": 1,
+      "Properties": {},
+      "IsUpdateable": null
+    },
+    {
+      "IdCompetition": "17",
+      "IdSeason": "285023",
+      "IdStage": null,
+      "IdTeam": "20014",
+      "IdCountry": "COD",
+      "TeamName": [
+        {
+          "Locale": "en-GB",
+          "Description": "Congo DR"
+        }
+      ],
+      "TeamType": 1,
+      "Properties": {},
+      "IsUpdateable": null
+    },
+    {
+      "IdCompetition": "17",
+      "IdSeason": "285023",
+      "IdStage": null,
+      "IdTeam": "43995",
+      "IdCountry": "CZE",
+      "TeamName": [
+        {
+          "Locale": "en-GB",
+          "Description": "Czechia"
+        }
+      ],
+      "TeamType": 1,
+      "Properties": {},
+      "IsUpdateable": null
+    },
+    {
+      "IdCompetition": "17",
+      "IdSeason": "285023",
+      "IdStage": null,
+      "IdTeam": "43818",
+      "IdCountry": "IRQ",
+      "TeamName": [
+        {
+          "Locale": "en-GB",
+          "Description": "Iraq"
+        }
+      ],
+      "TeamType": 1,
+      "Properties": {},
+      "IsUpdateable": null
+    },
+    {
+      "IdCompetition": "17",
+      "IdSeason": "285023",
+      "IdStage": null,
+      "IdTeam": "43970",
+      "IdCountry": "SWE",
+      "TeamName": [
+        {
+          "Locale": "en-GB",
+          "Description": "Sweden"
+        }
+      ],
+      "TeamType": 1,
+      "Properties": {},
+      "IsUpdateable": null
+    },
+    {
+      "IdCompetition": "17",
+      "IdSeason": "285023",
+      "IdStage": null,
+      "IdTeam": "43972",
+      "IdCountry": "TUR",
+      "TeamName": [
+        {
+          "Locale": "en-GB",
+          "Description": "Türkiye"
+        }
+      ],
+      "TeamType": 1,
+      "Properties": {},
+      "IsUpdateable": null
+    }
+  ]
+}
