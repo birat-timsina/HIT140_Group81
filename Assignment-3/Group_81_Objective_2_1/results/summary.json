@@ -1,0 +1,34 @@
+{
+  "matches": 104,
+  "features": 8,
+  "train_n": 82,
+  "later_n": 22,
+  "cv": {
+    "MAE": 1.2144001488075928,
+    "RMSE": 1.624623641721846,
+    "R2": 0.31811583364761287
+  },
+  "later": {
+    "MAE": 1.4195750143301729,
+    "RMSE": 1.5915397414034618,
+    "R2": 0.054763766956180904
+  },
+  "zero_baseline": {
+    "MAE": 1.4090909090909092,
+    "RMSE": 1.6376257758774382,
+    "R2": -0.0007710100231304029
+  },
+  "sequential_n": 64,
+  "sequential": {
+    "MAE": 1.2542976083645738,
+    "RMSE": 1.5741159464592798,
+    "R2": 0.28921935788026276
+  },
+  "sequential_zero": {
+    "MAE": 1.484375,
+    "RMSE": 1.875,
+    "R2": -0.0084739827719027
+  },
+  "evaluation_status": "Retrospective redesign; final dates were seen in version 1",
+  "overlap_status": "Pending teammate final eight definitions"
+}

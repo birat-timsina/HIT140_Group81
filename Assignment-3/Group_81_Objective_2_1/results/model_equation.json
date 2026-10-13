@@ -1,0 +1,25 @@
+{
+  "features": [
+    "competitive_form_gap",
+    "clean_sheet_gap",
+    "scoring_failure_gap",
+    "margin_volatility_gap",
+    "form_momentum_gap",
+    "schedule_strength_gap",
+    "workload_30d_gap",
+    "world_cup_experience_gap"
+  ],
+  "intercept": 0,
+  "coefficients": {
+    "competitive_form_gap": 0.6983458761969775,
+    "clean_sheet_gap": -0.7729493747473201,
+    "scoring_failure_gap": -1.4928433707634996,
+    "margin_volatility_gap": -0.14808565662839865,
+    "form_momentum_gap": 0.042076267668414546,
+    "schedule_strength_gap": -0.4654861085649273,
+    "workload_30d_gap": -0.3342664714588795,
+    "world_cup_experience_gap": 0.6528983214379973
+  },
+  "training_n": 82,
+  "evaluation_n": 22
+}

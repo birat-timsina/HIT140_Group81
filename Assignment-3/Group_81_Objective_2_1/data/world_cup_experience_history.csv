@@ -1,0 +1,1577 @@
+match_id,side,history_id,date,team,opponent,gf,ga,points,tournament,competitive,source
+400021443,a,history_csv_line_37883,2014-06-13,Mexico,Cameroon,1,0,3,FIFA World Cup,True,international_results
+400021443,a,history_csv_line_37896,2014-06-17,Mexico,Brazil,0,0,1,FIFA World Cup,True,international_results
+400021443,a,history_csv_line_37918,2014-06-23,Mexico,Croatia,3,1,3,FIFA World Cup,True,international_results
+400021443,a,history_csv_line_37937,2014-06-29,Mexico,Netherlands,1,2,0,FIFA World Cup,True,international_results
+400021443,a,history_csv_line_41668,2018-06-17,Mexico,Germany,1,0,3,FIFA World Cup,True,international_results
+400021443,a,history_csv_line_41686,2018-06-23,Mexico,South Korea,2,1,3,FIFA World Cup,True,international_results
+400021443,a,history_csv_line_41700,2018-06-27,Mexico,Sweden,0,3,0,FIFA World Cup,True,international_results
+400021443,a,history_csv_line_41711,2018-07-02,Mexico,Brazil,0,2,0,FIFA World Cup,True,international_results
+400021443,a,history_csv_line_45764,2022-11-22,Mexico,Poland,0,0,1,FIFA World Cup,True,international_results
+400021443,a,history_csv_line_45780,2022-11-26,Mexico,Argentina,0,2,0,FIFA World Cup,True,international_results
+400021443,a,history_csv_line_45796,2022-11-30,Mexico,Saudi Arabia,2,1,3,FIFA World Cup,True,international_results
+400021441,a,history_csv_line_37897,2014-06-17,South Korea,Russia,1,1,1,FIFA World Cup,True,international_results
+400021441,a,history_csv_line_37914,2014-06-22,South Korea,Algeria,2,4,0,FIFA World Cup,True,international_results
+400021441,a,history_csv_line_37930,2014-06-26,South Korea,Belgium,0,1,0,FIFA World Cup,True,international_results
+400021441,a,history_csv_line_41670,2018-06-18,South Korea,Sweden,0,1,0,FIFA World Cup,True,international_results
+400021441,a,history_csv_line_41686,2018-06-23,South Korea,Mexico,1,2,0,FIFA World Cup,True,international_results
+400021441,a,history_csv_line_41699,2018-06-27,South Korea,Germany,2,0,3,FIFA World Cup,True,international_results
+400021441,a,history_csv_line_45773,2022-11-24,South Korea,Uruguay,0,0,1,FIFA World Cup,True,international_results
+400021441,a,history_csv_line_45789,2022-11-28,South Korea,Ghana,2,3,0,FIFA World Cup,True,international_results
+400021441,a,history_csv_line_45806,2022-12-02,South Korea,Portugal,2,1,3,FIFA World Cup,True,international_results
+400021441,a,history_csv_line_45812,2022-12-05,South Korea,Brazil,1,4,0,FIFA World Cup,True,international_results
+400021449,a,history_csv_line_45770,2022-11-23,Canada,Belgium,0,1,0,FIFA World Cup,True,international_results
+400021449,a,history_csv_line_45786,2022-11-27,Canada,Croatia,1,4,0,FIFA World Cup,True,international_results
+400021449,a,history_csv_line_45802,2022-12-01,Canada,Morocco,1,2,0,FIFA World Cup,True,international_results
+400021449,b,history_csv_line_37889,2014-06-15,Bosnia and Herzegovina,Argentina,1,2,0,FIFA World Cup,True,international_results
+400021449,b,history_csv_line_37911,2014-06-21,Bosnia and Herzegovina,Nigeria,0,1,0,FIFA World Cup,True,international_results
+400021449,b,history_csv_line_37924,2014-06-25,Bosnia and Herzegovina,Iran,3,1,3,FIFA World Cup,True,international_results
+400021458,a,history_csv_line_37893,2014-06-16,United States,Ghana,2,1,3,FIFA World Cup,True,international_results
+400021458,a,history_csv_line_37915,2014-06-22,United States,Portugal,2,2,1,FIFA World Cup,True,international_results
+400021458,a,history_csv_line_37932,2014-06-26,United States,Germany,0,1,0,FIFA World Cup,True,international_results
+400021458,a,history_csv_line_37941,2014-07-01,United States,Belgium,1,2,0,FIFA World Cup,True,international_results
+400021458,a,history_csv_line_45762,2022-11-21,United States,Wales,1,1,1,FIFA World Cup,True,international_results
+400021458,a,history_csv_line_45778,2022-11-25,United States,England,0,0,1,FIFA World Cup,True,international_results
+400021458,a,history_csv_line_45794,2022-11-29,United States,Iran,1,0,3,FIFA World Cup,True,international_results
+400021458,a,history_csv_line_45807,2022-12-03,United States,Netherlands,1,3,0,FIFA World Cup,True,international_results
+400021447,a,history_csv_line_45759,2022-11-20,Qatar,Ecuador,0,2,0,FIFA World Cup,True,international_results
+400021447,a,history_csv_line_45775,2022-11-25,Qatar,Senegal,1,3,0,FIFA World Cup,True,international_results
+400021447,a,history_csv_line_45792,2022-11-29,Qatar,Netherlands,0,2,0,FIFA World Cup,True,international_results
+400021447,b,history_csv_line_37891,2014-06-15,Switzerland,Ecuador,2,1,3,FIFA World Cup,True,international_results
+400021447,b,history_csv_line_37907,2014-06-20,Switzerland,France,2,5,0,FIFA World Cup,True,international_results
+400021447,b,history_csv_line_37926,2014-06-25,Switzerland,Honduras,3,0,3,FIFA World Cup,True,international_results
+400021447,b,history_csv_line_37940,2014-07-01,Switzerland,Argentina,0,1,0,FIFA World Cup,True,international_results
+400021447,b,history_csv_line_41669,2018-06-17,Switzerland,Brazil,1,1,1,FIFA World Cup,True,international_results
+400021447,b,history_csv_line_41684,2018-06-22,Switzerland,Serbia,2,1,3,FIFA World Cup,True,international_results
+400021447,b,history_csv_line_41702,2018-06-27,Switzerland,Costa Rica,2,2,1,FIFA World Cup,True,international_results
+400021447,b,history_csv_line_41713,2018-07-03,Switzerland,Sweden,0,1,0,FIFA World Cup,True,international_results
+400021447,b,history_csv_line_45771,2022-11-24,Switzerland,Cameroon,1,0,3,FIFA World Cup,True,international_results
+400021447,b,history_csv_line_45788,2022-11-28,Switzerland,Brazil,0,1,0,FIFA World Cup,True,international_results
+400021447,b,history_csv_line_45803,2022-12-02,Switzerland,Serbia,3,2,3,FIFA World Cup,True,international_results
+400021447,b,history_csv_line_45814,2022-12-06,Switzerland,Portugal,1,6,0,FIFA World Cup,True,international_results
+400021456,a,history_csv_line_37881,2014-06-12,Brazil,Croatia,3,1,3,FIFA World Cup,True,international_results
+400021456,a,history_csv_line_37896,2014-06-17,Brazil,Mexico,0,0,1,FIFA World Cup,True,international_results
+400021456,a,history_csv_line_37917,2014-06-23,Brazil,Cameroon,4,1,3,FIFA World Cup,True,international_results
+400021456,a,history_csv_line_37933,2014-06-28,Brazil,Chile,1,1,1,FIFA World Cup,True,international_results
+400021456,a,history_csv_line_37943,2014-07-04,Brazil,Colombia,2,1,3,FIFA World Cup,True,international_results
+400021456,a,history_csv_line_37948,2014-07-08,Brazil,Germany,1,7,0,FIFA World Cup,True,international_results
+400021456,a,history_csv_line_37951,2014-07-12,Brazil,Netherlands,0,3,0,FIFA World Cup,True,international_results
+400021456,a,history_csv_line_41669,2018-06-17,Brazil,Switzerland,1,1,1,FIFA World Cup,True,international_results
+400021456,a,history_csv_line_41682,2018-06-22,Brazil,Costa Rica,2,0,3,FIFA World Cup,True,international_results
+400021456,a,history_csv_line_41701,2018-06-27,Brazil,Serbia,2,0,3,FIFA World Cup,True,international_results
+400021456,a,history_csv_line_41711,2018-07-02,Brazil,Mexico,2,0,3,FIFA World Cup,True,international_results
+400021456,a,history_csv_line_41717,2018-07-06,Brazil,Belgium,1,2,0,FIFA World Cup,True,international_results
+400021456,a,history_csv_line_45772,2022-11-24,Brazil,Serbia,2,0,3,FIFA World Cup,True,international_results
+400021456,a,history_csv_line_45788,2022-11-28,Brazil,Switzerland,1,0,3,FIFA World Cup,True,international_results
+400021456,a,history_csv_line_45804,2022-12-02,Brazil,Cameroon,0,1,0,FIFA World Cup,True,international_results
+400021456,a,history_csv_line_45812,2022-12-05,Brazil,South Korea,4,1,3,FIFA World Cup,True,international_results
+400021456,a,history_csv_line_45815,2022-12-09,Brazil,Croatia,1,1,1,FIFA World Cup,True,international_results
+400021456,b,history_csv_line_41661,2018-06-15,Morocco,Iran,0,1,0,FIFA World Cup,True,international_results
+400021456,b,history_csv_line_41676,2018-06-20,Morocco,Portugal,0,1,0,FIFA World Cup,True,international_results
+400021456,b,history_csv_line_41693,2018-06-25,Morocco,Spain,2,2,1,FIFA World Cup,True,international_results
+400021456,b,history_csv_line_45769,2022-11-23,Morocco,Croatia,0,0,1,FIFA World Cup,True,international_results
+400021456,b,history_csv_line_45785,2022-11-27,Morocco,Belgium,2,0,3,FIFA World Cup,True,international_results
+400021456,b,history_csv_line_45802,2022-12-01,Morocco,Canada,2,1,3,FIFA World Cup,True,international_results
+400021456,b,history_csv_line_45813,2022-12-06,Morocco,Spain,0,0,1,FIFA World Cup,True,international_results
+400021456,b,history_csv_line_45818,2022-12-10,Morocco,Portugal,1,0,3,FIFA World Cup,True,international_results
+400021456,b,history_csv_line_45822,2022-12-14,Morocco,France,0,2,0,FIFA World Cup,True,international_results
+400021456,b,history_csv_line_45826,2022-12-17,Morocco,Croatia,1,2,0,FIFA World Cup,True,international_results
+400021463,a,history_csv_line_37882,2014-06-13,Australia,Chile,1,3,0,FIFA World Cup,True,international_results
+400021463,a,history_csv_line_37898,2014-06-18,Australia,Netherlands,2,3,0,FIFA World Cup,True,international_results
+400021463,a,history_csv_line_37916,2014-06-23,Australia,Spain,0,3,0,FIFA World Cup,True,international_results
+400021463,a,history_csv_line_41663,2018-06-16,Australia,France,1,2,0,FIFA World Cup,True,international_results
+400021463,a,history_csv_line_41679,2018-06-21,Australia,Denmark,1,1,1,FIFA World Cup,True,international_results
+400021463,a,history_csv_line_41695,2018-06-26,Australia,Peru,0,2,0,FIFA World Cup,True,international_results
+400021463,a,history_csv_line_45766,2022-11-22,Australia,France,1,4,0,FIFA World Cup,True,international_results
+400021463,a,history_csv_line_45781,2022-11-26,Australia,Tunisia,1,0,3,FIFA World Cup,True,international_results
+400021463,a,history_csv_line_45797,2022-11-30,Australia,Denmark,1,0,3,FIFA World Cup,True,international_results
+400021463,a,history_csv_line_45808,2022-12-03,Australia,Argentina,1,2,0,FIFA World Cup,True,international_results
+400021464,a,history_csv_line_37892,2014-06-16,Germany,Portugal,4,0,3,FIFA World Cup,True,international_results
+400021464,a,history_csv_line_37909,2014-06-21,Germany,Ghana,2,2,1,FIFA World Cup,True,international_results
+400021464,a,history_csv_line_37932,2014-06-26,Germany,United States,1,0,3,FIFA World Cup,True,international_results
+400021464,a,history_csv_line_37939,2014-06-30,Germany,Algeria,2,1,3,FIFA World Cup,True,international_results
+400021464,a,history_csv_line_37944,2014-07-04,Germany,France,1,0,3,FIFA World Cup,True,international_results
+400021464,a,history_csv_line_37948,2014-07-08,Germany,Brazil,7,1,3,FIFA World Cup,True,international_results
+400021464,a,history_csv_line_37953,2014-07-13,Germany,Argentina,1,0,3,FIFA World Cup,True,international_results
+400021464,a,history_csv_line_41668,2018-06-17,Germany,Mexico,0,1,0,FIFA World Cup,True,international_results
+400021464,a,history_csv_line_41687,2018-06-23,Germany,Sweden,2,1,3,FIFA World Cup,True,international_results
+400021464,a,history_csv_line_41699,2018-06-27,Germany,South Korea,0,2,0,FIFA World Cup,True,international_results
+400021464,a,history_csv_line_45767,2022-11-23,Germany,Japan,1,2,0,FIFA World Cup,True,international_results
+400021464,a,history_csv_line_45784,2022-11-27,Germany,Spain,1,1,1,FIFA World Cup,True,international_results
+400021464,a,history_csv_line_45800,2022-12-01,Germany,Costa Rica,4,2,3,FIFA World Cup,True,international_results
+400021470,a,history_csv_line_37884,2014-06-13,Netherlands,Spain,5,1,3,FIFA World Cup,True,international_results
+400021470,a,history_csv_line_37898,2014-06-18,Netherlands,Australia,3,2,3,FIFA World Cup,True,international_results
+400021470,a,history_csv_line_37919,2014-06-23,Netherlands,Chile,2,0,3,FIFA World Cup,True,international_results
+400021470,a,history_csv_line_37937,2014-06-29,Netherlands,Mexico,2,1,3,FIFA World Cup,True,international_results
+400021470,a,history_csv_line_37946,2014-07-05,Netherlands,Costa Rica,0,0,1,FIFA World Cup,True,international_results
+400021470,a,history_csv_line_37949,2014-07-09,Netherlands,Argentina,0,0,1,FIFA World Cup,True,international_results
+400021470,a,history_csv_line_37951,2014-07-12,Netherlands,Brazil,3,0,3,FIFA World Cup,True,international_results
+400021470,a,history_csv_line_45760,2022-11-21,Netherlands,Senegal,2,0,3,FIFA World Cup,True,international_results
+400021470,a,history_csv_line_45776,2022-11-25,Netherlands,Ecuador,1,1,1,FIFA World Cup,True,international_results
+400021470,a,history_csv_line_45792,2022-11-29,Netherlands,Qatar,2,0,3,FIFA World Cup,True,international_results
+400021470,a,history_csv_line_45807,2022-12-03,Netherlands,United States,3,1,3,FIFA World Cup,True,international_results
+400021470,a,history_csv_line_45816,2022-12-09,Netherlands,Argentina,2,2,1,FIFA World Cup,True,international_results
+400021470,b,history_csv_line_37887,2014-06-14,Japan,Ivory Coast,1,2,0,FIFA World Cup,True,international_results
+400021470,b,history_csv_line_37903,2014-06-19,Japan,Greece,0,0,1,FIFA World Cup,True,international_results
+400021470,b,history_csv_line_37923,2014-06-24,Japan,Colombia,1,4,0,FIFA World Cup,True,international_results
+400021470,b,history_csv_line_41673,2018-06-19,Japan,Colombia,2,1,3,FIFA World Cup,True,international_results
+400021470,b,history_csv_line_41689,2018-06-24,Japan,Senegal,2,2,1,FIFA World Cup,True,international_results
+400021470,b,history_csv_line_41703,2018-06-28,Japan,Poland,0,1,0,FIFA World Cup,True,international_results
+400021470,b,history_csv_line_41712,2018-07-02,Japan,Belgium,2,3,0,FIFA World Cup,True,international_results
+400021470,b,history_csv_line_45767,2022-11-23,Japan,Germany,2,1,3,FIFA World Cup,True,international_results
+400021470,b,history_csv_line_45783,2022-11-27,Japan,Costa Rica,0,1,0,FIFA World Cup,True,international_results
+400021470,b,history_csv_line_45799,2022-12-01,Japan,Spain,2,1,3,FIFA World Cup,True,international_results
+400021470,b,history_csv_line_45811,2022-12-05,Japan,Croatia,1,1,1,FIFA World Cup,True,international_results
+400021467,a,history_csv_line_37887,2014-06-14,Ivory Coast,Japan,2,1,3,FIFA World Cup,True,international_results
+400021467,a,history_csv_line_37902,2014-06-19,Ivory Coast,Colombia,1,2,0,FIFA World Cup,True,international_results
+400021467,a,history_csv_line_37921,2014-06-24,Ivory Coast,Greece,1,2,0,FIFA World Cup,True,international_results
+400021467,b,history_csv_line_37891,2014-06-15,Ecuador,Switzerland,1,2,0,FIFA World Cup,True,international_results
+400021467,b,history_csv_line_37905,2014-06-20,Ecuador,Honduras,2,1,3,FIFA World Cup,True,international_results
+400021467,b,history_csv_line_37925,2014-06-25,Ecuador,France,0,0,1,FIFA World Cup,True,international_results
+400021467,b,history_csv_line_45759,2022-11-20,Ecuador,Qatar,2,0,3,FIFA World Cup,True,international_results
+400021467,b,history_csv_line_45776,2022-11-25,Ecuador,Netherlands,1,1,1,FIFA World Cup,True,international_results
+400021467,b,history_csv_line_45791,2022-11-29,Ecuador,Senegal,1,2,0,FIFA World Cup,True,international_results
+400021474,a,history_csv_line_41670,2018-06-18,Sweden,South Korea,1,0,3,FIFA World Cup,True,international_results
+400021474,a,history_csv_line_41687,2018-06-23,Sweden,Germany,1,2,0,FIFA World Cup,True,international_results
+400021474,a,history_csv_line_41700,2018-06-27,Sweden,Mexico,3,0,3,FIFA World Cup,True,international_results
+400021474,a,history_csv_line_41713,2018-07-03,Sweden,Switzerland,1,0,3,FIFA World Cup,True,international_results
+400021474,a,history_csv_line_41718,2018-07-07,Sweden,England,0,2,0,FIFA World Cup,True,international_results
+400021474,b,history_csv_line_41672,2018-06-18,Tunisia,England,1,2,0,FIFA World Cup,True,international_results
+400021474,b,history_csv_line_41685,2018-06-23,Tunisia,Belgium,2,5,0,FIFA World Cup,True,international_results
+400021474,b,history_csv_line_41705,2018-06-28,Tunisia,Panama,2,1,3,FIFA World Cup,True,international_results
+400021474,b,history_csv_line_45765,2022-11-22,Tunisia,Denmark,0,0,1,FIFA World Cup,True,international_results
+400021474,b,history_csv_line_45781,2022-11-26,Tunisia,Australia,0,1,0,FIFA World Cup,True,international_results
+400021474,b,history_csv_line_45798,2022-11-30,Tunisia,France,1,0,3,FIFA World Cup,True,international_results
+400021482,a,history_csv_line_37884,2014-06-13,Spain,Netherlands,1,5,0,FIFA World Cup,True,international_results
+400021482,a,history_csv_line_37901,2014-06-18,Spain,Chile,0,2,0,FIFA World Cup,True,international_results
+400021482,a,history_csv_line_37916,2014-06-23,Spain,Australia,3,0,3,FIFA World Cup,True,international_results
+400021482,a,history_csv_line_41662,2018-06-15,Spain,Portugal,3,3,1,FIFA World Cup,True,international_results
+400021482,a,history_csv_line_41678,2018-06-20,Spain,Iran,1,0,3,FIFA World Cup,True,international_results
+400021482,a,history_csv_line_41693,2018-06-25,Spain,Morocco,2,2,1,FIFA World Cup,True,international_results
+400021482,a,history_csv_line_41709,2018-07-01,Spain,Russia,1,1,1,FIFA World Cup,True,international_results
+400021482,a,history_csv_line_45768,2022-11-23,Spain,Costa Rica,7,0,3,FIFA World Cup,True,international_results
+400021482,a,history_csv_line_45784,2022-11-27,Spain,Germany,1,1,1,FIFA World Cup,True,international_results
+400021482,a,history_csv_line_45799,2022-12-01,Spain,Japan,1,2,0,FIFA World Cup,True,international_results
+400021482,a,history_csv_line_45813,2022-12-06,Spain,Morocco,0,0,1,FIFA World Cup,True,international_results
+400021478,a,history_csv_line_37895,2014-06-17,Belgium,Algeria,2,1,3,FIFA World Cup,True,international_results
+400021478,a,history_csv_line_37912,2014-06-22,Belgium,Russia,1,0,3,FIFA World Cup,True,international_results
+400021478,a,history_csv_line_37930,2014-06-26,Belgium,South Korea,1,0,3,FIFA World Cup,True,international_results
+400021478,a,history_csv_line_37941,2014-07-01,Belgium,United States,2,1,3,FIFA World Cup,True,international_results
+400021478,a,history_csv_line_37945,2014-07-05,Belgium,Argentina,0,1,0,FIFA World Cup,True,international_results
+400021478,a,history_csv_line_41671,2018-06-18,Belgium,Panama,3,0,3,FIFA World Cup,True,international_results
+400021478,a,history_csv_line_41685,2018-06-23,Belgium,Tunisia,5,2,3,FIFA World Cup,True,international_results
+400021478,a,history_csv_line_41706,2018-06-28,Belgium,England,1,0,3,FIFA World Cup,True,international_results
+400021478,a,history_csv_line_41712,2018-07-02,Belgium,Japan,3,2,3,FIFA World Cup,True,international_results
+400021478,a,history_csv_line_41717,2018-07-06,Belgium,Brazil,2,1,3,FIFA World Cup,True,international_results
+400021478,a,history_csv_line_41720,2018-07-10,Belgium,France,0,1,0,FIFA World Cup,True,international_results
+400021478,a,history_csv_line_41722,2018-07-14,Belgium,England,2,0,3,FIFA World Cup,True,international_results
+400021478,a,history_csv_line_45770,2022-11-23,Belgium,Canada,1,0,3,FIFA World Cup,True,international_results
+400021478,a,history_csv_line_45785,2022-11-27,Belgium,Morocco,0,2,0,FIFA World Cup,True,international_results
+400021478,a,history_csv_line_45801,2022-12-01,Belgium,Croatia,0,0,1,FIFA World Cup,True,international_results
+400021478,b,history_csv_line_41660,2018-06-15,Egypt,Uruguay,0,1,0,FIFA World Cup,True,international_results
+400021478,b,history_csv_line_41675,2018-06-19,Egypt,Russia,1,3,0,FIFA World Cup,True,international_results
+400021478,b,history_csv_line_41692,2018-06-25,Egypt,Saudi Arabia,1,2,0,FIFA World Cup,True,international_results
+400021486,a,history_csv_line_41659,2018-06-14,Saudi Arabia,Russia,0,5,0,FIFA World Cup,True,international_results
+400021486,a,history_csv_line_41677,2018-06-20,Saudi Arabia,Uruguay,0,1,0,FIFA World Cup,True,international_results
+400021486,a,history_csv_line_41692,2018-06-25,Saudi Arabia,Egypt,2,1,3,FIFA World Cup,True,international_results
+400021486,a,history_csv_line_45763,2022-11-22,Saudi Arabia,Argentina,2,1,3,FIFA World Cup,True,international_results
+400021486,a,history_csv_line_45779,2022-11-26,Saudi Arabia,Poland,0,2,0,FIFA World Cup,True,international_results
+400021486,a,history_csv_line_45796,2022-11-30,Saudi Arabia,Mexico,1,2,0,FIFA World Cup,True,international_results
+400021486,b,history_csv_line_37888,2014-06-14,Uruguay,Costa Rica,1,3,0,FIFA World Cup,True,international_results
+400021486,b,history_csv_line_37904,2014-06-19,Uruguay,England,2,1,3,FIFA World Cup,True,international_results
+400021486,b,history_csv_line_37922,2014-06-24,Uruguay,Italy,1,0,3,FIFA World Cup,True,international_results
+400021486,b,history_csv_line_37934,2014-06-28,Uruguay,Colombia,0,2,0,FIFA World Cup,True,international_results
+400021486,b,history_csv_line_41660,2018-06-15,Uruguay,Egypt,1,0,3,FIFA World Cup,True,international_results
+400021486,b,history_csv_line_41677,2018-06-20,Uruguay,Saudi Arabia,1,0,3,FIFA World Cup,True,international_results
+400021486,b,history_csv_line_41691,2018-06-25,Uruguay,Russia,3,0,3,FIFA World Cup,True,international_results
+400021486,b,history_csv_line_41708,2018-06-30,Uruguay,Portugal,2,1,3,FIFA World Cup,True,international_results
+400021486,b,history_csv_line_41716,2018-07-06,Uruguay,France,0,2,0,FIFA World Cup,True,international_results
+400021486,b,history_csv_line_45773,2022-11-24,Uruguay,South Korea,0,0,1,FIFA World Cup,True,international_results
+400021486,b,history_csv_line_45790,2022-11-28,Uruguay,Portugal,0,2,0,FIFA World Cup,True,international_results
+400021486,b,history_csv_line_45805,2022-12-02,Uruguay,Ghana,2,0,3,FIFA World Cup,True,international_results
+400021476,a,history_csv_line_37894,2014-06-16,Iran,Nigeria,0,0,1,FIFA World Cup,True,international_results
+400021476,a,history_csv_line_37908,2014-06-21,Iran,Argentina,0,1,0,FIFA World Cup,True,international_results
+400021476,a,history_csv_line_37924,2014-06-25,Iran,Bosnia and Herzegovina,1,3,0,FIFA World Cup,True,international_results
+400021476,a,history_csv_line_41661,2018-06-15,Iran,Morocco,1,0,3,FIFA World Cup,True,international_results
+400021476,a,history_csv_line_41678,2018-06-20,Iran,Spain,0,1,0,FIFA World Cup,True,international_results
+400021476,a,history_csv_line_41694,2018-06-25,Iran,Portugal,1,1,1,FIFA World Cup,True,international_results
+400021476,a,history_csv_line_45761,2022-11-21,Iran,England,2,6,0,FIFA World Cup,True,international_results
+400021476,a,history_csv_line_45777,2022-11-25,Iran,Wales,2,0,3,FIFA World Cup,True,international_results
+400021476,a,history_csv_line_45794,2022-11-29,Iran,United States,0,1,0,FIFA World Cup,True,international_results
+400021490,a,history_csv_line_37890,2014-06-15,France,Honduras,3,0,3,FIFA World Cup,True,international_results
+400021490,a,history_csv_line_37907,2014-06-20,France,Switzerland,5,2,3,FIFA World Cup,True,international_results
+400021490,a,history_csv_line_37925,2014-06-25,France,Ecuador,0,0,1,FIFA World Cup,True,international_results
+400021490,a,history_csv_line_37938,2014-06-30,France,Nigeria,2,0,3,FIFA World Cup,True,international_results
+400021490,a,history_csv_line_37944,2014-07-04,France,Germany,0,1,0,FIFA World Cup,True,international_results
+400021490,a,history_csv_line_41663,2018-06-16,France,Australia,2,1,3,FIFA World Cup,True,international_results
+400021490,a,history_csv_line_41680,2018-06-21,France,Peru,1,0,3,FIFA World Cup,True,international_results
+400021490,a,history_csv_line_41696,2018-06-26,France,Denmark,0,0,1,FIFA World Cup,True,international_results
+400021490,a,history_csv_line_41707,2018-06-30,France,Argentina,4,3,3,FIFA World Cup,True,international_results
+400021490,a,history_csv_line_41716,2018-07-06,France,Uruguay,2,0,3,FIFA World Cup,True,international_results
+400021490,a,history_csv_line_41720,2018-07-10,France,Belgium,1,0,3,FIFA World Cup,True,international_results
+400021490,a,history_csv_line_41723,2018-07-15,France,Croatia,4,2,3,FIFA World Cup,True,international_results
+400021490,a,history_csv_line_45766,2022-11-22,France,Australia,4,1,3,FIFA World Cup,True,international_results
+400021490,a,history_csv_line_45782,2022-11-26,France,Denmark,2,1,3,FIFA World Cup,True,international_results
+400021490,a,history_csv_line_45798,2022-11-30,France,Tunisia,0,1,0,FIFA World Cup,True,international_results
+400021490,a,history_csv_line_45809,2022-12-04,France,Poland,3,1,3,FIFA World Cup,True,international_results
+400021490,a,history_csv_line_45819,2022-12-10,France,England,2,1,3,FIFA World Cup,True,international_results
+400021490,a,history_csv_line_45822,2022-12-14,France,Morocco,2,0,3,FIFA World Cup,True,international_results
+400021490,a,history_csv_line_45828,2022-12-18,France,Argentina,3,3,1,FIFA World Cup,True,international_results
+400021490,b,history_csv_line_41674,2018-06-19,Senegal,Poland,2,1,3,FIFA World Cup,True,international_results
+400021490,b,history_csv_line_41689,2018-06-24,Senegal,Japan,2,2,1,FIFA World Cup,True,international_results
+400021490,b,history_csv_line_41704,2018-06-28,Senegal,Colombia,0,1,0,FIFA World Cup,True,international_results
+400021490,b,history_csv_line_45760,2022-11-21,Senegal,Netherlands,0,2,0,FIFA World Cup,True,international_results
+400021490,b,history_csv_line_45775,2022-11-25,Senegal,Qatar,3,1,3,FIFA World Cup,True,international_results
+400021490,b,history_csv_line_45791,2022-11-29,Senegal,Ecuador,2,1,3,FIFA World Cup,True,international_results
+400021490,b,history_csv_line_45810,2022-12-04,Senegal,England,0,3,0,FIFA World Cup,True,international_results
+400021496,a,history_csv_line_37889,2014-06-15,Argentina,Bosnia and Herzegovina,2,1,3,FIFA World Cup,True,international_results
+400021496,a,history_csv_line_37908,2014-06-21,Argentina,Iran,1,0,3,FIFA World Cup,True,international_results
+400021496,a,history_csv_line_37928,2014-06-25,Argentina,Nigeria,3,2,3,FIFA World Cup,True,international_results
+400021496,a,history_csv_line_37940,2014-07-01,Argentina,Switzerland,1,0,3,FIFA World Cup,True,international_results
+400021496,a,history_csv_line_37945,2014-07-05,Argentina,Belgium,1,0,3,FIFA World Cup,True,international_results
+400021496,a,history_csv_line_37949,2014-07-09,Argentina,Netherlands,0,0,1,FIFA World Cup,True,international_results
+400021496,a,history_csv_line_37953,2014-07-13,Argentina,Germany,0,1,0,FIFA World Cup,True,international_results
+400021496,a,history_csv_line_41664,2018-06-16,Argentina,Iceland,1,1,1,FIFA World Cup,True,international_results
+400021496,a,history_csv_line_41681,2018-06-21,Argentina,Croatia,0,3,0,FIFA World Cup,True,international_results
+400021496,a,history_csv_line_41697,2018-06-26,Argentina,Nigeria,2,1,3,FIFA World Cup,True,international_results
+400021496,a,history_csv_line_41707,2018-06-30,Argentina,France,3,4,0,FIFA World Cup,True,international_results
+400021496,a,history_csv_line_45763,2022-11-22,Argentina,Saudi Arabia,1,2,0,FIFA World Cup,True,international_results
+400021496,a,history_csv_line_45780,2022-11-26,Argentina,Mexico,2,0,3,FIFA World Cup,True,international_results
+400021496,a,history_csv_line_45795,2022-11-30,Argentina,Poland,2,0,3,FIFA World Cup,True,international_results
+400021496,a,history_csv_line_45808,2022-12-03,Argentina,Australia,2,1,3,FIFA World Cup,True,international_results
+400021496,a,history_csv_line_45816,2022-12-09,Argentina,Netherlands,2,2,1,FIFA World Cup,True,international_results
+400021496,a,history_csv_line_45821,2022-12-13,Argentina,Croatia,3,0,3,FIFA World Cup,True,international_results
+400021496,a,history_csv_line_45828,2022-12-18,Argentina,France,3,3,1,FIFA World Cup,True,international_results
+400021496,b,history_csv_line_37895,2014-06-17,Algeria,Belgium,1,2,0,FIFA World Cup,True,international_results
+400021496,b,history_csv_line_37914,2014-06-22,Algeria,South Korea,4,2,3,FIFA World Cup,True,international_results
+400021496,b,history_csv_line_37929,2014-06-26,Algeria,Russia,1,1,1,FIFA World Cup,True,international_results
+400021496,b,history_csv_line_37939,2014-06-30,Algeria,Germany,1,2,0,FIFA World Cup,True,international_results
+400021502,a,history_csv_line_37892,2014-06-16,Portugal,Germany,0,4,0,FIFA World Cup,True,international_results
+400021502,a,history_csv_line_37915,2014-06-22,Portugal,United States,2,2,1,FIFA World Cup,True,international_results
+400021502,a,history_csv_line_37931,2014-06-26,Portugal,Ghana,2,1,3,FIFA World Cup,True,international_results
+400021502,a,history_csv_line_41662,2018-06-15,Portugal,Spain,3,3,1,FIFA World Cup,True,international_results
+400021502,a,history_csv_line_41676,2018-06-20,Portugal,Morocco,1,0,3,FIFA World Cup,True,international_results
+400021502,a,history_csv_line_41694,2018-06-25,Portugal,Iran,1,1,1,FIFA World Cup,True,international_results
+400021502,a,history_csv_line_41708,2018-06-30,Portugal,Uruguay,1,2,0,FIFA World Cup,True,international_results
+400021502,a,history_csv_line_45774,2022-11-24,Portugal,Ghana,3,2,3,FIFA World Cup,True,international_results
+400021502,a,history_csv_line_45790,2022-11-28,Portugal,Uruguay,2,0,3,FIFA World Cup,True,international_results
+400021502,a,history_csv_line_45806,2022-12-02,Portugal,South Korea,1,2,0,FIFA World Cup,True,international_results
+400021502,a,history_csv_line_45814,2022-12-06,Portugal,Switzerland,6,1,3,FIFA World Cup,True,international_results
+400021502,a,history_csv_line_45818,2022-12-10,Portugal,Morocco,0,1,0,FIFA World Cup,True,international_results
+400021507,a,history_csv_line_37886,2014-06-14,England,Italy,1,2,0,FIFA World Cup,True,international_results
+400021507,a,history_csv_line_37904,2014-06-19,England,Uruguay,1,2,0,FIFA World Cup,True,international_results
+400021507,a,history_csv_line_37920,2014-06-24,England,Costa Rica,0,0,1,FIFA World Cup,True,international_results
+400021507,a,history_csv_line_41672,2018-06-18,England,Tunisia,2,1,3,FIFA World Cup,True,international_results
+400021507,a,history_csv_line_41688,2018-06-24,England,Panama,6,1,3,FIFA World Cup,True,international_results
+400021507,a,history_csv_line_41706,2018-06-28,England,Belgium,0,1,0,FIFA World Cup,True,international_results
+400021507,a,history_csv_line_41714,2018-07-03,England,Colombia,1,1,1,FIFA World Cup,True,international_results
+400021507,a,history_csv_line_41718,2018-07-07,England,Sweden,2,0,3,FIFA World Cup,True,international_results
+400021507,a,history_csv_line_41721,2018-07-11,England,Croatia,1,2,0,FIFA World Cup,True,international_results
+400021507,a,history_csv_line_41722,2018-07-14,England,Belgium,0,2,0,FIFA World Cup,True,international_results
+400021507,a,history_csv_line_45761,2022-11-21,England,Iran,6,2,3,FIFA World Cup,True,international_results
+400021507,a,history_csv_line_45778,2022-11-25,England,United States,0,0,1,FIFA World Cup,True,international_results
+400021507,a,history_csv_line_45793,2022-11-29,England,Wales,3,0,3,FIFA World Cup,True,international_results
+400021507,a,history_csv_line_45810,2022-12-04,England,Senegal,3,0,3,FIFA World Cup,True,international_results
+400021507,a,history_csv_line_45819,2022-12-10,England,France,1,2,0,FIFA World Cup,True,international_results
+400021507,b,history_csv_line_37881,2014-06-12,Croatia,Brazil,1,3,0,FIFA World Cup,True,international_results
+400021507,b,history_csv_line_37899,2014-06-18,Croatia,Cameroon,4,0,3,FIFA World Cup,True,international_results
+400021507,b,history_csv_line_37918,2014-06-23,Croatia,Mexico,1,3,0,FIFA World Cup,True,international_results
+400021507,b,history_csv_line_41666,2018-06-16,Croatia,Nigeria,2,0,3,FIFA World Cup,True,international_results
+400021507,b,history_csv_line_41681,2018-06-21,Croatia,Argentina,3,0,3,FIFA World Cup,True,international_results
+400021507,b,history_csv_line_41698,2018-06-26,Croatia,Iceland,2,1,3,FIFA World Cup,True,international_results
+400021507,b,history_csv_line_41710,2018-07-01,Croatia,Denmark,1,1,1,FIFA World Cup,True,international_results
+400021507,b,history_csv_line_41719,2018-07-07,Croatia,Russia,2,2,1,FIFA World Cup,True,international_results
+400021507,b,history_csv_line_41721,2018-07-11,Croatia,England,2,1,3,FIFA World Cup,True,international_results
+400021507,b,history_csv_line_41723,2018-07-15,Croatia,France,2,4,0,FIFA World Cup,True,international_results
+400021507,b,history_csv_line_45769,2022-11-23,Croatia,Morocco,0,0,1,FIFA World Cup,True,international_results
+400021507,b,history_csv_line_45786,2022-11-27,Croatia,Canada,4,1,3,FIFA World Cup,True,international_results
+400021507,b,history_csv_line_45801,2022-12-01,Croatia,Belgium,0,0,1,FIFA World Cup,True,international_results
+400021507,b,history_csv_line_45811,2022-12-05,Croatia,Japan,1,1,1,FIFA World Cup,True,international_results
+400021507,b,history_csv_line_45815,2022-12-09,Croatia,Brazil,1,1,1,FIFA World Cup,True,international_results
+400021507,b,history_csv_line_45821,2022-12-13,Croatia,Argentina,0,3,0,FIFA World Cup,True,international_results
+400021507,b,history_csv_line_45826,2022-12-17,Croatia,Morocco,2,1,3,FIFA World Cup,True,international_results
+400021510,a,history_csv_line_37893,2014-06-16,Ghana,United States,1,2,0,FIFA World Cup,True,international_results
+400021510,a,history_csv_line_37909,2014-06-21,Ghana,Germany,2,2,1,FIFA World Cup,True,international_results
+400021510,a,history_csv_line_37931,2014-06-26,Ghana,Portugal,1,2,0,FIFA World Cup,True,international_results
+400021510,a,history_csv_line_45774,2022-11-24,Ghana,Portugal,2,3,0,FIFA World Cup,True,international_results
+400021510,a,history_csv_line_45789,2022-11-28,Ghana,South Korea,3,2,3,FIFA World Cup,True,international_results
+400021510,a,history_csv_line_45805,2022-12-02,Ghana,Uruguay,0,2,0,FIFA World Cup,True,international_results
+400021510,b,history_csv_line_41671,2018-06-18,Panama,Belgium,0,3,0,FIFA World Cup,True,international_results
+400021510,b,history_csv_line_41688,2018-06-24,Panama,England,1,6,0,FIFA World Cup,True,international_results
+400021510,b,history_csv_line_41705,2018-06-28,Panama,Tunisia,1,2,0,FIFA World Cup,True,international_results
+400021504,b,history_csv_line_37885,2014-06-14,Colombia,Greece,3,0,3,FIFA World Cup,True,international_results
+400021504,b,history_csv_line_37902,2014-06-19,Colombia,Ivory Coast,2,1,3,FIFA World Cup,True,international_results
+400021504,b,history_csv_line_37923,2014-06-24,Colombia,Japan,4,1,3,FIFA World Cup,True,international_results
+400021504,b,history_csv_line_37934,2014-06-28,Colombia,Uruguay,2,0,3,FIFA World Cup,True,international_results
+400021504,b,history_csv_line_37943,2014-07-04,Colombia,Brazil,1,2,0,FIFA World Cup,True,international_results
+400021504,b,history_csv_line_41673,2018-06-19,Colombia,Japan,1,2,0,FIFA World Cup,True,international_results
+400021504,b,history_csv_line_41690,2018-06-24,Colombia,Poland,3,0,3,FIFA World Cup,True,international_results
+400021504,b,history_csv_line_41704,2018-06-28,Colombia,Senegal,1,0,3,FIFA World Cup,True,international_results
+400021504,b,history_csv_line_41714,2018-07-03,Colombia,England,1,1,1,FIFA World Cup,True,international_results
+400021446,a,history_csv_line_37891,2014-06-15,Switzerland,Ecuador,2,1,3,FIFA World Cup,True,international_results
+400021446,a,history_csv_line_37907,2014-06-20,Switzerland,France,2,5,0,FIFA World Cup,True,international_results
+400021446,a,history_csv_line_37926,2014-06-25,Switzerland,Honduras,3,0,3,FIFA World Cup,True,international_results
+400021446,a,history_csv_line_37940,2014-07-01,Switzerland,Argentina,0,1,0,FIFA World Cup,True,international_results
+400021446,a,history_csv_line_41669,2018-06-17,Switzerland,Brazil,1,1,1,FIFA World Cup,True,international_results
+400021446,a,history_csv_line_41684,2018-06-22,Switzerland,Serbia,2,1,3,FIFA World Cup,True,international_results
+400021446,a,history_csv_line_41702,2018-06-27,Switzerland,Costa Rica,2,2,1,FIFA World Cup,True,international_results
+400021446,a,history_csv_line_41713,2018-07-03,Switzerland,Sweden,0,1,0,FIFA World Cup,True,international_results
+400021446,a,history_csv_line_45771,2022-11-24,Switzerland,Cameroon,1,0,3,FIFA World Cup,True,international_results
+400021446,a,history_csv_line_45788,2022-11-28,Switzerland,Brazil,0,1,0,FIFA World Cup,True,international_results
+400021446,a,history_csv_line_45803,2022-12-02,Switzerland,Serbia,3,2,3,FIFA World Cup,True,international_results
+400021446,a,history_csv_line_45814,2022-12-06,Switzerland,Portugal,1,6,0,FIFA World Cup,True,international_results
+400021446,b,history_csv_line_37889,2014-06-15,Bosnia and Herzegovina,Argentina,1,2,0,FIFA World Cup,True,international_results
+400021446,b,history_csv_line_37911,2014-06-21,Bosnia and Herzegovina,Nigeria,0,1,0,FIFA World Cup,True,international_results
+400021446,b,history_csv_line_37924,2014-06-25,Bosnia and Herzegovina,Iran,3,1,3,FIFA World Cup,True,international_results
+400021450,a,history_csv_line_45770,2022-11-23,Canada,Belgium,0,1,0,FIFA World Cup,True,international_results
+400021450,a,history_csv_line_45786,2022-11-27,Canada,Croatia,1,4,0,FIFA World Cup,True,international_results
+400021450,a,history_csv_line_45802,2022-12-01,Canada,Morocco,1,2,0,FIFA World Cup,True,international_results
+400021450,b,history_csv_line_45759,2022-11-20,Qatar,Ecuador,0,2,0,FIFA World Cup,True,international_results
+400021450,b,history_csv_line_45775,2022-11-25,Qatar,Senegal,1,3,0,FIFA World Cup,True,international_results
+400021450,b,history_csv_line_45792,2022-11-29,Qatar,Netherlands,0,2,0,FIFA World Cup,True,international_results
+400021442,a,history_csv_line_37883,2014-06-13,Mexico,Cameroon,1,0,3,FIFA World Cup,True,international_results
+400021442,a,history_csv_line_37896,2014-06-17,Mexico,Brazil,0,0,1,FIFA World Cup,True,international_results
+400021442,a,history_csv_line_37918,2014-06-23,Mexico,Croatia,3,1,3,FIFA World Cup,True,international_results
+400021442,a,history_csv_line_37937,2014-06-29,Mexico,Netherlands,1,2,0,FIFA World Cup,True,international_results
+400021442,a,history_csv_line_41668,2018-06-17,Mexico,Germany,1,0,3,FIFA World Cup,True,international_results
+400021442,a,history_csv_line_41686,2018-06-23,Mexico,South Korea,2,1,3,FIFA World Cup,True,international_results
+400021442,a,history_csv_line_41700,2018-06-27,Mexico,Sweden,0,3,0,FIFA World Cup,True,international_results
+400021442,a,history_csv_line_41711,2018-07-02,Mexico,Brazil,0,2,0,FIFA World Cup,True,international_results
+400021442,a,history_csv_line_45764,2022-11-22,Mexico,Poland,0,0,1,FIFA World Cup,True,international_results
+400021442,a,history_csv_line_45780,2022-11-26,Mexico,Argentina,0,2,0,FIFA World Cup,True,international_results
+400021442,a,history_csv_line_45796,2022-11-30,Mexico,Saudi Arabia,2,1,3,FIFA World Cup,True,international_results
+400021442,b,history_csv_line_37897,2014-06-17,South Korea,Russia,1,1,1,FIFA World Cup,True,international_results
+400021442,b,history_csv_line_37914,2014-06-22,South Korea,Algeria,2,4,0,FIFA World Cup,True,international_results
+400021442,b,history_csv_line_37930,2014-06-26,South Korea,Belgium,0,1,0,FIFA World Cup,True,international_results
+400021442,b,history_csv_line_41670,2018-06-18,South Korea,Sweden,0,1,0,FIFA World Cup,True,international_results
+400021442,b,history_csv_line_41686,2018-06-23,South Korea,Mexico,1,2,0,FIFA World Cup,True,international_results
+400021442,b,history_csv_line_41699,2018-06-27,South Korea,Germany,2,0,3,FIFA World Cup,True,international_results
+400021442,b,history_csv_line_45773,2022-11-24,South Korea,Uruguay,0,0,1,FIFA World Cup,True,international_results
+400021442,b,history_csv_line_45789,2022-11-28,South Korea,Ghana,2,3,0,FIFA World Cup,True,international_results
+400021442,b,history_csv_line_45806,2022-12-02,South Korea,Portugal,2,1,3,FIFA World Cup,True,international_results
+400021442,b,history_csv_line_45812,2022-12-05,South Korea,Brazil,1,4,0,FIFA World Cup,True,international_results
+400021462,a,history_csv_line_37893,2014-06-16,United States,Ghana,2,1,3,FIFA World Cup,True,international_results
+400021462,a,history_csv_line_37915,2014-06-22,United States,Portugal,2,2,1,FIFA World Cup,True,international_results
+400021462,a,history_csv_line_37932,2014-06-26,United States,Germany,0,1,0,FIFA World Cup,True,international_results
+400021462,a,history_csv_line_37941,2014-07-01,United States,Belgium,1,2,0,FIFA World Cup,True,international_results
+400021462,a,history_csv_line_45762,2022-11-21,United States,Wales,1,1,1,FIFA World Cup,True,international_results
+400021462,a,history_csv_line_45778,2022-11-25,United States,England,0,0,1,FIFA World Cup,True,international_results
+400021462,a,history_csv_line_45794,2022-11-29,United States,Iran,1,0,3,FIFA World Cup,True,international_results
+400021462,a,history_csv_line_45807,2022-12-03,United States,Netherlands,1,3,0,FIFA World Cup,True,international_results
+400021462,b,history_csv_line_37882,2014-06-13,Australia,Chile,1,3,0,FIFA World Cup,True,international_results
+400021462,b,history_csv_line_37898,2014-06-18,Australia,Netherlands,2,3,0,FIFA World Cup,True,international_results
+400021462,b,history_csv_line_37916,2014-06-23,Australia,Spain,0,3,0,FIFA World Cup,True,international_results
+400021462,b,history_csv_line_41663,2018-06-16,Australia,France,1,2,0,FIFA World Cup,True,international_results
+400021462,b,history_csv_line_41679,2018-06-21,Australia,Denmark,1,1,1,FIFA World Cup,True,international_results
+400021462,b,history_csv_line_41695,2018-06-26,Australia,Peru,0,2,0,FIFA World Cup,True,international_results
+400021462,b,history_csv_line_45766,2022-11-22,Australia,France,1,4,0,FIFA World Cup,True,international_results
+400021462,b,history_csv_line_45781,2022-11-26,Australia,Tunisia,1,0,3,FIFA World Cup,True,international_results
+400021462,b,history_csv_line_45797,2022-11-30,Australia,Denmark,1,0,3,FIFA World Cup,True,international_results
+400021462,b,history_csv_line_45808,2022-12-03,Australia,Argentina,1,2,0,FIFA World Cup,True,international_results
+400021454,b,history_csv_line_41661,2018-06-15,Morocco,Iran,0,1,0,FIFA World Cup,True,international_results
+400021454,b,history_csv_line_41676,2018-06-20,Morocco,Portugal,0,1,0,FIFA World Cup,True,international_results
+400021454,b,history_csv_line_41693,2018-06-25,Morocco,Spain,2,2,1,FIFA World Cup,True,international_results
+400021454,b,history_csv_line_45769,2022-11-23,Morocco,Croatia,0,0,1,FIFA World Cup,True,international_results
+400021454,b,history_csv_line_45785,2022-11-27,Morocco,Belgium,2,0,3,FIFA World Cup,True,international_results
+400021454,b,history_csv_line_45802,2022-12-01,Morocco,Canada,2,1,3,FIFA World Cup,True,international_results
+400021454,b,history_csv_line_45813,2022-12-06,Morocco,Spain,0,0,1,FIFA World Cup,True,international_results
+400021454,b,history_csv_line_45818,2022-12-10,Morocco,Portugal,1,0,3,FIFA World Cup,True,international_results
+400021454,b,history_csv_line_45822,2022-12-14,Morocco,France,0,2,0,FIFA World Cup,True,international_results
+400021454,b,history_csv_line_45826,2022-12-17,Morocco,Croatia,1,2,0,FIFA World Cup,True,international_results
+400021457,a,history_csv_line_37881,2014-06-12,Brazil,Croatia,3,1,3,FIFA World Cup,True,international_results
+400021457,a,history_csv_line_37896,2014-06-17,Brazil,Mexico,0,0,1,FIFA World Cup,True,international_results
+400021457,a,history_csv_line_37917,2014-06-23,Brazil,Cameroon,4,1,3,FIFA World Cup,True,international_results
+400021457,a,history_csv_line_37933,2014-06-28,Brazil,Chile,1,1,1,FIFA World Cup,True,international_results
+400021457,a,history_csv_line_37943,2014-07-04,Brazil,Colombia,2,1,3,FIFA World Cup,True,international_results
+400021457,a,history_csv_line_37948,2014-07-08,Brazil,Germany,1,7,0,FIFA World Cup,True,international_results
+400021457,a,history_csv_line_37951,2014-07-12,Brazil,Netherlands,0,3,0,FIFA World Cup,True,international_results
+400021457,a,history_csv_line_41669,2018-06-17,Brazil,Switzerland,1,1,1,FIFA World Cup,True,international_results
+400021457,a,history_csv_line_41682,2018-06-22,Brazil,Costa Rica,2,0,3,FIFA World Cup,True,international_results
+400021457,a,history_csv_line_41701,2018-06-27,Brazil,Serbia,2,0,3,FIFA World Cup,True,international_results
+400021457,a,history_csv_line_41711,2018-07-02,Brazil,Mexico,2,0,3,FIFA World Cup,True,international_results
+400021457,a,history_csv_line_41717,2018-07-06,Brazil,Belgium,1,2,0,FIFA World Cup,True,international_results
+400021457,a,history_csv_line_45772,2022-11-24,Brazil,Serbia,2,0,3,FIFA World Cup,True,international_results
+400021457,a,history_csv_line_45788,2022-11-28,Brazil,Switzerland,1,0,3,FIFA World Cup,True,international_results
+400021457,a,history_csv_line_45804,2022-12-02,Brazil,Cameroon,0,1,0,FIFA World Cup,True,international_results
+400021457,a,history_csv_line_45812,2022-12-05,Brazil,South Korea,4,1,3,FIFA World Cup,True,international_results
+400021457,a,history_csv_line_45815,2022-12-09,Brazil,Croatia,1,1,1,FIFA World Cup,True,international_results
+400021472,a,history_csv_line_37884,2014-06-13,Netherlands,Spain,5,1,3,FIFA World Cup,True,international_results
+400021472,a,history_csv_line_37898,2014-06-18,Netherlands,Australia,3,2,3,FIFA World Cup,True,international_results
+400021472,a,history_csv_line_37919,2014-06-23,Netherlands,Chile,2,0,3,FIFA World Cup,True,international_results
+400021472,a,history_csv_line_37937,2014-06-29,Netherlands,Mexico,2,1,3,FIFA World Cup,True,international_results
+400021472,a,history_csv_line_37946,2014-07-05,Netherlands,Costa Rica,0,0,1,FIFA World Cup,True,international_results
+400021472,a,history_csv_line_37949,2014-07-09,Netherlands,Argentina,0,0,1,FIFA World Cup,True,international_results
+400021472,a,history_csv_line_37951,2014-07-12,Netherlands,Brazil,3,0,3,FIFA World Cup,True,international_results
+400021472,a,history_csv_line_45760,2022-11-21,Netherlands,Senegal,2,0,3,FIFA World Cup,True,international_results
+400021472,a,history_csv_line_45776,2022-11-25,Netherlands,Ecuador,1,1,1,FIFA World Cup,True,international_results
+400021472,a,history_csv_line_45792,2022-11-29,Netherlands,Qatar,2,0,3,FIFA World Cup,True,international_results
+400021472,a,history_csv_line_45807,2022-12-03,Netherlands,United States,3,1,3,FIFA World Cup,True,international_results
+400021472,a,history_csv_line_45816,2022-12-09,Netherlands,Argentina,2,2,1,FIFA World Cup,True,international_results
+400021472,b,history_csv_line_41670,2018-06-18,Sweden,South Korea,1,0,3,FIFA World Cup,True,international_results
+400021472,b,history_csv_line_41687,2018-06-23,Sweden,Germany,1,2,0,FIFA World Cup,True,international_results
+400021472,b,history_csv_line_41700,2018-06-27,Sweden,Mexico,3,0,3,FIFA World Cup,True,international_results
+400021472,b,history_csv_line_41713,2018-07-03,Sweden,Switzerland,1,0,3,FIFA World Cup,True,international_results
+400021472,b,history_csv_line_41718,2018-07-07,Sweden,England,0,2,0,FIFA World Cup,True,international_results
+400021469,a,history_csv_line_37892,2014-06-16,Germany,Portugal,4,0,3,FIFA World Cup,True,international_results
+400021469,a,history_csv_line_37909,2014-06-21,Germany,Ghana,2,2,1,FIFA World Cup,True,international_results
+400021469,a,history_csv_line_37932,2014-06-26,Germany,United States,1,0,3,FIFA World Cup,True,international_results
+400021469,a,history_csv_line_37939,2014-06-30,Germany,Algeria,2,1,3,FIFA World Cup,True,international_results
+400021469,a,history_csv_line_37944,2014-07-04,Germany,France,1,0,3,FIFA World Cup,True,international_results
+400021469,a,history_csv_line_37948,2014-07-08,Germany,Brazil,7,1,3,FIFA World Cup,True,international_results
+400021469,a,history_csv_line_37953,2014-07-13,Germany,Argentina,1,0,3,FIFA World Cup,True,international_results
+400021469,a,history_csv_line_41668,2018-06-17,Germany,Mexico,0,1,0,FIFA World Cup,True,international_results
+400021469,a,history_csv_line_41687,2018-06-23,Germany,Sweden,2,1,3,FIFA World Cup,True,international_results
+400021469,a,history_csv_line_41699,2018-06-27,Germany,South Korea,0,2,0,FIFA World Cup,True,international_results
+400021469,a,history_csv_line_45767,2022-11-23,Germany,Japan,1,2,0,FIFA World Cup,True,international_results
+400021469,a,history_csv_line_45784,2022-11-27,Germany,Spain,1,1,1,FIFA World Cup,True,international_results
+400021469,a,history_csv_line_45800,2022-12-01,Germany,Costa Rica,4,2,3,FIFA World Cup,True,international_results
+400021469,b,history_csv_line_37887,2014-06-14,Ivory Coast,Japan,2,1,3,FIFA World Cup,True,international_results
+400021469,b,history_csv_line_37902,2014-06-19,Ivory Coast,Colombia,1,2,0,FIFA World Cup,True,international_results
+400021469,b,history_csv_line_37921,2014-06-24,Ivory Coast,Greece,1,2,0,FIFA World Cup,True,international_results
+400021465,a,history_csv_line_37891,2014-06-15,Ecuador,Switzerland,1,2,0,FIFA World Cup,True,international_results
+400021465,a,history_csv_line_37905,2014-06-20,Ecuador,Honduras,2,1,3,FIFA World Cup,True,international_results
+400021465,a,history_csv_line_37925,2014-06-25,Ecuador,France,0,0,1,FIFA World Cup,True,international_results
+400021465,a,history_csv_line_45759,2022-11-20,Ecuador,Qatar,2,0,3,FIFA World Cup,True,international_results
+400021465,a,history_csv_line_45776,2022-11-25,Ecuador,Netherlands,1,1,1,FIFA World Cup,True,international_results
+400021465,a,history_csv_line_45791,2022-11-29,Ecuador,Senegal,1,2,0,FIFA World Cup,True,international_results
+400021475,a,history_csv_line_41672,2018-06-18,Tunisia,England,1,2,0,FIFA World Cup,True,international_results
+400021475,a,history_csv_line_41685,2018-06-23,Tunisia,Belgium,2,5,0,FIFA World Cup,True,international_results
+400021475,a,history_csv_line_41705,2018-06-28,Tunisia,Panama,2,1,3,FIFA World Cup,True,international_results
+400021475,a,history_csv_line_45765,2022-11-22,Tunisia,Denmark,0,0,1,FIFA World Cup,True,international_results
+400021475,a,history_csv_line_45781,2022-11-26,Tunisia,Australia,0,1,0,FIFA World Cup,True,international_results
+400021475,a,history_csv_line_45798,2022-11-30,Tunisia,France,1,0,3,FIFA World Cup,True,international_results
+400021475,b,history_csv_line_37887,2014-06-14,Japan,Ivory Coast,1,2,0,FIFA World Cup,True,international_results
+400021475,b,history_csv_line_37903,2014-06-19,Japan,Greece,0,0,1,FIFA World Cup,True,international_results
+400021475,b,history_csv_line_37923,2014-06-24,Japan,Colombia,1,4,0,FIFA World Cup,True,international_results
+400021475,b,history_csv_line_41673,2018-06-19,Japan,Colombia,2,1,3,FIFA World Cup,True,international_results
+400021475,b,history_csv_line_41689,2018-06-24,Japan,Senegal,2,2,1,FIFA World Cup,True,international_results
+400021475,b,history_csv_line_41703,2018-06-28,Japan,Poland,0,1,0,FIFA World Cup,True,international_results
+400021475,b,history_csv_line_41712,2018-07-02,Japan,Belgium,2,3,0,FIFA World Cup,True,international_results
+400021475,b,history_csv_line_45767,2022-11-23,Japan,Germany,2,1,3,FIFA World Cup,True,international_results
+400021475,b,history_csv_line_45783,2022-11-27,Japan,Costa Rica,0,1,0,FIFA World Cup,True,international_results
+400021475,b,history_csv_line_45799,2022-12-01,Japan,Spain,2,1,3,FIFA World Cup,True,international_results
+400021475,b,history_csv_line_45811,2022-12-05,Japan,Croatia,1,1,1,FIFA World Cup,True,international_results
+400021483,a,history_csv_line_37884,2014-06-13,Spain,Netherlands,1,5,0,FIFA World Cup,True,international_results
+400021483,a,history_csv_line_37901,2014-06-18,Spain,Chile,0,2,0,FIFA World Cup,True,international_results
+400021483,a,history_csv_line_37916,2014-06-23,Spain,Australia,3,0,3,FIFA World Cup,True,international_results
+400021483,a,history_csv_line_41662,2018-06-15,Spain,Portugal,3,3,1,FIFA World Cup,True,international_results
+400021483,a,history_csv_line_41678,2018-06-20,Spain,Iran,1,0,3,FIFA World Cup,True,international_results
+400021483,a,history_csv_line_41693,2018-06-25,Spain,Morocco,2,2,1,FIFA World Cup,True,international_results
+400021483,a,history_csv_line_41709,2018-07-01,Spain,Russia,1,1,1,FIFA World Cup,True,international_results
+400021483,a,history_csv_line_45768,2022-11-23,Spain,Costa Rica,7,0,3,FIFA World Cup,True,international_results
+400021483,a,history_csv_line_45784,2022-11-27,Spain,Germany,1,1,1,FIFA World Cup,True,international_results
+400021483,a,history_csv_line_45799,2022-12-01,Spain,Japan,1,2,0,FIFA World Cup,True,international_results
+400021483,a,history_csv_line_45813,2022-12-06,Spain,Morocco,0,0,1,FIFA World Cup,True,international_results
+400021483,b,history_csv_line_41659,2018-06-14,Saudi Arabia,Russia,0,5,0,FIFA World Cup,True,international_results
+400021483,b,history_csv_line_41677,2018-06-20,Saudi Arabia,Uruguay,0,1,0,FIFA World Cup,True,international_results
+400021483,b,history_csv_line_41692,2018-06-25,Saudi Arabia,Egypt,2,1,3,FIFA World Cup,True,international_results
+400021483,b,history_csv_line_45763,2022-11-22,Saudi Arabia,Argentina,2,1,3,FIFA World Cup,True,international_results
+400021483,b,history_csv_line_45779,2022-11-26,Saudi Arabia,Poland,0,2,0,FIFA World Cup,True,international_results
+400021483,b,history_csv_line_45796,2022-11-30,Saudi Arabia,Mexico,1,2,0,FIFA World Cup,True,international_results
+400021477,a,history_csv_line_37895,2014-06-17,Belgium,Algeria,2,1,3,FIFA World Cup,True,international_results
+400021477,a,history_csv_line_37912,2014-06-22,Belgium,Russia,1,0,3,FIFA World Cup,True,international_results
+400021477,a,history_csv_line_37930,2014-06-26,Belgium,South Korea,1,0,3,FIFA World Cup,True,international_results
+400021477,a,history_csv_line_37941,2014-07-01,Belgium,United States,2,1,3,FIFA World Cup,True,international_results
+400021477,a,history_csv_line_37945,2014-07-05,Belgium,Argentina,0,1,0,FIFA World Cup,True,international_results
+400021477,a,history_csv_line_41671,2018-06-18,Belgium,Panama,3,0,3,FIFA World Cup,True,international_results
+400021477,a,history_csv_line_41685,2018-06-23,Belgium,Tunisia,5,2,3,FIFA World Cup,True,international_results
+400021477,a,history_csv_line_41706,2018-06-28,Belgium,England,1,0,3,FIFA World Cup,True,international_results
+400021477,a,history_csv_line_41712,2018-07-02,Belgium,Japan,3,2,3,FIFA World Cup,True,international_results
+400021477,a,history_csv_line_41717,2018-07-06,Belgium,Brazil,2,1,3,FIFA World Cup,True,international_results
+400021477,a,history_csv_line_41720,2018-07-10,Belgium,France,0,1,0,FIFA World Cup,True,international_results
+400021477,a,history_csv_line_41722,2018-07-14,Belgium,England,2,0,3,FIFA World Cup,True,international_results
+400021477,a,history_csv_line_45770,2022-11-23,Belgium,Canada,1,0,3,FIFA World Cup,True,international_results
+400021477,a,history_csv_line_45785,2022-11-27,Belgium,Morocco,0,2,0,FIFA World Cup,True,international_results
+400021477,a,history_csv_line_45801,2022-12-01,Belgium,Croatia,0,0,1,FIFA World Cup,True,international_results
+400021477,b,history_csv_line_37894,2014-06-16,Iran,Nigeria,0,0,1,FIFA World Cup,True,international_results
+400021477,b,history_csv_line_37908,2014-06-21,Iran,Argentina,0,1,0,FIFA World Cup,True,international_results
+400021477,b,history_csv_line_37924,2014-06-25,Iran,Bosnia and Herzegovina,1,3,0,FIFA World Cup,True,international_results
+400021477,b,history_csv_line_41661,2018-06-15,Iran,Morocco,1,0,3,FIFA World Cup,True,international_results
+400021477,b,history_csv_line_41678,2018-06-20,Iran,Spain,0,1,0,FIFA World Cup,True,international_results
+400021477,b,history_csv_line_41694,2018-06-25,Iran,Portugal,1,1,1,FIFA World Cup,True,international_results
+400021477,b,history_csv_line_45761,2022-11-21,Iran,England,2,6,0,FIFA World Cup,True,international_results
+400021477,b,history_csv_line_45777,2022-11-25,Iran,Wales,2,0,3,FIFA World Cup,True,international_results
+400021477,b,history_csv_line_45794,2022-11-29,Iran,United States,0,1,0,FIFA World Cup,True,international_results
+400021487,a,history_csv_line_37888,2014-06-14,Uruguay,Costa Rica,1,3,0,FIFA World Cup,True,international_results
+400021487,a,history_csv_line_37904,2014-06-19,Uruguay,England,2,1,3,FIFA World Cup,True,international_results
+400021487,a,history_csv_line_37922,2014-06-24,Uruguay,Italy,1,0,3,FIFA World Cup,True,international_results
+400021487,a,history_csv_line_37934,2014-06-28,Uruguay,Colombia,0,2,0,FIFA World Cup,True,international_results
+400021487,a,history_csv_line_41660,2018-06-15,Uruguay,Egypt,1,0,3,FIFA World Cup,True,international_results
+400021487,a,history_csv_line_41677,2018-06-20,Uruguay,Saudi Arabia,1,0,3,FIFA World Cup,True,international_results
+400021487,a,history_csv_line_41691,2018-06-25,Uruguay,Russia,3,0,3,FIFA World Cup,True,international_results
+400021487,a,history_csv_line_41708,2018-06-30,Uruguay,Portugal,2,1,3,FIFA World Cup,True,international_results
+400021487,a,history_csv_line_41716,2018-07-06,Uruguay,France,0,2,0,FIFA World Cup,True,international_results
+400021487,a,history_csv_line_45773,2022-11-24,Uruguay,South Korea,0,0,1,FIFA World Cup,True,international_results
+400021487,a,history_csv_line_45790,2022-11-28,Uruguay,Portugal,0,2,0,FIFA World Cup,True,international_results
+400021487,a,history_csv_line_45805,2022-12-02,Uruguay,Ghana,2,0,3,FIFA World Cup,True,international_results
+400021480,b,history_csv_line_41660,2018-06-15,Egypt,Uruguay,0,1,0,FIFA World Cup,True,international_results
+400021480,b,history_csv_line_41675,2018-06-19,Egypt,Russia,1,3,0,FIFA World Cup,True,international_results
+400021480,b,history_csv_line_41692,2018-06-25,Egypt,Saudi Arabia,1,2,0,FIFA World Cup,True,international_results
+400021494,a,history_csv_line_37889,2014-06-15,Argentina,Bosnia and Herzegovina,2,1,3,FIFA World Cup,True,international_results
+400021494,a,history_csv_line_37908,2014-06-21,Argentina,Iran,1,0,3,FIFA World Cup,True,international_results
+400021494,a,history_csv_line_37928,2014-06-25,Argentina,Nigeria,3,2,3,FIFA World Cup,True,international_results
+400021494,a,history_csv_line_37940,2014-07-01,Argentina,Switzerland,1,0,3,FIFA World Cup,True,international_results
+400021494,a,history_csv_line_37945,2014-07-05,Argentina,Belgium,1,0,3,FIFA World Cup,True,international_results
+400021494,a,history_csv_line_37949,2014-07-09,Argentina,Netherlands,0,0,1,FIFA World Cup,True,international_results
+400021494,a,history_csv_line_37953,2014-07-13,Argentina,Germany,0,1,0,FIFA World Cup,True,international_results
+400021494,a,history_csv_line_41664,2018-06-16,Argentina,Iceland,1,1,1,FIFA World Cup,True,international_results
+400021494,a,history_csv_line_41681,2018-06-21,Argentina,Croatia,0,3,0,FIFA World Cup,True,international_results
+400021494,a,history_csv_line_41697,2018-06-26,Argentina,Nigeria,2,1,3,FIFA World Cup,True,international_results
+400021494,a,history_csv_line_41707,2018-06-30,Argentina,France,3,4,0,FIFA World Cup,True,international_results
+400021494,a,history_csv_line_45763,2022-11-22,Argentina,Saudi Arabia,1,2,0,FIFA World Cup,True,international_results
+400021494,a,history_csv_line_45780,2022-11-26,Argentina,Mexico,2,0,3,FIFA World Cup,True,international_results
+400021494,a,history_csv_line_45795,2022-11-30,Argentina,Poland,2,0,3,FIFA World Cup,True,international_results
+400021494,a,history_csv_line_45808,2022-12-03,Argentina,Australia,2,1,3,FIFA World Cup,True,international_results
+400021494,a,history_csv_line_45816,2022-12-09,Argentina,Netherlands,2,2,1,FIFA World Cup,True,international_results
+400021494,a,history_csv_line_45821,2022-12-13,Argentina,Croatia,3,0,3,FIFA World Cup,True,international_results
+400021494,a,history_csv_line_45828,2022-12-18,Argentina,France,3,3,1,FIFA World Cup,True,international_results
+400021492,a,history_csv_line_37890,2014-06-15,France,Honduras,3,0,3,FIFA World Cup,True,international_results
+400021492,a,history_csv_line_37907,2014-06-20,France,Switzerland,5,2,3,FIFA World Cup,True,international_results
+400021492,a,history_csv_line_37925,2014-06-25,France,Ecuador,0,0,1,FIFA World Cup,True,international_results
+400021492,a,history_csv_line_37938,2014-06-30,France,Nigeria,2,0,3,FIFA World Cup,True,international_results
+400021492,a,history_csv_line_37944,2014-07-04,France,Germany,0,1,0,FIFA World Cup,True,international_results
+400021492,a,history_csv_line_41663,2018-06-16,France,Australia,2,1,3,FIFA World Cup,True,international_results
+400021492,a,history_csv_line_41680,2018-06-21,France,Peru,1,0,3,FIFA World Cup,True,international_results
+400021492,a,history_csv_line_41696,2018-06-26,France,Denmark,0,0,1,FIFA World Cup,True,international_results
+400021492,a,history_csv_line_41707,2018-06-30,France,Argentina,4,3,3,FIFA World Cup,True,international_results
+400021492,a,history_csv_line_41716,2018-07-06,France,Uruguay,2,0,3,FIFA World Cup,True,international_results
+400021492,a,history_csv_line_41720,2018-07-10,France,Belgium,1,0,3,FIFA World Cup,True,international_results
+400021492,a,history_csv_line_41723,2018-07-15,France,Croatia,4,2,3,FIFA World Cup,True,international_results
+400021492,a,history_csv_line_45766,2022-11-22,France,Australia,4,1,3,FIFA World Cup,True,international_results
+400021492,a,history_csv_line_45782,2022-11-26,France,Denmark,2,1,3,FIFA World Cup,True,international_results
+400021492,a,history_csv_line_45798,2022-11-30,France,Tunisia,0,1,0,FIFA World Cup,True,international_results
+400021492,a,history_csv_line_45809,2022-12-04,France,Poland,3,1,3,FIFA World Cup,True,international_results
+400021492,a,history_csv_line_45819,2022-12-10,France,England,2,1,3,FIFA World Cup,True,international_results
+400021492,a,history_csv_line_45822,2022-12-14,France,Morocco,2,0,3,FIFA World Cup,True,international_results
+400021492,a,history_csv_line_45828,2022-12-18,France,Argentina,3,3,1,FIFA World Cup,True,international_results
+400021491,b,history_csv_line_41674,2018-06-19,Senegal,Poland,2,1,3,FIFA World Cup,True,international_results
+400021491,b,history_csv_line_41689,2018-06-24,Senegal,Japan,2,2,1,FIFA World Cup,True,international_results
+400021491,b,history_csv_line_41704,2018-06-28,Senegal,Colombia,0,1,0,FIFA World Cup,True,international_results
+400021491,b,history_csv_line_45760,2022-11-21,Senegal,Netherlands,0,2,0,FIFA World Cup,True,international_results
+400021491,b,history_csv_line_45775,2022-11-25,Senegal,Qatar,3,1,3,FIFA World Cup,True,international_results
+400021491,b,history_csv_line_45791,2022-11-29,Senegal,Ecuador,2,1,3,FIFA World Cup,True,international_results
+400021491,b,history_csv_line_45810,2022-12-04,Senegal,England,0,3,0,FIFA World Cup,True,international_results
+400021499,b,history_csv_line_37895,2014-06-17,Algeria,Belgium,1,2,0,FIFA World Cup,True,international_results
+400021499,b,history_csv_line_37914,2014-06-22,Algeria,South Korea,4,2,3,FIFA World Cup,True,international_results
+400021499,b,history_csv_line_37929,2014-06-26,Algeria,Russia,1,1,1,FIFA World Cup,True,international_results
+400021499,b,history_csv_line_37939,2014-06-30,Algeria,Germany,1,2,0,FIFA World Cup,True,international_results
+400021503,a,history_csv_line_37892,2014-06-16,Portugal,Germany,0,4,0,FIFA World Cup,True,international_results
+400021503,a,history_csv_line_37915,2014-06-22,Portugal,United States,2,2,1,FIFA World Cup,True,international_results
+400021503,a,history_csv_line_37931,2014-06-26,Portugal,Ghana,2,1,3,FIFA World Cup,True,international_results
+400021503,a,history_csv_line_41662,2018-06-15,Portugal,Spain,3,3,1,FIFA World Cup,True,international_results
+400021503,a,history_csv_line_41676,2018-06-20,Portugal,Morocco,1,0,3,FIFA World Cup,True,international_results
+400021503,a,history_csv_line_41694,2018-06-25,Portugal,Iran,1,1,1,FIFA World Cup,True,international_results
+400021503,a,history_csv_line_41708,2018-06-30,Portugal,Uruguay,1,2,0,FIFA World Cup,True,international_results
+400021503,a,history_csv_line_45774,2022-11-24,Portugal,Ghana,3,2,3,FIFA World Cup,True,international_results
+400021503,a,history_csv_line_45790,2022-11-28,Portugal,Uruguay,2,0,3,FIFA World Cup,True,international_results
+400021503,a,history_csv_line_45806,2022-12-02,Portugal,South Korea,1,2,0,FIFA World Cup,True,international_results
+400021503,a,history_csv_line_45814,2022-12-06,Portugal,Switzerland,6,1,3,FIFA World Cup,True,international_results
+400021503,a,history_csv_line_45818,2022-12-10,Portugal,Morocco,0,1,0,FIFA World Cup,True,international_results
+400021506,a,history_csv_line_37886,2014-06-14,England,Italy,1,2,0,FIFA World Cup,True,international_results
+400021506,a,history_csv_line_37904,2014-06-19,England,Uruguay,1,2,0,FIFA World Cup,True,international_results
+400021506,a,history_csv_line_37920,2014-06-24,England,Costa Rica,0,0,1,FIFA World Cup,True,international_results
+400021506,a,history_csv_line_41672,2018-06-18,England,Tunisia,2,1,3,FIFA World Cup,True,international_results
+400021506,a,history_csv_line_41688,2018-06-24,England,Panama,6,1,3,FIFA World Cup,True,international_results
+400021506,a,history_csv_line_41706,2018-06-28,England,Belgium,0,1,0,FIFA World Cup,True,international_results
+400021506,a,history_csv_line_41714,2018-07-03,England,Colombia,1,1,1,FIFA World Cup,True,international_results
+400021506,a,history_csv_line_41718,2018-07-07,England,Sweden,2,0,3,FIFA World Cup,True,international_results
+400021506,a,history_csv_line_41721,2018-07-11,England,Croatia,1,2,0,FIFA World Cup,True,international_results
+400021506,a,history_csv_line_41722,2018-07-14,England,Belgium,0,2,0,FIFA World Cup,True,international_results
+400021506,a,history_csv_line_45761,2022-11-21,England,Iran,6,2,3,FIFA World Cup,True,international_results
+400021506,a,history_csv_line_45778,2022-11-25,England,United States,0,0,1,FIFA World Cup,True,international_results
+400021506,a,history_csv_line_45793,2022-11-29,England,Wales,3,0,3,FIFA World Cup,True,international_results
+400021506,a,history_csv_line_45810,2022-12-04,England,Senegal,3,0,3,FIFA World Cup,True,international_results
+400021506,a,history_csv_line_45819,2022-12-10,England,France,1,2,0,FIFA World Cup,True,international_results
+400021506,b,history_csv_line_37893,2014-06-16,Ghana,United States,1,2,0,FIFA World Cup,True,international_results
+400021506,b,history_csv_line_37909,2014-06-21,Ghana,Germany,2,2,1,FIFA World Cup,True,international_results
+400021506,b,history_csv_line_37931,2014-06-26,Ghana,Portugal,1,2,0,FIFA World Cup,True,international_results
+400021506,b,history_csv_line_45774,2022-11-24,Ghana,Portugal,2,3,0,FIFA World Cup,True,international_results
+400021506,b,history_csv_line_45789,2022-11-28,Ghana,South Korea,3,2,3,FIFA World Cup,True,international_results
+400021506,b,history_csv_line_45805,2022-12-02,Ghana,Uruguay,0,2,0,FIFA World Cup,True,international_results
+400021511,a,history_csv_line_41671,2018-06-18,Panama,Belgium,0,3,0,FIFA World Cup,True,international_results
+400021511,a,history_csv_line_41688,2018-06-24,Panama,England,1,6,0,FIFA World Cup,True,international_results
+400021511,a,history_csv_line_41705,2018-06-28,Panama,Tunisia,1,2,0,FIFA World Cup,True,international_results
+400021511,b,history_csv_line_37881,2014-06-12,Croatia,Brazil,1,3,0,FIFA World Cup,True,international_results
+400021511,b,history_csv_line_37899,2014-06-18,Croatia,Cameroon,4,0,3,FIFA World Cup,True,international_results
+400021511,b,history_csv_line_37918,2014-06-23,Croatia,Mexico,1,3,0,FIFA World Cup,True,international_results
+400021511,b,history_csv_line_41666,2018-06-16,Croatia,Nigeria,2,0,3,FIFA World Cup,True,international_results
+400021511,b,history_csv_line_41681,2018-06-21,Croatia,Argentina,3,0,3,FIFA World Cup,True,international_results
+400021511,b,history_csv_line_41698,2018-06-26,Croatia,Iceland,2,1,3,FIFA World Cup,True,international_results
+400021511,b,history_csv_line_41710,2018-07-01,Croatia,Denmark,1,1,1,FIFA World Cup,True,international_results
+400021511,b,history_csv_line_41719,2018-07-07,Croatia,Russia,2,2,1,FIFA World Cup,True,international_results
+400021511,b,history_csv_line_41721,2018-07-11,Croatia,England,2,1,3,FIFA World Cup,True,international_results
+400021511,b,history_csv_line_41723,2018-07-15,Croatia,France,2,4,0,FIFA World Cup,True,international_results
+400021511,b,history_csv_line_45769,2022-11-23,Croatia,Morocco,0,0,1,FIFA World Cup,True,international_results
+400021511,b,history_csv_line_45786,2022-11-27,Croatia,Canada,4,1,3,FIFA World Cup,True,international_results
+400021511,b,history_csv_line_45801,2022-12-01,Croatia,Belgium,0,0,1,FIFA World Cup,True,international_results
+400021511,b,history_csv_line_45811,2022-12-05,Croatia,Japan,1,1,1,FIFA World Cup,True,international_results
+400021511,b,history_csv_line_45815,2022-12-09,Croatia,Brazil,1,1,1,FIFA World Cup,True,international_results
+400021511,b,history_csv_line_45821,2022-12-13,Croatia,Argentina,0,3,0,FIFA World Cup,True,international_results
+400021511,b,history_csv_line_45826,2022-12-17,Croatia,Morocco,2,1,3,FIFA World Cup,True,international_results
+400021501,a,history_csv_line_37885,2014-06-14,Colombia,Greece,3,0,3,FIFA World Cup,True,international_results
+400021501,a,history_csv_line_37902,2014-06-19,Colombia,Ivory Coast,2,1,3,FIFA World Cup,True,international_results
+400021501,a,history_csv_line_37923,2014-06-24,Colombia,Japan,4,1,3,FIFA World Cup,True,international_results
+400021501,a,history_csv_line_37934,2014-06-28,Colombia,Uruguay,2,0,3,FIFA World Cup,True,international_results
+400021501,a,history_csv_line_37943,2014-07-04,Colombia,Brazil,1,2,0,FIFA World Cup,True,international_results
+400021501,a,history_csv_line_41673,2018-06-19,Colombia,Japan,1,2,0,FIFA World Cup,True,international_results
+400021501,a,history_csv_line_41690,2018-06-24,Colombia,Poland,3,0,3,FIFA World Cup,True,international_results
+400021501,a,history_csv_line_41704,2018-06-28,Colombia,Senegal,1,0,3,FIFA World Cup,True,international_results
+400021501,a,history_csv_line_41714,2018-07-03,Colombia,England,1,1,1,FIFA World Cup,True,international_results
+400021448,a,history_csv_line_37889,2014-06-15,Bosnia and Herzegovina,Argentina,1,2,0,FIFA World Cup,True,international_results
+400021448,a,history_csv_line_37911,2014-06-21,Bosnia and Herzegovina,Nigeria,0,1,0,FIFA World Cup,True,international_results
+400021448,a,history_csv_line_37924,2014-06-25,Bosnia and Herzegovina,Iran,3,1,3,FIFA World Cup,True,international_results
+400021448,b,history_csv_line_45759,2022-11-20,Qatar,Ecuador,0,2,0,FIFA World Cup,True,international_results
+400021448,b,history_csv_line_45775,2022-11-25,Qatar,Senegal,1,3,0,FIFA World Cup,True,international_results
+400021448,b,history_csv_line_45792,2022-11-29,Qatar,Netherlands,0,2,0,FIFA World Cup,True,international_results
+400021451,a,history_csv_line_37891,2014-06-15,Switzerland,Ecuador,2,1,3,FIFA World Cup,True,international_results
+400021451,a,history_csv_line_37907,2014-06-20,Switzerland,France,2,5,0,FIFA World Cup,True,international_results
+400021451,a,history_csv_line_37926,2014-06-25,Switzerland,Honduras,3,0,3,FIFA World Cup,True,international_results
+400021451,a,history_csv_line_37940,2014-07-01,Switzerland,Argentina,0,1,0,FIFA World Cup,True,international_results
+400021451,a,history_csv_line_41669,2018-06-17,Switzerland,Brazil,1,1,1,FIFA World Cup,True,international_results
+400021451,a,history_csv_line_41684,2018-06-22,Switzerland,Serbia,2,1,3,FIFA World Cup,True,international_results
+400021451,a,history_csv_line_41702,2018-06-27,Switzerland,Costa Rica,2,2,1,FIFA World Cup,True,international_results
+400021451,a,history_csv_line_41713,2018-07-03,Switzerland,Sweden,0,1,0,FIFA World Cup,True,international_results
+400021451,a,history_csv_line_45771,2022-11-24,Switzerland,Cameroon,1,0,3,FIFA World Cup,True,international_results
+400021451,a,history_csv_line_45788,2022-11-28,Switzerland,Brazil,0,1,0,FIFA World Cup,True,international_results
+400021451,a,history_csv_line_45803,2022-12-02,Switzerland,Serbia,3,2,3,FIFA World Cup,True,international_results
+400021451,a,history_csv_line_45814,2022-12-06,Switzerland,Portugal,1,6,0,FIFA World Cup,True,international_results
+400021451,b,history_csv_line_45770,2022-11-23,Canada,Belgium,0,1,0,FIFA World Cup,True,international_results
+400021451,b,history_csv_line_45786,2022-11-27,Canada,Croatia,1,4,0,FIFA World Cup,True,international_results
+400021451,b,history_csv_line_45802,2022-12-01,Canada,Morocco,1,2,0,FIFA World Cup,True,international_results
+400021452,a,history_csv_line_41661,2018-06-15,Morocco,Iran,0,1,0,FIFA World Cup,True,international_results
+400021452,a,history_csv_line_41676,2018-06-20,Morocco,Portugal,0,1,0,FIFA World Cup,True,international_results
+400021452,a,history_csv_line_41693,2018-06-25,Morocco,Spain,2,2,1,FIFA World Cup,True,international_results
+400021452,a,history_csv_line_45769,2022-11-23,Morocco,Croatia,0,0,1,FIFA World Cup,True,international_results
+400021452,a,history_csv_line_45785,2022-11-27,Morocco,Belgium,2,0,3,FIFA World Cup,True,international_results
+400021452,a,history_csv_line_45802,2022-12-01,Morocco,Canada,2,1,3,FIFA World Cup,True,international_results
+400021452,a,history_csv_line_45813,2022-12-06,Morocco,Spain,0,0,1,FIFA World Cup,True,international_results
+400021452,a,history_csv_line_45818,2022-12-10,Morocco,Portugal,1,0,3,FIFA World Cup,True,international_results
+400021452,a,history_csv_line_45822,2022-12-14,Morocco,France,0,2,0,FIFA World Cup,True,international_results
+400021452,a,history_csv_line_45826,2022-12-17,Morocco,Croatia,1,2,0,FIFA World Cup,True,international_results
+400021455,b,history_csv_line_37881,2014-06-12,Brazil,Croatia,3,1,3,FIFA World Cup,True,international_results
+400021455,b,history_csv_line_37896,2014-06-17,Brazil,Mexico,0,0,1,FIFA World Cup,True,international_results
+400021455,b,history_csv_line_37917,2014-06-23,Brazil,Cameroon,4,1,3,FIFA World Cup,True,international_results
+400021455,b,history_csv_line_37933,2014-06-28,Brazil,Chile,1,1,1,FIFA World Cup,True,international_results
+400021455,b,history_csv_line_37943,2014-07-04,Brazil,Colombia,2,1,3,FIFA World Cup,True,international_results
+400021455,b,history_csv_line_37948,2014-07-08,Brazil,Germany,1,7,0,FIFA World Cup,True,international_results
+400021455,b,history_csv_line_37951,2014-07-12,Brazil,Netherlands,0,3,0,FIFA World Cup,True,international_results
+400021455,b,history_csv_line_41669,2018-06-17,Brazil,Switzerland,1,1,1,FIFA World Cup,True,international_results
+400021455,b,history_csv_line_41682,2018-06-22,Brazil,Costa Rica,2,0,3,FIFA World Cup,True,international_results
+400021455,b,history_csv_line_41701,2018-06-27,Brazil,Serbia,2,0,3,FIFA World Cup,True,international_results
+400021455,b,history_csv_line_41711,2018-07-02,Brazil,Mexico,2,0,3,FIFA World Cup,True,international_results
+400021455,b,history_csv_line_41717,2018-07-06,Brazil,Belgium,1,2,0,FIFA World Cup,True,international_results
+400021455,b,history_csv_line_45772,2022-11-24,Brazil,Serbia,2,0,3,FIFA World Cup,True,international_results
+400021455,b,history_csv_line_45788,2022-11-28,Brazil,Switzerland,1,0,3,FIFA World Cup,True,international_results
+400021455,b,history_csv_line_45804,2022-12-02,Brazil,Cameroon,0,1,0,FIFA World Cup,True,international_results
+400021455,b,history_csv_line_45812,2022-12-05,Brazil,South Korea,4,1,3,FIFA World Cup,True,international_results
+400021455,b,history_csv_line_45815,2022-12-09,Brazil,Croatia,1,1,1,FIFA World Cup,True,international_results
+400021444,b,history_csv_line_37883,2014-06-13,Mexico,Cameroon,1,0,3,FIFA World Cup,True,international_results
+400021444,b,history_csv_line_37896,2014-06-17,Mexico,Brazil,0,0,1,FIFA World Cup,True,international_results
+400021444,b,history_csv_line_37918,2014-06-23,Mexico,Croatia,3,1,3,FIFA World Cup,True,international_results
+400021444,b,history_csv_line_37937,2014-06-29,Mexico,Netherlands,1,2,0,FIFA World Cup,True,international_results
+400021444,b,history_csv_line_41668,2018-06-17,Mexico,Germany,1,0,3,FIFA World Cup,True,international_results
+400021444,b,history_csv_line_41686,2018-06-23,Mexico,South Korea,2,1,3,FIFA World Cup,True,international_results
+400021444,b,history_csv_line_41700,2018-06-27,Mexico,Sweden,0,3,0,FIFA World Cup,True,international_results
+400021444,b,history_csv_line_41711,2018-07-02,Mexico,Brazil,0,2,0,FIFA World Cup,True,international_results
+400021444,b,history_csv_line_45764,2022-11-22,Mexico,Poland,0,0,1,FIFA World Cup,True,international_results
+400021444,b,history_csv_line_45780,2022-11-26,Mexico,Argentina,0,2,0,FIFA World Cup,True,international_results
+400021444,b,history_csv_line_45796,2022-11-30,Mexico,Saudi Arabia,2,1,3,FIFA World Cup,True,international_results
+400021445,b,history_csv_line_37897,2014-06-17,South Korea,Russia,1,1,1,FIFA World Cup,True,international_results
+400021445,b,history_csv_line_37914,2014-06-22,South Korea,Algeria,2,4,0,FIFA World Cup,True,international_results
+400021445,b,history_csv_line_37930,2014-06-26,South Korea,Belgium,0,1,0,FIFA World Cup,True,international_results
+400021445,b,history_csv_line_41670,2018-06-18,South Korea,Sweden,0,1,0,FIFA World Cup,True,international_results
+400021445,b,history_csv_line_41686,2018-06-23,South Korea,Mexico,1,2,0,FIFA World Cup,True,international_results
+400021445,b,history_csv_line_41699,2018-06-27,South Korea,Germany,2,0,3,FIFA World Cup,True,international_results
+400021445,b,history_csv_line_45773,2022-11-24,South Korea,Uruguay,0,0,1,FIFA World Cup,True,international_results
+400021445,b,history_csv_line_45789,2022-11-28,South Korea,Ghana,2,3,0,FIFA World Cup,True,international_results
+400021445,b,history_csv_line_45806,2022-12-02,South Korea,Portugal,2,1,3,FIFA World Cup,True,international_results
+400021445,b,history_csv_line_45812,2022-12-05,South Korea,Brazil,1,4,0,FIFA World Cup,True,international_results
+400021466,a,history_csv_line_37891,2014-06-15,Ecuador,Switzerland,1,2,0,FIFA World Cup,True,international_results
+400021466,a,history_csv_line_37905,2014-06-20,Ecuador,Honduras,2,1,3,FIFA World Cup,True,international_results
+400021466,a,history_csv_line_37925,2014-06-25,Ecuador,France,0,0,1,FIFA World Cup,True,international_results
+400021466,a,history_csv_line_45759,2022-11-20,Ecuador,Qatar,2,0,3,FIFA World Cup,True,international_results
+400021466,a,history_csv_line_45776,2022-11-25,Ecuador,Netherlands,1,1,1,FIFA World Cup,True,international_results
+400021466,a,history_csv_line_45791,2022-11-29,Ecuador,Senegal,1,2,0,FIFA World Cup,True,international_results
+400021466,b,history_csv_line_37892,2014-06-16,Germany,Portugal,4,0,3,FIFA World Cup,True,international_results
+400021466,b,history_csv_line_37909,2014-06-21,Germany,Ghana,2,2,1,FIFA World Cup,True,international_results
+400021466,b,history_csv_line_37932,2014-06-26,Germany,United States,1,0,3,FIFA World Cup,True,international_results
+400021466,b,history_csv_line_37939,2014-06-30,Germany,Algeria,2,1,3,FIFA World Cup,True,international_results
+400021466,b,history_csv_line_37944,2014-07-04,Germany,France,1,0,3,FIFA World Cup,True,international_results
+400021466,b,history_csv_line_37948,2014-07-08,Germany,Brazil,7,1,3,FIFA World Cup,True,international_results
+400021466,b,history_csv_line_37953,2014-07-13,Germany,Argentina,1,0,3,FIFA World Cup,True,international_results
+400021466,b,history_csv_line_41668,2018-06-17,Germany,Mexico,0,1,0,FIFA World Cup,True,international_results
+400021466,b,history_csv_line_41687,2018-06-23,Germany,Sweden,2,1,3,FIFA World Cup,True,international_results
+400021466,b,history_csv_line_41699,2018-06-27,Germany,South Korea,0,2,0,FIFA World Cup,True,international_results
+400021466,b,history_csv_line_45767,2022-11-23,Germany,Japan,1,2,0,FIFA World Cup,True,international_results
+400021466,b,history_csv_line_45784,2022-11-27,Germany,Spain,1,1,1,FIFA World Cup,True,international_results
+400021466,b,history_csv_line_45800,2022-12-01,Germany,Costa Rica,4,2,3,FIFA World Cup,True,international_results
+400021468,b,history_csv_line_37887,2014-06-14,Ivory Coast,Japan,2,1,3,FIFA World Cup,True,international_results
+400021468,b,history_csv_line_37902,2014-06-19,Ivory Coast,Colombia,1,2,0,FIFA World Cup,True,international_results
+400021468,b,history_csv_line_37921,2014-06-24,Ivory Coast,Greece,1,2,0,FIFA World Cup,True,international_results
+400021471,a,history_csv_line_37887,2014-06-14,Japan,Ivory Coast,1,2,0,FIFA World Cup,True,international_results
+400021471,a,history_csv_line_37903,2014-06-19,Japan,Greece,0,0,1,FIFA World Cup,True,international_results
+400021471,a,history_csv_line_37923,2014-06-24,Japan,Colombia,1,4,0,FIFA World Cup,True,international_results
+400021471,a,history_csv_line_41673,2018-06-19,Japan,Colombia,2,1,3,FIFA World Cup,True,international_results
+400021471,a,history_csv_line_41689,2018-06-24,Japan,Senegal,2,2,1,FIFA World Cup,True,international_results
+400021471,a,history_csv_line_41703,2018-06-28,Japan,Poland,0,1,0,FIFA World Cup,True,international_results
+400021471,a,history_csv_line_41712,2018-07-02,Japan,Belgium,2,3,0,FIFA World Cup,True,international_results
+400021471,a,history_csv_line_45767,2022-11-23,Japan,Germany,2,1,3,FIFA World Cup,True,international_results
+400021471,a,history_csv_line_45783,2022-11-27,Japan,Costa Rica,0,1,0,FIFA World Cup,True,international_results
+400021471,a,history_csv_line_45799,2022-12-01,Japan,Spain,2,1,3,FIFA World Cup,True,international_results
+400021471,a,history_csv_line_45811,2022-12-05,Japan,Croatia,1,1,1,FIFA World Cup,True,international_results
+400021471,b,history_csv_line_41670,2018-06-18,Sweden,South Korea,1,0,3,FIFA World Cup,True,international_results
+400021471,b,history_csv_line_41687,2018-06-23,Sweden,Germany,1,2,0,FIFA World Cup,True,international_results
+400021471,b,history_csv_line_41700,2018-06-27,Sweden,Mexico,3,0,3,FIFA World Cup,True,international_results
+400021471,b,history_csv_line_41713,2018-07-03,Sweden,Switzerland,1,0,3,FIFA World Cup,True,international_results
+400021471,b,history_csv_line_41718,2018-07-07,Sweden,England,0,2,0,FIFA World Cup,True,international_results
+400021473,a,history_csv_line_41672,2018-06-18,Tunisia,England,1,2,0,FIFA World Cup,True,international_results
+400021473,a,history_csv_line_41685,2018-06-23,Tunisia,Belgium,2,5,0,FIFA World Cup,True,international_results
+400021473,a,history_csv_line_41705,2018-06-28,Tunisia,Panama,2,1,3,FIFA World Cup,True,international_results
+400021473,a,history_csv_line_45765,2022-11-22,Tunisia,Denmark,0,0,1,FIFA World Cup,True,international_results
+400021473,a,history_csv_line_45781,2022-11-26,Tunisia,Australia,0,1,0,FIFA World Cup,True,international_results
+400021473,a,history_csv_line_45798,2022-11-30,Tunisia,France,1,0,3,FIFA World Cup,True,international_results
+400021473,b,history_csv_line_37884,2014-06-13,Netherlands,Spain,5,1,3,FIFA World Cup,True,international_results
+400021473,b,history_csv_line_37898,2014-06-18,Netherlands,Australia,3,2,3,FIFA World Cup,True,international_results
+400021473,b,history_csv_line_37919,2014-06-23,Netherlands,Chile,2,0,3,FIFA World Cup,True,international_results
+400021473,b,history_csv_line_37937,2014-06-29,Netherlands,Mexico,2,1,3,FIFA World Cup,True,international_results
+400021473,b,history_csv_line_37946,2014-07-05,Netherlands,Costa Rica,0,0,1,FIFA World Cup,True,international_results
+400021473,b,history_csv_line_37949,2014-07-09,Netherlands,Argentina,0,0,1,FIFA World Cup,True,international_results
+400021473,b,history_csv_line_37951,2014-07-12,Netherlands,Brazil,3,0,3,FIFA World Cup,True,international_results
+400021473,b,history_csv_line_45760,2022-11-21,Netherlands,Senegal,2,0,3,FIFA World Cup,True,international_results
+400021473,b,history_csv_line_45776,2022-11-25,Netherlands,Ecuador,1,1,1,FIFA World Cup,True,international_results
+400021473,b,history_csv_line_45792,2022-11-29,Netherlands,Qatar,2,0,3,FIFA World Cup,True,international_results
+400021473,b,history_csv_line_45807,2022-12-03,Netherlands,United States,3,1,3,FIFA World Cup,True,international_results
+400021473,b,history_csv_line_45816,2022-12-09,Netherlands,Argentina,2,2,1,FIFA World Cup,True,international_results
+400021459,b,history_csv_line_37893,2014-06-16,United States,Ghana,2,1,3,FIFA World Cup,True,international_results
+400021459,b,history_csv_line_37915,2014-06-22,United States,Portugal,2,2,1,FIFA World Cup,True,international_results
+400021459,b,history_csv_line_37932,2014-06-26,United States,Germany,0,1,0,FIFA World Cup,True,international_results
+400021459,b,history_csv_line_37941,2014-07-01,United States,Belgium,1,2,0,FIFA World Cup,True,international_results
+400021459,b,history_csv_line_45762,2022-11-21,United States,Wales,1,1,1,FIFA World Cup,True,international_results
+400021459,b,history_csv_line_45778,2022-11-25,United States,England,0,0,1,FIFA World Cup,True,international_results
+400021459,b,history_csv_line_45794,2022-11-29,United States,Iran,1,0,3,FIFA World Cup,True,international_results
+400021459,b,history_csv_line_45807,2022-12-03,United States,Netherlands,1,3,0,FIFA World Cup,True,international_results
+400021461,b,history_csv_line_37882,2014-06-13,Australia,Chile,1,3,0,FIFA World Cup,True,international_results
+400021461,b,history_csv_line_37898,2014-06-18,Australia,Netherlands,2,3,0,FIFA World Cup,True,international_results
+400021461,b,history_csv_line_37916,2014-06-23,Australia,Spain,0,3,0,FIFA World Cup,True,international_results
+400021461,b,history_csv_line_41663,2018-06-16,Australia,France,1,2,0,FIFA World Cup,True,international_results
+400021461,b,history_csv_line_41679,2018-06-21,Australia,Denmark,1,1,1,FIFA World Cup,True,international_results
+400021461,b,history_csv_line_41695,2018-06-26,Australia,Peru,0,2,0,FIFA World Cup,True,international_results
+400021461,b,history_csv_line_45766,2022-11-22,Australia,France,1,4,0,FIFA World Cup,True,international_results
+400021461,b,history_csv_line_45781,2022-11-26,Australia,Tunisia,1,0,3,FIFA World Cup,True,international_results
+400021461,b,history_csv_line_45797,2022-11-30,Australia,Denmark,1,0,3,FIFA World Cup,True,international_results
+400021461,b,history_csv_line_45808,2022-12-03,Australia,Argentina,1,2,0,FIFA World Cup,True,international_results
+400021489,b,history_csv_line_37890,2014-06-15,France,Honduras,3,0,3,FIFA World Cup,True,international_results
+400021489,b,history_csv_line_37907,2014-06-20,France,Switzerland,5,2,3,FIFA World Cup,True,international_results
+400021489,b,history_csv_line_37925,2014-06-25,France,Ecuador,0,0,1,FIFA World Cup,True,international_results
+400021489,b,history_csv_line_37938,2014-06-30,France,Nigeria,2,0,3,FIFA World Cup,True,international_results
+400021489,b,history_csv_line_37944,2014-07-04,France,Germany,0,1,0,FIFA World Cup,True,international_results
+400021489,b,history_csv_line_41663,2018-06-16,France,Australia,2,1,3,FIFA World Cup,True,international_results
+400021489,b,history_csv_line_41680,2018-06-21,France,Peru,1,0,3,FIFA World Cup,True,international_results
+400021489,b,history_csv_line_41696,2018-06-26,France,Denmark,0,0,1,FIFA World Cup,True,international_results
+400021489,b,history_csv_line_41707,2018-06-30,France,Argentina,4,3,3,FIFA World Cup,True,international_results
+400021489,b,history_csv_line_41716,2018-07-06,France,Uruguay,2,0,3,FIFA World Cup,True,international_results
+400021489,b,history_csv_line_41720,2018-07-10,France,Belgium,1,0,3,FIFA World Cup,True,international_results
+400021489,b,history_csv_line_41723,2018-07-15,France,Croatia,4,2,3,FIFA World Cup,True,international_results
+400021489,b,history_csv_line_45766,2022-11-22,France,Australia,4,1,3,FIFA World Cup,True,international_results
+400021489,b,history_csv_line_45782,2022-11-26,France,Denmark,2,1,3,FIFA World Cup,True,international_results
+400021489,b,history_csv_line_45798,2022-11-30,France,Tunisia,0,1,0,FIFA World Cup,True,international_results
+400021489,b,history_csv_line_45809,2022-12-04,France,Poland,3,1,3,FIFA World Cup,True,international_results
+400021489,b,history_csv_line_45819,2022-12-10,France,England,2,1,3,FIFA World Cup,True,international_results
+400021489,b,history_csv_line_45822,2022-12-14,France,Morocco,2,0,3,FIFA World Cup,True,international_results
+400021489,b,history_csv_line_45828,2022-12-18,France,Argentina,3,3,1,FIFA World Cup,True,international_results
+400021493,a,history_csv_line_41674,2018-06-19,Senegal,Poland,2,1,3,FIFA World Cup,True,international_results
+400021493,a,history_csv_line_41689,2018-06-24,Senegal,Japan,2,2,1,FIFA World Cup,True,international_results
+400021493,a,history_csv_line_41704,2018-06-28,Senegal,Colombia,0,1,0,FIFA World Cup,True,international_results
+400021493,a,history_csv_line_45760,2022-11-21,Senegal,Netherlands,0,2,0,FIFA World Cup,True,international_results
+400021493,a,history_csv_line_45775,2022-11-25,Senegal,Qatar,3,1,3,FIFA World Cup,True,international_results
+400021493,a,history_csv_line_45791,2022-11-29,Senegal,Ecuador,2,1,3,FIFA World Cup,True,international_results
+400021493,a,history_csv_line_45810,2022-12-04,Senegal,England,0,3,0,FIFA World Cup,True,international_results
+400021484,a,history_csv_line_37888,2014-06-14,Uruguay,Costa Rica,1,3,0,FIFA World Cup,True,international_results
+400021484,a,history_csv_line_37904,2014-06-19,Uruguay,England,2,1,3,FIFA World Cup,True,international_results
+400021484,a,history_csv_line_37922,2014-06-24,Uruguay,Italy,1,0,3,FIFA World Cup,True,international_results
+400021484,a,history_csv_line_37934,2014-06-28,Uruguay,Colombia,0,2,0,FIFA World Cup,True,international_results
+400021484,a,history_csv_line_41660,2018-06-15,Uruguay,Egypt,1,0,3,FIFA World Cup,True,international_results
+400021484,a,history_csv_line_41677,2018-06-20,Uruguay,Saudi Arabia,1,0,3,FIFA World Cup,True,international_results
+400021484,a,history_csv_line_41691,2018-06-25,Uruguay,Russia,3,0,3,FIFA World Cup,True,international_results
+400021484,a,history_csv_line_41708,2018-06-30,Uruguay,Portugal,2,1,3,FIFA World Cup,True,international_results
+400021484,a,history_csv_line_41716,2018-07-06,Uruguay,France,0,2,0,FIFA World Cup,True,international_results
+400021484,a,history_csv_line_45773,2022-11-24,Uruguay,South Korea,0,0,1,FIFA World Cup,True,international_results
+400021484,a,history_csv_line_45790,2022-11-28,Uruguay,Portugal,0,2,0,FIFA World Cup,True,international_results
+400021484,a,history_csv_line_45805,2022-12-02,Uruguay,Ghana,2,0,3,FIFA World Cup,True,international_results
+400021484,b,history_csv_line_37884,2014-06-13,Spain,Netherlands,1,5,0,FIFA World Cup,True,international_results
+400021484,b,history_csv_line_37901,2014-06-18,Spain,Chile,0,2,0,FIFA World Cup,True,international_results
+400021484,b,history_csv_line_37916,2014-06-23,Spain,Australia,3,0,3,FIFA World Cup,True,international_results
+400021484,b,history_csv_line_41662,2018-06-15,Spain,Portugal,3,3,1,FIFA World Cup,True,international_results
+400021484,b,history_csv_line_41678,2018-06-20,Spain,Iran,1,0,3,FIFA World Cup,True,international_results
+400021484,b,history_csv_line_41693,2018-06-25,Spain,Morocco,2,2,1,FIFA World Cup,True,international_results
+400021484,b,history_csv_line_41709,2018-07-01,Spain,Russia,1,1,1,FIFA World Cup,True,international_results
+400021484,b,history_csv_line_45768,2022-11-23,Spain,Costa Rica,7,0,3,FIFA World Cup,True,international_results
+400021484,b,history_csv_line_45784,2022-11-27,Spain,Germany,1,1,1,FIFA World Cup,True,international_results
+400021484,b,history_csv_line_45799,2022-12-01,Spain,Japan,1,2,0,FIFA World Cup,True,international_results
+400021484,b,history_csv_line_45813,2022-12-06,Spain,Morocco,0,0,1,FIFA World Cup,True,international_results
+400021485,b,history_csv_line_41659,2018-06-14,Saudi Arabia,Russia,0,5,0,FIFA World Cup,True,international_results
+400021485,b,history_csv_line_41677,2018-06-20,Saudi Arabia,Uruguay,0,1,0,FIFA World Cup,True,international_results
+400021485,b,history_csv_line_41692,2018-06-25,Saudi Arabia,Egypt,2,1,3,FIFA World Cup,True,international_results
+400021485,b,history_csv_line_45763,2022-11-22,Saudi Arabia,Argentina,2,1,3,FIFA World Cup,True,international_results
+400021485,b,history_csv_line_45779,2022-11-26,Saudi Arabia,Poland,0,2,0,FIFA World Cup,True,international_results
+400021485,b,history_csv_line_45796,2022-11-30,Saudi Arabia,Mexico,1,2,0,FIFA World Cup,True,international_results
+400021479,a,history_csv_line_41660,2018-06-15,Egypt,Uruguay,0,1,0,FIFA World Cup,True,international_results
+400021479,a,history_csv_line_41675,2018-06-19,Egypt,Russia,1,3,0,FIFA World Cup,True,international_results
+400021479,a,history_csv_line_41692,2018-06-25,Egypt,Saudi Arabia,1,2,0,FIFA World Cup,True,international_results
+400021479,b,history_csv_line_37894,2014-06-16,Iran,Nigeria,0,0,1,FIFA World Cup,True,international_results
+400021479,b,history_csv_line_37908,2014-06-21,Iran,Argentina,0,1,0,FIFA World Cup,True,international_results
+400021479,b,history_csv_line_37924,2014-06-25,Iran,Bosnia and Herzegovina,1,3,0,FIFA World Cup,True,international_results
+400021479,b,history_csv_line_41661,2018-06-15,Iran,Morocco,1,0,3,FIFA World Cup,True,international_results
+400021479,b,history_csv_line_41678,2018-06-20,Iran,Spain,0,1,0,FIFA World Cup,True,international_results
+400021479,b,history_csv_line_41694,2018-06-25,Iran,Portugal,1,1,1,FIFA World Cup,True,international_results
+400021479,b,history_csv_line_45761,2022-11-21,Iran,England,2,6,0,FIFA World Cup,True,international_results
+400021479,b,history_csv_line_45777,2022-11-25,Iran,Wales,2,0,3,FIFA World Cup,True,international_results
+400021479,b,history_csv_line_45794,2022-11-29,Iran,United States,0,1,0,FIFA World Cup,True,international_results
+400021481,b,history_csv_line_37895,2014-06-17,Belgium,Algeria,2,1,3,FIFA World Cup,True,international_results
+400021481,b,history_csv_line_37912,2014-06-22,Belgium,Russia,1,0,3,FIFA World Cup,True,international_results
+400021481,b,history_csv_line_37930,2014-06-26,Belgium,South Korea,1,0,3,FIFA World Cup,True,international_results
+400021481,b,history_csv_line_37941,2014-07-01,Belgium,United States,2,1,3,FIFA World Cup,True,international_results
+400021481,b,history_csv_line_37945,2014-07-05,Belgium,Argentina,0,1,0,FIFA World Cup,True,international_results
+400021481,b,history_csv_line_41671,2018-06-18,Belgium,Panama,3,0,3,FIFA World Cup,True,international_results
+400021481,b,history_csv_line_41685,2018-06-23,Belgium,Tunisia,5,2,3,FIFA World Cup,True,international_results
+400021481,b,history_csv_line_41706,2018-06-28,Belgium,England,1,0,3,FIFA World Cup,True,international_results
+400021481,b,history_csv_line_41712,2018-07-02,Belgium,Japan,3,2,3,FIFA World Cup,True,international_results
+400021481,b,history_csv_line_41717,2018-07-06,Belgium,Brazil,2,1,3,FIFA World Cup,True,international_results
+400021481,b,history_csv_line_41720,2018-07-10,Belgium,France,0,1,0,FIFA World Cup,True,international_results
+400021481,b,history_csv_line_41722,2018-07-14,Belgium,England,2,0,3,FIFA World Cup,True,international_results
+400021481,b,history_csv_line_45770,2022-11-23,Belgium,Canada,1,0,3,FIFA World Cup,True,international_results
+400021481,b,history_csv_line_45785,2022-11-27,Belgium,Morocco,0,2,0,FIFA World Cup,True,international_results
+400021481,b,history_csv_line_45801,2022-12-01,Belgium,Croatia,0,0,1,FIFA World Cup,True,international_results
+400021508,a,history_csv_line_41671,2018-06-18,Panama,Belgium,0,3,0,FIFA World Cup,True,international_results
+400021508,a,history_csv_line_41688,2018-06-24,Panama,England,1,6,0,FIFA World Cup,True,international_results
+400021508,a,history_csv_line_41705,2018-06-28,Panama,Tunisia,1,2,0,FIFA World Cup,True,international_results
+400021508,b,history_csv_line_37886,2014-06-14,England,Italy,1,2,0,FIFA World Cup,True,international_results
+400021508,b,history_csv_line_37904,2014-06-19,England,Uruguay,1,2,0,FIFA World Cup,True,international_results
+400021508,b,history_csv_line_37920,2014-06-24,England,Costa Rica,0,0,1,FIFA World Cup,True,international_results
+400021508,b,history_csv_line_41672,2018-06-18,England,Tunisia,2,1,3,FIFA World Cup,True,international_results
+400021508,b,history_csv_line_41688,2018-06-24,England,Panama,6,1,3,FIFA World Cup,True,international_results
+400021508,b,history_csv_line_41706,2018-06-28,England,Belgium,0,1,0,FIFA World Cup,True,international_results
+400021508,b,history_csv_line_41714,2018-07-03,England,Colombia,1,1,1,FIFA World Cup,True,international_results
+400021508,b,history_csv_line_41718,2018-07-07,England,Sweden,2,0,3,FIFA World Cup,True,international_results
+400021508,b,history_csv_line_41721,2018-07-11,England,Croatia,1,2,0,FIFA World Cup,True,international_results
+400021508,b,history_csv_line_41722,2018-07-14,England,Belgium,0,2,0,FIFA World Cup,True,international_results
+400021508,b,history_csv_line_45761,2022-11-21,England,Iran,6,2,3,FIFA World Cup,True,international_results
+400021508,b,history_csv_line_45778,2022-11-25,England,United States,0,0,1,FIFA World Cup,True,international_results
+400021508,b,history_csv_line_45793,2022-11-29,England,Wales,3,0,3,FIFA World Cup,True,international_results
+400021508,b,history_csv_line_45810,2022-12-04,England,Senegal,3,0,3,FIFA World Cup,True,international_results
+400021508,b,history_csv_line_45819,2022-12-10,England,France,1,2,0,FIFA World Cup,True,international_results
+400021509,a,history_csv_line_37881,2014-06-12,Croatia,Brazil,1,3,0,FIFA World Cup,True,international_results
+400021509,a,history_csv_line_37899,2014-06-18,Croatia,Cameroon,4,0,3,FIFA World Cup,True,international_results
+400021509,a,history_csv_line_37918,2014-06-23,Croatia,Mexico,1,3,0,FIFA World Cup,True,international_results
+400021509,a,history_csv_line_41666,2018-06-16,Croatia,Nigeria,2,0,3,FIFA World Cup,True,international_results
+400021509,a,history_csv_line_41681,2018-06-21,Croatia,Argentina,3,0,3,FIFA World Cup,True,international_results
+400021509,a,history_csv_line_41698,2018-06-26,Croatia,Iceland,2,1,3,FIFA World Cup,True,international_results
+400021509,a,history_csv_line_41710,2018-07-01,Croatia,Denmark,1,1,1,FIFA World Cup,True,international_results
+400021509,a,history_csv_line_41719,2018-07-07,Croatia,Russia,2,2,1,FIFA World Cup,True,international_results
+400021509,a,history_csv_line_41721,2018-07-11,Croatia,England,2,1,3,FIFA World Cup,True,international_results
+400021509,a,history_csv_line_41723,2018-07-15,Croatia,France,2,4,0,FIFA World Cup,True,international_results
+400021509,a,history_csv_line_45769,2022-11-23,Croatia,Morocco,0,0,1,FIFA World Cup,True,international_results
+400021509,a,history_csv_line_45786,2022-11-27,Croatia,Canada,4,1,3,FIFA World Cup,True,international_results
+400021509,a,history_csv_line_45801,2022-12-01,Croatia,Belgium,0,0,1,FIFA World Cup,True,international_results
+400021509,a,history_csv_line_45811,2022-12-05,Croatia,Japan,1,1,1,FIFA World Cup,True,international_results
+400021509,a,history_csv_line_45815,2022-12-09,Croatia,Brazil,1,1,1,FIFA World Cup,True,international_results
+400021509,a,history_csv_line_45821,2022-12-13,Croatia,Argentina,0,3,0,FIFA World Cup,True,international_results
+400021509,a,history_csv_line_45826,2022-12-17,Croatia,Morocco,2,1,3,FIFA World Cup,True,international_results
+400021509,b,history_csv_line_37893,2014-06-16,Ghana,United States,1,2,0,FIFA World Cup,True,international_results
+400021509,b,history_csv_line_37909,2014-06-21,Ghana,Germany,2,2,1,FIFA World Cup,True,international_results
+400021509,b,history_csv_line_37931,2014-06-26,Ghana,Portugal,1,2,0,FIFA World Cup,True,international_results
+400021509,b,history_csv_line_45774,2022-11-24,Ghana,Portugal,2,3,0,FIFA World Cup,True,international_results
+400021509,b,history_csv_line_45789,2022-11-28,Ghana,South Korea,3,2,3,FIFA World Cup,True,international_results
+400021509,b,history_csv_line_45805,2022-12-02,Ghana,Uruguay,0,2,0,FIFA World Cup,True,international_results
+400021505,a,history_csv_line_37885,2014-06-14,Colombia,Greece,3,0,3,FIFA World Cup,True,international_results
+400021505,a,history_csv_line_37902,2014-06-19,Colombia,Ivory Coast,2,1,3,FIFA World Cup,True,international_results
+400021505,a,history_csv_line_37923,2014-06-24,Colombia,Japan,4,1,3,FIFA World Cup,True,international_results
+400021505,a,history_csv_line_37934,2014-06-28,Colombia,Uruguay,2,0,3,FIFA World Cup,True,international_results
+400021505,a,history_csv_line_37943,2014-07-04,Colombia,Brazil,1,2,0,FIFA World Cup,True,international_results
+400021505,a,history_csv_line_41673,2018-06-19,Colombia,Japan,1,2,0,FIFA World Cup,True,international_results
+400021505,a,history_csv_line_41690,2018-06-24,Colombia,Poland,3,0,3,FIFA World Cup,True,international_results
+400021505,a,history_csv_line_41704,2018-06-28,Colombia,Senegal,1,0,3,FIFA World Cup,True,international_results
+400021505,a,history_csv_line_41714,2018-07-03,Colombia,England,1,1,1,FIFA World Cup,True,international_results
+400021505,b,history_csv_line_37892,2014-06-16,Portugal,Germany,0,4,0,FIFA World Cup,True,international_results
+400021505,b,history_csv_line_37915,2014-06-22,Portugal,United States,2,2,1,FIFA World Cup,True,international_results
+400021505,b,history_csv_line_37931,2014-06-26,Portugal,Ghana,2,1,3,FIFA World Cup,True,international_results
+400021505,b,history_csv_line_41662,2018-06-15,Portugal,Spain,3,3,1,FIFA World Cup,True,international_results
+400021505,b,history_csv_line_41676,2018-06-20,Portugal,Morocco,1,0,3,FIFA World Cup,True,international_results
+400021505,b,history_csv_line_41694,2018-06-25,Portugal,Iran,1,1,1,FIFA World Cup,True,international_results
+400021505,b,history_csv_line_41708,2018-06-30,Portugal,Uruguay,1,2,0,FIFA World Cup,True,international_results
+400021505,b,history_csv_line_45774,2022-11-24,Portugal,Ghana,3,2,3,FIFA World Cup,True,international_results
+400021505,b,history_csv_line_45790,2022-11-28,Portugal,Uruguay,2,0,3,FIFA World Cup,True,international_results
+400021505,b,history_csv_line_45806,2022-12-02,Portugal,South Korea,1,2,0,FIFA World Cup,True,international_results
+400021505,b,history_csv_line_45814,2022-12-06,Portugal,Switzerland,6,1,3,FIFA World Cup,True,international_results
+400021505,b,history_csv_line_45818,2022-12-10,Portugal,Morocco,0,1,0,FIFA World Cup,True,international_results
+400021495,b,history_csv_line_37889,2014-06-15,Argentina,Bosnia and Herzegovina,2,1,3,FIFA World Cup,True,international_results
+400021495,b,history_csv_line_37908,2014-06-21,Argentina,Iran,1,0,3,FIFA World Cup,True,international_results
+400021495,b,history_csv_line_37928,2014-06-25,Argentina,Nigeria,3,2,3,FIFA World Cup,True,international_results
+400021495,b,history_csv_line_37940,2014-07-01,Argentina,Switzerland,1,0,3,FIFA World Cup,True,international_results
+400021495,b,history_csv_line_37945,2014-07-05,Argentina,Belgium,1,0,3,FIFA World Cup,True,international_results
+400021495,b,history_csv_line_37949,2014-07-09,Argentina,Netherlands,0,0,1,FIFA World Cup,True,international_results
+400021495,b,history_csv_line_37953,2014-07-13,Argentina,Germany,0,1,0,FIFA World Cup,True,international_results
+400021495,b,history_csv_line_41664,2018-06-16,Argentina,Iceland,1,1,1,FIFA World Cup,True,international_results
+400021495,b,history_csv_line_41681,2018-06-21,Argentina,Croatia,0,3,0,FIFA World Cup,True,international_results
+400021495,b,history_csv_line_41697,2018-06-26,Argentina,Nigeria,2,1,3,FIFA World Cup,True,international_results
+400021495,b,history_csv_line_41707,2018-06-30,Argentina,France,3,4,0,FIFA World Cup,True,international_results
+400021495,b,history_csv_line_45763,2022-11-22,Argentina,Saudi Arabia,1,2,0,FIFA World Cup,True,international_results
+400021495,b,history_csv_line_45780,2022-11-26,Argentina,Mexico,2,0,3,FIFA World Cup,True,international_results
+400021495,b,history_csv_line_45795,2022-11-30,Argentina,Poland,2,0,3,FIFA World Cup,True,international_results
+400021495,b,history_csv_line_45808,2022-12-03,Argentina,Australia,2,1,3,FIFA World Cup,True,international_results
+400021495,b,history_csv_line_45816,2022-12-09,Argentina,Netherlands,2,2,1,FIFA World Cup,True,international_results
+400021495,b,history_csv_line_45821,2022-12-13,Argentina,Croatia,3,0,3,FIFA World Cup,True,international_results
+400021495,b,history_csv_line_45828,2022-12-18,Argentina,France,3,3,1,FIFA World Cup,True,international_results
+400021497,a,history_csv_line_37895,2014-06-17,Algeria,Belgium,1,2,0,FIFA World Cup,True,international_results
+400021497,a,history_csv_line_37914,2014-06-22,Algeria,South Korea,4,2,3,FIFA World Cup,True,international_results
+400021497,a,history_csv_line_37929,2014-06-26,Algeria,Russia,1,1,1,FIFA World Cup,True,international_results
+400021497,a,history_csv_line_37939,2014-06-30,Algeria,Germany,1,2,0,FIFA World Cup,True,international_results
+400021518,b,history_csv_line_45770,2022-11-23,Canada,Belgium,0,1,0,FIFA World Cup,True,international_results
+400021518,b,history_csv_line_45786,2022-11-27,Canada,Croatia,1,4,0,FIFA World Cup,True,international_results
+400021518,b,history_csv_line_45802,2022-12-01,Canada,Morocco,1,2,0,FIFA World Cup,True,international_results
+400021516,a,history_csv_line_37881,2014-06-12,Brazil,Croatia,3,1,3,FIFA World Cup,True,international_results
+400021516,a,history_csv_line_37896,2014-06-17,Brazil,Mexico,0,0,1,FIFA World Cup,True,international_results
+400021516,a,history_csv_line_37917,2014-06-23,Brazil,Cameroon,4,1,3,FIFA World Cup,True,international_results
+400021516,a,history_csv_line_37933,2014-06-28,Brazil,Chile,1,1,1,FIFA World Cup,True,international_results
+400021516,a,history_csv_line_37943,2014-07-04,Brazil,Colombia,2,1,3,FIFA World Cup,True,international_results
+400021516,a,history_csv_line_37948,2014-07-08,Brazil,Germany,1,7,0,FIFA World Cup,True,international_results
+400021516,a,history_csv_line_37951,2014-07-12,Brazil,Netherlands,0,3,0,FIFA World Cup,True,international_results
+400021516,a,history_csv_line_41669,2018-06-17,Brazil,Switzerland,1,1,1,FIFA World Cup,True,international_results
+400021516,a,history_csv_line_41682,2018-06-22,Brazil,Costa Rica,2,0,3,FIFA World Cup,True,international_results
+400021516,a,history_csv_line_41701,2018-06-27,Brazil,Serbia,2,0,3,FIFA World Cup,True,international_results
+400021516,a,history_csv_line_41711,2018-07-02,Brazil,Mexico,2,0,3,FIFA World Cup,True,international_results
+400021516,a,history_csv_line_41717,2018-07-06,Brazil,Belgium,1,2,0,FIFA World Cup,True,international_results
+400021516,a,history_csv_line_45772,2022-11-24,Brazil,Serbia,2,0,3,FIFA World Cup,True,international_results
+400021516,a,history_csv_line_45788,2022-11-28,Brazil,Switzerland,1,0,3,FIFA World Cup,True,international_results
+400021516,a,history_csv_line_45804,2022-12-02,Brazil,Cameroon,0,1,0,FIFA World Cup,True,international_results
+400021516,a,history_csv_line_45812,2022-12-05,Brazil,South Korea,4,1,3,FIFA World Cup,True,international_results
+400021516,a,history_csv_line_45815,2022-12-09,Brazil,Croatia,1,1,1,FIFA World Cup,True,international_results
+400021516,b,history_csv_line_37887,2014-06-14,Japan,Ivory Coast,1,2,0,FIFA World Cup,True,international_results
+400021516,b,history_csv_line_37903,2014-06-19,Japan,Greece,0,0,1,FIFA World Cup,True,international_results
+400021516,b,history_csv_line_37923,2014-06-24,Japan,Colombia,1,4,0,FIFA World Cup,True,international_results
+400021516,b,history_csv_line_41673,2018-06-19,Japan,Colombia,2,1,3,FIFA World Cup,True,international_results
+400021516,b,history_csv_line_41689,2018-06-24,Japan,Senegal,2,2,1,FIFA World Cup,True,international_results
+400021516,b,history_csv_line_41703,2018-06-28,Japan,Poland,0,1,0,FIFA World Cup,True,international_results
+400021516,b,history_csv_line_41712,2018-07-02,Japan,Belgium,2,3,0,FIFA World Cup,True,international_results
+400021516,b,history_csv_line_45767,2022-11-23,Japan,Germany,2,1,3,FIFA World Cup,True,international_results
+400021516,b,history_csv_line_45783,2022-11-27,Japan,Costa Rica,0,1,0,FIFA World Cup,True,international_results
+400021516,b,history_csv_line_45799,2022-12-01,Japan,Spain,2,1,3,FIFA World Cup,True,international_results
+400021516,b,history_csv_line_45811,2022-12-05,Japan,Croatia,1,1,1,FIFA World Cup,True,international_results
+400021513,a,history_csv_line_37892,2014-06-16,Germany,Portugal,4,0,3,FIFA World Cup,True,international_results
+400021513,a,history_csv_line_37909,2014-06-21,Germany,Ghana,2,2,1,FIFA World Cup,True,international_results
+400021513,a,history_csv_line_37932,2014-06-26,Germany,United States,1,0,3,FIFA World Cup,True,international_results
+400021513,a,history_csv_line_37939,2014-06-30,Germany,Algeria,2,1,3,FIFA World Cup,True,international_results
+400021513,a,history_csv_line_37944,2014-07-04,Germany,France,1,0,3,FIFA World Cup,True,international_results
+400021513,a,history_csv_line_37948,2014-07-08,Germany,Brazil,7,1,3,FIFA World Cup,True,international_results
+400021513,a,history_csv_line_37953,2014-07-13,Germany,Argentina,1,0,3,FIFA World Cup,True,international_results
+400021513,a,history_csv_line_41668,2018-06-17,Germany,Mexico,0,1,0,FIFA World Cup,True,international_results
+400021513,a,history_csv_line_41687,2018-06-23,Germany,Sweden,2,1,3,FIFA World Cup,True,international_results
+400021513,a,history_csv_line_41699,2018-06-27,Germany,South Korea,0,2,0,FIFA World Cup,True,international_results
+400021513,a,history_csv_line_45767,2022-11-23,Germany,Japan,1,2,0,FIFA World Cup,True,international_results
+400021513,a,history_csv_line_45784,2022-11-27,Germany,Spain,1,1,1,FIFA World Cup,True,international_results
+400021513,a,history_csv_line_45800,2022-12-01,Germany,Costa Rica,4,2,3,FIFA World Cup,True,international_results
+400021522,a,history_csv_line_37884,2014-06-13,Netherlands,Spain,5,1,3,FIFA World Cup,True,international_results
+400021522,a,history_csv_line_37898,2014-06-18,Netherlands,Australia,3,2,3,FIFA World Cup,True,international_results
+400021522,a,history_csv_line_37919,2014-06-23,Netherlands,Chile,2,0,3,FIFA World Cup,True,international_results
+400021522,a,history_csv_line_37937,2014-06-29,Netherlands,Mexico,2,1,3,FIFA World Cup,True,international_results
+400021522,a,history_csv_line_37946,2014-07-05,Netherlands,Costa Rica,0,0,1,FIFA World Cup,True,international_results
+400021522,a,history_csv_line_37949,2014-07-09,Netherlands,Argentina,0,0,1,FIFA World Cup,True,international_results
+400021522,a,history_csv_line_37951,2014-07-12,Netherlands,Brazil,3,0,3,FIFA World Cup,True,international_results
+400021522,a,history_csv_line_45760,2022-11-21,Netherlands,Senegal,2,0,3,FIFA World Cup,True,international_results
+400021522,a,history_csv_line_45776,2022-11-25,Netherlands,Ecuador,1,1,1,FIFA World Cup,True,international_results
+400021522,a,history_csv_line_45792,2022-11-29,Netherlands,Qatar,2,0,3,FIFA World Cup,True,international_results
+400021522,a,history_csv_line_45807,2022-12-03,Netherlands,United States,3,1,3,FIFA World Cup,True,international_results
+400021522,a,history_csv_line_45816,2022-12-09,Netherlands,Argentina,2,2,1,FIFA World Cup,True,international_results
+400021522,b,history_csv_line_41661,2018-06-15,Morocco,Iran,0,1,0,FIFA World Cup,True,international_results
+400021522,b,history_csv_line_41676,2018-06-20,Morocco,Portugal,0,1,0,FIFA World Cup,True,international_results
+400021522,b,history_csv_line_41693,2018-06-25,Morocco,Spain,2,2,1,FIFA World Cup,True,international_results
+400021522,b,history_csv_line_45769,2022-11-23,Morocco,Croatia,0,0,1,FIFA World Cup,True,international_results
+400021522,b,history_csv_line_45785,2022-11-27,Morocco,Belgium,2,0,3,FIFA World Cup,True,international_results
+400021522,b,history_csv_line_45802,2022-12-01,Morocco,Canada,2,1,3,FIFA World Cup,True,international_results
+400021522,b,history_csv_line_45813,2022-12-06,Morocco,Spain,0,0,1,FIFA World Cup,True,international_results
+400021522,b,history_csv_line_45818,2022-12-10,Morocco,Portugal,1,0,3,FIFA World Cup,True,international_results
+400021522,b,history_csv_line_45822,2022-12-14,Morocco,France,0,2,0,FIFA World Cup,True,international_results
+400021522,b,history_csv_line_45826,2022-12-17,Morocco,Croatia,1,2,0,FIFA World Cup,True,international_results
+400021514,a,history_csv_line_37887,2014-06-14,Ivory Coast,Japan,2,1,3,FIFA World Cup,True,international_results
+400021514,a,history_csv_line_37902,2014-06-19,Ivory Coast,Colombia,1,2,0,FIFA World Cup,True,international_results
+400021514,a,history_csv_line_37921,2014-06-24,Ivory Coast,Greece,1,2,0,FIFA World Cup,True,international_results
+400021523,a,history_csv_line_37890,2014-06-15,France,Honduras,3,0,3,FIFA World Cup,True,international_results
+400021523,a,history_csv_line_37907,2014-06-20,France,Switzerland,5,2,3,FIFA World Cup,True,international_results
+400021523,a,history_csv_line_37925,2014-06-25,France,Ecuador,0,0,1,FIFA World Cup,True,international_results
+400021523,a,history_csv_line_37938,2014-06-30,France,Nigeria,2,0,3,FIFA World Cup,True,international_results
+400021523,a,history_csv_line_37944,2014-07-04,France,Germany,0,1,0,FIFA World Cup,True,international_results
+400021523,a,history_csv_line_41663,2018-06-16,France,Australia,2,1,3,FIFA World Cup,True,international_results
+400021523,a,history_csv_line_41680,2018-06-21,France,Peru,1,0,3,FIFA World Cup,True,international_results
+400021523,a,history_csv_line_41696,2018-06-26,France,Denmark,0,0,1,FIFA World Cup,True,international_results
+400021523,a,history_csv_line_41707,2018-06-30,France,Argentina,4,3,3,FIFA World Cup,True,international_results
+400021523,a,history_csv_line_41716,2018-07-06,France,Uruguay,2,0,3,FIFA World Cup,True,international_results
+400021523,a,history_csv_line_41720,2018-07-10,France,Belgium,1,0,3,FIFA World Cup,True,international_results
+400021523,a,history_csv_line_41723,2018-07-15,France,Croatia,4,2,3,FIFA World Cup,True,international_results
+400021523,a,history_csv_line_45766,2022-11-22,France,Australia,4,1,3,FIFA World Cup,True,international_results
+400021523,a,history_csv_line_45782,2022-11-26,France,Denmark,2,1,3,FIFA World Cup,True,international_results
+400021523,a,history_csv_line_45798,2022-11-30,France,Tunisia,0,1,0,FIFA World Cup,True,international_results
+400021523,a,history_csv_line_45809,2022-12-04,France,Poland,3,1,3,FIFA World Cup,True,international_results
+400021523,a,history_csv_line_45819,2022-12-10,France,England,2,1,3,FIFA World Cup,True,international_results
+400021523,a,history_csv_line_45822,2022-12-14,France,Morocco,2,0,3,FIFA World Cup,True,international_results
+400021523,a,history_csv_line_45828,2022-12-18,France,Argentina,3,3,1,FIFA World Cup,True,international_results
+400021523,b,history_csv_line_41670,2018-06-18,Sweden,South Korea,1,0,3,FIFA World Cup,True,international_results
+400021523,b,history_csv_line_41687,2018-06-23,Sweden,Germany,1,2,0,FIFA World Cup,True,international_results
+400021523,b,history_csv_line_41700,2018-06-27,Sweden,Mexico,3,0,3,FIFA World Cup,True,international_results
+400021523,b,history_csv_line_41713,2018-07-03,Sweden,Switzerland,1,0,3,FIFA World Cup,True,international_results
+400021523,b,history_csv_line_41718,2018-07-07,Sweden,England,0,2,0,FIFA World Cup,True,international_results
+400021520,a,history_csv_line_37883,2014-06-13,Mexico,Cameroon,1,0,3,FIFA World Cup,True,international_results
+400021520,a,history_csv_line_37896,2014-06-17,Mexico,Brazil,0,0,1,FIFA World Cup,True,international_results
+400021520,a,history_csv_line_37918,2014-06-23,Mexico,Croatia,3,1,3,FIFA World Cup,True,international_results
+400021520,a,history_csv_line_37937,2014-06-29,Mexico,Netherlands,1,2,0,FIFA World Cup,True,international_results
+400021520,a,history_csv_line_41668,2018-06-17,Mexico,Germany,1,0,3,FIFA World Cup,True,international_results
+400021520,a,history_csv_line_41686,2018-06-23,Mexico,South Korea,2,1,3,FIFA World Cup,True,international_results
+400021520,a,history_csv_line_41700,2018-06-27,Mexico,Sweden,0,3,0,FIFA World Cup,True,international_results
+400021520,a,history_csv_line_41711,2018-07-02,Mexico,Brazil,0,2,0,FIFA World Cup,True,international_results
+400021520,a,history_csv_line_45764,2022-11-22,Mexico,Poland,0,0,1,FIFA World Cup,True,international_results
+400021520,a,history_csv_line_45780,2022-11-26,Mexico,Argentina,0,2,0,FIFA World Cup,True,international_results
+400021520,a,history_csv_line_45796,2022-11-30,Mexico,Saudi Arabia,2,1,3,FIFA World Cup,True,international_results
+400021520,b,history_csv_line_37891,2014-06-15,Ecuador,Switzerland,1,2,0,FIFA World Cup,True,international_results
+400021520,b,history_csv_line_37905,2014-06-20,Ecuador,Honduras,2,1,3,FIFA World Cup,True,international_results
+400021520,b,history_csv_line_37925,2014-06-25,Ecuador,France,0,0,1,FIFA World Cup,True,international_results
+400021520,b,history_csv_line_45759,2022-11-20,Ecuador,Qatar,2,0,3,FIFA World Cup,True,international_results
+400021520,b,history_csv_line_45776,2022-11-25,Ecuador,Netherlands,1,1,1,FIFA World Cup,True,international_results
+400021520,b,history_csv_line_45791,2022-11-29,Ecuador,Senegal,1,2,0,FIFA World Cup,True,international_results
+400021512,a,history_csv_line_37886,2014-06-14,England,Italy,1,2,0,FIFA World Cup,True,international_results
+400021512,a,history_csv_line_37904,2014-06-19,England,Uruguay,1,2,0,FIFA World Cup,True,international_results
+400021512,a,history_csv_line_37920,2014-06-24,England,Costa Rica,0,0,1,FIFA World Cup,True,international_results
+400021512,a,history_csv_line_41672,2018-06-18,England,Tunisia,2,1,3,FIFA World Cup,True,international_results
+400021512,a,history_csv_line_41688,2018-06-24,England,Panama,6,1,3,FIFA World Cup,True,international_results
+400021512,a,history_csv_line_41706,2018-06-28,England,Belgium,0,1,0,FIFA World Cup,True,international_results
+400021512,a,history_csv_line_41714,2018-07-03,England,Colombia,1,1,1,FIFA World Cup,True,international_results
+400021512,a,history_csv_line_41718,2018-07-07,England,Sweden,2,0,3,FIFA World Cup,True,international_results
+400021512,a,history_csv_line_41721,2018-07-11,England,Croatia,1,2,0,FIFA World Cup,True,international_results
+400021512,a,history_csv_line_41722,2018-07-14,England,Belgium,0,2,0,FIFA World Cup,True,international_results
+400021512,a,history_csv_line_45761,2022-11-21,England,Iran,6,2,3,FIFA World Cup,True,international_results
+400021512,a,history_csv_line_45778,2022-11-25,England,United States,0,0,1,FIFA World Cup,True,international_results
+400021512,a,history_csv_line_45793,2022-11-29,England,Wales,3,0,3,FIFA World Cup,True,international_results
+400021512,a,history_csv_line_45810,2022-12-04,England,Senegal,3,0,3,FIFA World Cup,True,international_results
+400021512,a,history_csv_line_45819,2022-12-10,England,France,1,2,0,FIFA World Cup,True,international_results
+400021525,a,history_csv_line_37895,2014-06-17,Belgium,Algeria,2,1,3,FIFA World Cup,True,international_results
+400021525,a,history_csv_line_37912,2014-06-22,Belgium,Russia,1,0,3,FIFA World Cup,True,international_results
+400021525,a,history_csv_line_37930,2014-06-26,Belgium,South Korea,1,0,3,FIFA World Cup,True,international_results
+400021525,a,history_csv_line_37941,2014-07-01,Belgium,United States,2,1,3,FIFA World Cup,True,international_results
+400021525,a,history_csv_line_37945,2014-07-05,Belgium,Argentina,0,1,0,FIFA World Cup,True,international_results
+400021525,a,history_csv_line_41671,2018-06-18,Belgium,Panama,3,0,3,FIFA World Cup,True,international_results
+400021525,a,history_csv_line_41685,2018-06-23,Belgium,Tunisia,5,2,3,FIFA World Cup,True,international_results
+400021525,a,history_csv_line_41706,2018-06-28,Belgium,England,1,0,3,FIFA World Cup,True,international_results
+400021525,a,history_csv_line_41712,2018-07-02,Belgium,Japan,3,2,3,FIFA World Cup,True,international_results
+400021525,a,history_csv_line_41717,2018-07-06,Belgium,Brazil,2,1,3,FIFA World Cup,True,international_results
+400021525,a,history_csv_line_41720,2018-07-10,Belgium,France,0,1,0,FIFA World Cup,True,international_results
+400021525,a,history_csv_line_41722,2018-07-14,Belgium,England,2,0,3,FIFA World Cup,True,international_results
+400021525,a,history_csv_line_45770,2022-11-23,Belgium,Canada,1,0,3,FIFA World Cup,True,international_results
+400021525,a,history_csv_line_45785,2022-11-27,Belgium,Morocco,0,2,0,FIFA World Cup,True,international_results
+400021525,a,history_csv_line_45801,2022-12-01,Belgium,Croatia,0,0,1,FIFA World Cup,True,international_results
+400021525,b,history_csv_line_41674,2018-06-19,Senegal,Poland,2,1,3,FIFA World Cup,True,international_results
+400021525,b,history_csv_line_41689,2018-06-24,Senegal,Japan,2,2,1,FIFA World Cup,True,international_results
+400021525,b,history_csv_line_41704,2018-06-28,Senegal,Colombia,0,1,0,FIFA World Cup,True,international_results
+400021525,b,history_csv_line_45760,2022-11-21,Senegal,Netherlands,0,2,0,FIFA World Cup,True,international_results
+400021525,b,history_csv_line_45775,2022-11-25,Senegal,Qatar,3,1,3,FIFA World Cup,True,international_results
+400021525,b,history_csv_line_45791,2022-11-29,Senegal,Ecuador,2,1,3,FIFA World Cup,True,international_results
+400021525,b,history_csv_line_45810,2022-12-04,Senegal,England,0,3,0,FIFA World Cup,True,international_results
+400021524,a,history_csv_line_37893,2014-06-16,United States,Ghana,2,1,3,FIFA World Cup,True,international_results
+400021524,a,history_csv_line_37915,2014-06-22,United States,Portugal,2,2,1,FIFA World Cup,True,international_results
+400021524,a,history_csv_line_37932,2014-06-26,United States,Germany,0,1,0,FIFA World Cup,True,international_results
+400021524,a,history_csv_line_37941,2014-07-01,United States,Belgium,1,2,0,FIFA World Cup,True,international_results
+400021524,a,history_csv_line_45762,2022-11-21,United States,Wales,1,1,1,FIFA World Cup,True,international_results
+400021524,a,history_csv_line_45778,2022-11-25,United States,England,0,0,1,FIFA World Cup,True,international_results
+400021524,a,history_csv_line_45794,2022-11-29,United States,Iran,1,0,3,FIFA World Cup,True,international_results
+400021524,a,history_csv_line_45807,2022-12-03,United States,Netherlands,1,3,0,FIFA World Cup,True,international_results
+400021524,b,history_csv_line_37889,2014-06-15,Bosnia and Herzegovina,Argentina,1,2,0,FIFA World Cup,True,international_results
+400021524,b,history_csv_line_37911,2014-06-21,Bosnia and Herzegovina,Nigeria,0,1,0,FIFA World Cup,True,international_results
+400021524,b,history_csv_line_37924,2014-06-25,Bosnia and Herzegovina,Iran,3,1,3,FIFA World Cup,True,international_results
+400021519,a,history_csv_line_37884,2014-06-13,Spain,Netherlands,1,5,0,FIFA World Cup,True,international_results
+400021519,a,history_csv_line_37901,2014-06-18,Spain,Chile,0,2,0,FIFA World Cup,True,international_results
+400021519,a,history_csv_line_37916,2014-06-23,Spain,Australia,3,0,3,FIFA World Cup,True,international_results
+400021519,a,history_csv_line_41662,2018-06-15,Spain,Portugal,3,3,1,FIFA World Cup,True,international_results
+400021519,a,history_csv_line_41678,2018-06-20,Spain,Iran,1,0,3,FIFA World Cup,True,international_results
+400021519,a,history_csv_line_41693,2018-06-25,Spain,Morocco,2,2,1,FIFA World Cup,True,international_results
+400021519,a,history_csv_line_41709,2018-07-01,Spain,Russia,1,1,1,FIFA World Cup,True,international_results
+400021519,a,history_csv_line_45768,2022-11-23,Spain,Costa Rica,7,0,3,FIFA World Cup,True,international_results
+400021519,a,history_csv_line_45784,2022-11-27,Spain,Germany,1,1,1,FIFA World Cup,True,international_results
+400021519,a,history_csv_line_45799,2022-12-01,Spain,Japan,1,2,0,FIFA World Cup,True,international_results
+400021519,a,history_csv_line_45813,2022-12-06,Spain,Morocco,0,0,1,FIFA World Cup,True,international_results
+400021526,a,history_csv_line_37892,2014-06-16,Portugal,Germany,0,4,0,FIFA World Cup,True,international_results
+400021526,a,history_csv_line_37915,2014-06-22,Portugal,United States,2,2,1,FIFA World Cup,True,international_results
+400021526,a,history_csv_line_37931,2014-06-26,Portugal,Ghana,2,1,3,FIFA World Cup,True,international_results
+400021526,a,history_csv_line_41662,2018-06-15,Portugal,Spain,3,3,1,FIFA World Cup,True,international_results
+400021526,a,history_csv_line_41676,2018-06-20,Portugal,Morocco,1,0,3,FIFA World Cup,True,international_results
+400021526,a,history_csv_line_41694,2018-06-25,Portugal,Iran,1,1,1,FIFA World Cup,True,international_results
+400021526,a,history_csv_line_41708,2018-06-30,Portugal,Uruguay,1,2,0,FIFA World Cup,True,international_results
+400021526,a,history_csv_line_45774,2022-11-24,Portugal,Ghana,3,2,3,FIFA World Cup,True,international_results
+400021526,a,history_csv_line_45790,2022-11-28,Portugal,Uruguay,2,0,3,FIFA World Cup,True,international_results
+400021526,a,history_csv_line_45806,2022-12-02,Portugal,South Korea,1,2,0,FIFA World Cup,True,international_results
+400021526,a,history_csv_line_45814,2022-12-06,Portugal,Switzerland,6,1,3,FIFA World Cup,True,international_results
+400021526,a,history_csv_line_45818,2022-12-10,Portugal,Morocco,0,1,0,FIFA World Cup,True,international_results
+400021526,b,history_csv_line_37881,2014-06-12,Croatia,Brazil,1,3,0,FIFA World Cup,True,international_results
+400021526,b,history_csv_line_37899,2014-06-18,Croatia,Cameroon,4,0,3,FIFA World Cup,True,international_results
+400021526,b,history_csv_line_37918,2014-06-23,Croatia,Mexico,1,3,0,FIFA World Cup,True,international_results
+400021526,b,history_csv_line_41666,2018-06-16,Croatia,Nigeria,2,0,3,FIFA World Cup,True,international_results
+400021526,b,history_csv_line_41681,2018-06-21,Croatia,Argentina,3,0,3,FIFA World Cup,True,international_results
+400021526,b,history_csv_line_41698,2018-06-26,Croatia,Iceland,2,1,3,FIFA World Cup,True,international_results
+400021526,b,history_csv_line_41710,2018-07-01,Croatia,Denmark,1,1,1,FIFA World Cup,True,international_results
+400021526,b,history_csv_line_41719,2018-07-07,Croatia,Russia,2,2,1,FIFA World Cup,True,international_results
+400021526,b,history_csv_line_41721,2018-07-11,Croatia,England,2,1,3,FIFA World Cup,True,international_results
+400021526,b,history_csv_line_41723,2018-07-15,Croatia,France,2,4,0,FIFA World Cup,True,international_results
+400021526,b,history_csv_line_45769,2022-11-23,Croatia,Morocco,0,0,1,FIFA World Cup,True,international_results
+400021526,b,history_csv_line_45786,2022-11-27,Croatia,Canada,4,1,3,FIFA World Cup,True,international_results
+400021526,b,history_csv_line_45801,2022-12-01,Croatia,Belgium,0,0,1,FIFA World Cup,True,international_results
+400021526,b,history_csv_line_45811,2022-12-05,Croatia,Japan,1,1,1,FIFA World Cup,True,international_results
+400021526,b,history_csv_line_45815,2022-12-09,Croatia,Brazil,1,1,1,FIFA World Cup,True,international_results
+400021526,b,history_csv_line_45821,2022-12-13,Croatia,Argentina,0,3,0,FIFA World Cup,True,international_results
+400021526,b,history_csv_line_45826,2022-12-17,Croatia,Morocco,2,1,3,FIFA World Cup,True,international_results
+400021527,a,history_csv_line_37891,2014-06-15,Switzerland,Ecuador,2,1,3,FIFA World Cup,True,international_results
+400021527,a,history_csv_line_37907,2014-06-20,Switzerland,France,2,5,0,FIFA World Cup,True,international_results
+400021527,a,history_csv_line_37926,2014-06-25,Switzerland,Honduras,3,0,3,FIFA World Cup,True,international_results
+400021527,a,history_csv_line_37940,2014-07-01,Switzerland,Argentina,0,1,0,FIFA World Cup,True,international_results
+400021527,a,history_csv_line_41669,2018-06-17,Switzerland,Brazil,1,1,1,FIFA World Cup,True,international_results
+400021527,a,history_csv_line_41684,2018-06-22,Switzerland,Serbia,2,1,3,FIFA World Cup,True,international_results
+400021527,a,history_csv_line_41702,2018-06-27,Switzerland,Costa Rica,2,2,1,FIFA World Cup,True,international_results
+400021527,a,history_csv_line_41713,2018-07-03,Switzerland,Sweden,0,1,0,FIFA World Cup,True,international_results
+400021527,a,history_csv_line_45771,2022-11-24,Switzerland,Cameroon,1,0,3,FIFA World Cup,True,international_results
+400021527,a,history_csv_line_45788,2022-11-28,Switzerland,Brazil,0,1,0,FIFA World Cup,True,international_results
+400021527,a,history_csv_line_45803,2022-12-02,Switzerland,Serbia,3,2,3,FIFA World Cup,True,international_results
+400021527,a,history_csv_line_45814,2022-12-06,Switzerland,Portugal,1,6,0,FIFA World Cup,True,international_results
+400021527,b,history_csv_line_37895,2014-06-17,Algeria,Belgium,1,2,0,FIFA World Cup,True,international_results
+400021527,b,history_csv_line_37914,2014-06-22,Algeria,South Korea,4,2,3,FIFA World Cup,True,international_results
+400021527,b,history_csv_line_37929,2014-06-26,Algeria,Russia,1,1,1,FIFA World Cup,True,international_results
+400021527,b,history_csv_line_37939,2014-06-30,Algeria,Germany,1,2,0,FIFA World Cup,True,international_results
+400021515,a,history_csv_line_37882,2014-06-13,Australia,Chile,1,3,0,FIFA World Cup,True,international_results
+400021515,a,history_csv_line_37898,2014-06-18,Australia,Netherlands,2,3,0,FIFA World Cup,True,international_results
+400021515,a,history_csv_line_37916,2014-06-23,Australia,Spain,0,3,0,FIFA World Cup,True,international_results
+400021515,a,history_csv_line_41663,2018-06-16,Australia,France,1,2,0,FIFA World Cup,True,international_results
+400021515,a,history_csv_line_41679,2018-06-21,Australia,Denmark,1,1,1,FIFA World Cup,True,international_results
+400021515,a,history_csv_line_41695,2018-06-26,Australia,Peru,0,2,0,FIFA World Cup,True,international_results
+400021515,a,history_csv_line_45766,2022-11-22,Australia,France,1,4,0,FIFA World Cup,True,international_results
+400021515,a,history_csv_line_45781,2022-11-26,Australia,Tunisia,1,0,3,FIFA World Cup,True,international_results
+400021515,a,history_csv_line_45797,2022-11-30,Australia,Denmark,1,0,3,FIFA World Cup,True,international_results
+400021515,a,history_csv_line_45808,2022-12-03,Australia,Argentina,1,2,0,FIFA World Cup,True,international_results
+400021515,b,history_csv_line_41660,2018-06-15,Egypt,Uruguay,0,1,0,FIFA World Cup,True,international_results
+400021515,b,history_csv_line_41675,2018-06-19,Egypt,Russia,1,3,0,FIFA World Cup,True,international_results
+400021515,b,history_csv_line_41692,2018-06-25,Egypt,Saudi Arabia,1,2,0,FIFA World Cup,True,international_results
+400021521,a,history_csv_line_37889,2014-06-15,Argentina,Bosnia and Herzegovina,2,1,3,FIFA World Cup,True,international_results
+400021521,a,history_csv_line_37908,2014-06-21,Argentina,Iran,1,0,3,FIFA World Cup,True,international_results
+400021521,a,history_csv_line_37928,2014-06-25,Argentina,Nigeria,3,2,3,FIFA World Cup,True,international_results
+400021521,a,history_csv_line_37940,2014-07-01,Argentina,Switzerland,1,0,3,FIFA World Cup,True,international_results
+400021521,a,history_csv_line_37945,2014-07-05,Argentina,Belgium,1,0,3,FIFA World Cup,True,international_results
+400021521,a,history_csv_line_37949,2014-07-09,Argentina,Netherlands,0,0,1,FIFA World Cup,True,international_results
+400021521,a,history_csv_line_37953,2014-07-13,Argentina,Germany,0,1,0,FIFA World Cup,True,international_results
+400021521,a,history_csv_line_41664,2018-06-16,Argentina,Iceland,1,1,1,FIFA World Cup,True,international_results
+400021521,a,history_csv_line_41681,2018-06-21,Argentina,Croatia,0,3,0,FIFA World Cup,True,international_results
+400021521,a,history_csv_line_41697,2018-06-26,Argentina,Nigeria,2,1,3,FIFA World Cup,True,international_results
+400021521,a,history_csv_line_41707,2018-06-30,Argentina,France,3,4,0,FIFA World Cup,True,international_results
+400021521,a,history_csv_line_45763,2022-11-22,Argentina,Saudi Arabia,1,2,0,FIFA World Cup,True,international_results
+400021521,a,history_csv_line_45780,2022-11-26,Argentina,Mexico,2,0,3,FIFA World Cup,True,international_results
+400021521,a,history_csv_line_45795,2022-11-30,Argentina,Poland,2,0,3,FIFA World Cup,True,international_results
+400021521,a,history_csv_line_45808,2022-12-03,Argentina,Australia,2,1,3,FIFA World Cup,True,international_results
+400021521,a,history_csv_line_45816,2022-12-09,Argentina,Netherlands,2,2,1,FIFA World Cup,True,international_results
+400021521,a,history_csv_line_45821,2022-12-13,Argentina,Croatia,3,0,3,FIFA World Cup,True,international_results
+400021521,a,history_csv_line_45828,2022-12-18,Argentina,France,3,3,1,FIFA World Cup,True,international_results
+400021517,a,history_csv_line_37885,2014-06-14,Colombia,Greece,3,0,3,FIFA World Cup,True,international_results
+400021517,a,history_csv_line_37902,2014-06-19,Colombia,Ivory Coast,2,1,3,FIFA World Cup,True,international_results
+400021517,a,history_csv_line_37923,2014-06-24,Colombia,Japan,4,1,3,FIFA World Cup,True,international_results
+400021517,a,history_csv_line_37934,2014-06-28,Colombia,Uruguay,2,0,3,FIFA World Cup,True,international_results
+400021517,a,history_csv_line_37943,2014-07-04,Colombia,Brazil,1,2,0,FIFA World Cup,True,international_results
+400021517,a,history_csv_line_41673,2018-06-19,Colombia,Japan,1,2,0,FIFA World Cup,True,international_results
+400021517,a,history_csv_line_41690,2018-06-24,Colombia,Poland,3,0,3,FIFA World Cup,True,international_results
+400021517,a,history_csv_line_41704,2018-06-28,Colombia,Senegal,1,0,3,FIFA World Cup,True,international_results
+400021517,a,history_csv_line_41714,2018-07-03,Colombia,England,1,1,1,FIFA World Cup,True,international_results
+400021517,b,history_csv_line_37893,2014-06-16,Ghana,United States,1,2,0,FIFA World Cup,True,international_results
+400021517,b,history_csv_line_37909,2014-06-21,Ghana,Germany,2,2,1,FIFA World Cup,True,international_results
+400021517,b,history_csv_line_37931,2014-06-26,Ghana,Portugal,1,2,0,FIFA World Cup,True,international_results
+400021517,b,history_csv_line_45774,2022-11-24,Ghana,Portugal,2,3,0,FIFA World Cup,True,international_results
+400021517,b,history_csv_line_45789,2022-11-28,Ghana,South Korea,3,2,3,FIFA World Cup,True,international_results
+400021517,b,history_csv_line_45805,2022-12-02,Ghana,Uruguay,0,2,0,FIFA World Cup,True,international_results
+400021530,a,history_csv_line_45770,2022-11-23,Canada,Belgium,0,1,0,FIFA World Cup,True,international_results
+400021530,a,history_csv_line_45786,2022-11-27,Canada,Croatia,1,4,0,FIFA World Cup,True,international_results
+400021530,a,history_csv_line_45802,2022-12-01,Canada,Morocco,1,2,0,FIFA World Cup,True,international_results
+400021530,b,history_csv_line_41661,2018-06-15,Morocco,Iran,0,1,0,FIFA World Cup,True,international_results
+400021530,b,history_csv_line_41676,2018-06-20,Morocco,Portugal,0,1,0,FIFA World Cup,True,international_results
+400021530,b,history_csv_line_41693,2018-06-25,Morocco,Spain,2,2,1,FIFA World Cup,True,international_results
+400021530,b,history_csv_line_45769,2022-11-23,Morocco,Croatia,0,0,1,FIFA World Cup,True,international_results
+400021530,b,history_csv_line_45785,2022-11-27,Morocco,Belgium,2,0,3,FIFA World Cup,True,international_results
+400021530,b,history_csv_line_45802,2022-12-01,Morocco,Canada,2,1,3,FIFA World Cup,True,international_results
+400021530,b,history_csv_line_45813,2022-12-06,Morocco,Spain,0,0,1,FIFA World Cup,True,international_results
+400021530,b,history_csv_line_45818,2022-12-10,Morocco,Portugal,1,0,3,FIFA World Cup,True,international_results
+400021530,b,history_csv_line_45822,2022-12-14,Morocco,France,0,2,0,FIFA World Cup,True,international_results
+400021530,b,history_csv_line_45826,2022-12-17,Morocco,Croatia,1,2,0,FIFA World Cup,True,international_results
+400021533,b,history_csv_line_37890,2014-06-15,France,Honduras,3,0,3,FIFA World Cup,True,international_results
+400021533,b,history_csv_line_37907,2014-06-20,France,Switzerland,5,2,3,FIFA World Cup,True,international_results
+400021533,b,history_csv_line_37925,2014-06-25,France,Ecuador,0,0,1,FIFA World Cup,True,international_results
+400021533,b,history_csv_line_37938,2014-06-30,France,Nigeria,2,0,3,FIFA World Cup,True,international_results
+400021533,b,history_csv_line_37944,2014-07-04,France,Germany,0,1,0,FIFA World Cup,True,international_results
+400021533,b,history_csv_line_41663,2018-06-16,France,Australia,2,1,3,FIFA World Cup,True,international_results
+400021533,b,history_csv_line_41680,2018-06-21,France,Peru,1,0,3,FIFA World Cup,True,international_results
+400021533,b,history_csv_line_41696,2018-06-26,France,Denmark,0,0,1,FIFA World Cup,True,international_results
+400021533,b,history_csv_line_41707,2018-06-30,France,Argentina,4,3,3,FIFA World Cup,True,international_results
+400021533,b,history_csv_line_41716,2018-07-06,France,Uruguay,2,0,3,FIFA World Cup,True,international_results
+400021533,b,history_csv_line_41720,2018-07-10,France,Belgium,1,0,3,FIFA World Cup,True,international_results
+400021533,b,history_csv_line_41723,2018-07-15,France,Croatia,4,2,3,FIFA World Cup,True,international_results
+400021533,b,history_csv_line_45766,2022-11-22,France,Australia,4,1,3,FIFA World Cup,True,international_results
+400021533,b,history_csv_line_45782,2022-11-26,France,Denmark,2,1,3,FIFA World Cup,True,international_results
+400021533,b,history_csv_line_45798,2022-11-30,France,Tunisia,0,1,0,FIFA World Cup,True,international_results
+400021533,b,history_csv_line_45809,2022-12-04,France,Poland,3,1,3,FIFA World Cup,True,international_results
+400021533,b,history_csv_line_45819,2022-12-10,France,England,2,1,3,FIFA World Cup,True,international_results
+400021533,b,history_csv_line_45822,2022-12-14,France,Morocco,2,0,3,FIFA World Cup,True,international_results
+400021533,b,history_csv_line_45828,2022-12-18,France,Argentina,3,3,1,FIFA World Cup,True,international_results
+400021532,a,history_csv_line_37881,2014-06-12,Brazil,Croatia,3,1,3,FIFA World Cup,True,international_results
+400021532,a,history_csv_line_37896,2014-06-17,Brazil,Mexico,0,0,1,FIFA World Cup,True,international_results
+400021532,a,history_csv_line_37917,2014-06-23,Brazil,Cameroon,4,1,3,FIFA World Cup,True,international_results
+400021532,a,history_csv_line_37933,2014-06-28,Brazil,Chile,1,1,1,FIFA World Cup,True,international_results
+400021532,a,history_csv_line_37943,2014-07-04,Brazil,Colombia,2,1,3,FIFA World Cup,True,international_results
+400021532,a,history_csv_line_37948,2014-07-08,Brazil,Germany,1,7,0,FIFA World Cup,True,international_results
+400021532,a,history_csv_line_37951,2014-07-12,Brazil,Netherlands,0,3,0,FIFA World Cup,True,international_results
+400021532,a,history_csv_line_41669,2018-06-17,Brazil,Switzerland,1,1,1,FIFA World Cup,True,international_results
+400021532,a,history_csv_line_41682,2018-06-22,Brazil,Costa Rica,2,0,3,FIFA World Cup,True,international_results
+400021532,a,history_csv_line_41701,2018-06-27,Brazil,Serbia,2,0,3,FIFA World Cup,True,international_results
+400021532,a,history_csv_line_41711,2018-07-02,Brazil,Mexico,2,0,3,FIFA World Cup,True,international_results
+400021532,a,history_csv_line_41717,2018-07-06,Brazil,Belgium,1,2,0,FIFA World Cup,True,international_results
+400021532,a,history_csv_line_45772,2022-11-24,Brazil,Serbia,2,0,3,FIFA World Cup,True,international_results
+400021532,a,history_csv_line_45788,2022-11-28,Brazil,Switzerland,1,0,3,FIFA World Cup,True,international_results
+400021532,a,history_csv_line_45804,2022-12-02,Brazil,Cameroon,0,1,0,FIFA World Cup,True,international_results
+400021532,a,history_csv_line_45812,2022-12-05,Brazil,South Korea,4,1,3,FIFA World Cup,True,international_results
+400021532,a,history_csv_line_45815,2022-12-09,Brazil,Croatia,1,1,1,FIFA World Cup,True,international_results
+400021531,a,history_csv_line_37883,2014-06-13,Mexico,Cameroon,1,0,3,FIFA World Cup,True,international_results
+400021531,a,history_csv_line_37896,2014-06-17,Mexico,Brazil,0,0,1,FIFA World Cup,True,international_results
+400021531,a,history_csv_line_37918,2014-06-23,Mexico,Croatia,3,1,3,FIFA World Cup,True,international_results
+400021531,a,history_csv_line_37937,2014-06-29,Mexico,Netherlands,1,2,0,FIFA World Cup,True,international_results
+400021531,a,history_csv_line_41668,2018-06-17,Mexico,Germany,1,0,3,FIFA World Cup,True,international_results
+400021531,a,history_csv_line_41686,2018-06-23,Mexico,South Korea,2,1,3,FIFA World Cup,True,international_results
+400021531,a,history_csv_line_41700,2018-06-27,Mexico,Sweden,0,3,0,FIFA World Cup,True,international_results
+400021531,a,history_csv_line_41711,2018-07-02,Mexico,Brazil,0,2,0,FIFA World Cup,True,international_results
+400021531,a,history_csv_line_45764,2022-11-22,Mexico,Poland,0,0,1,FIFA World Cup,True,international_results
+400021531,a,history_csv_line_45780,2022-11-26,Mexico,Argentina,0,2,0,FIFA World Cup,True,international_results
+400021531,a,history_csv_line_45796,2022-11-30,Mexico,Saudi Arabia,2,1,3,FIFA World Cup,True,international_results
+400021531,b,history_csv_line_37886,2014-06-14,England,Italy,1,2,0,FIFA World Cup,True,international_results
+400021531,b,history_csv_line_37904,2014-06-19,England,Uruguay,1,2,0,FIFA World Cup,True,international_results
+400021531,b,history_csv_line_37920,2014-06-24,England,Costa Rica,0,0,1,FIFA World Cup,True,international_results
+400021531,b,history_csv_line_41672,2018-06-18,England,Tunisia,2,1,3,FIFA World Cup,True,international_results
+400021531,b,history_csv_line_41688,2018-06-24,England,Panama,6,1,3,FIFA World Cup,True,international_results
+400021531,b,history_csv_line_41706,2018-06-28,England,Belgium,0,1,0,FIFA World Cup,True,international_results
+400021531,b,history_csv_line_41714,2018-07-03,England,Colombia,1,1,1,FIFA World Cup,True,international_results
+400021531,b,history_csv_line_41718,2018-07-07,England,Sweden,2,0,3,FIFA World Cup,True,international_results
+400021531,b,history_csv_line_41721,2018-07-11,England,Croatia,1,2,0,FIFA World Cup,True,international_results
+400021531,b,history_csv_line_41722,2018-07-14,England,Belgium,0,2,0,FIFA World Cup,True,international_results
+400021531,b,history_csv_line_45761,2022-11-21,England,Iran,6,2,3,FIFA World Cup,True,international_results
+400021531,b,history_csv_line_45778,2022-11-25,England,United States,0,0,1,FIFA World Cup,True,international_results
+400021531,b,history_csv_line_45793,2022-11-29,England,Wales,3,0,3,FIFA World Cup,True,international_results
+400021531,b,history_csv_line_45810,2022-12-04,England,Senegal,3,0,3,FIFA World Cup,True,international_results
+400021531,b,history_csv_line_45819,2022-12-10,England,France,1,2,0,FIFA World Cup,True,international_results
+400021529,a,history_csv_line_37892,2014-06-16,Portugal,Germany,0,4,0,FIFA World Cup,True,international_results
+400021529,a,history_csv_line_37915,2014-06-22,Portugal,United States,2,2,1,FIFA World Cup,True,international_results
+400021529,a,history_csv_line_37931,2014-06-26,Portugal,Ghana,2,1,3,FIFA World Cup,True,international_results
+400021529,a,history_csv_line_41662,2018-06-15,Portugal,Spain,3,3,1,FIFA World Cup,True,international_results
+400021529,a,history_csv_line_41676,2018-06-20,Portugal,Morocco,1,0,3,FIFA World Cup,True,international_results
+400021529,a,history_csv_line_41694,2018-06-25,Portugal,Iran,1,1,1,FIFA World Cup,True,international_results
+400021529,a,history_csv_line_41708,2018-06-30,Portugal,Uruguay,1,2,0,FIFA World Cup,True,international_results
+400021529,a,history_csv_line_45774,2022-11-24,Portugal,Ghana,3,2,3,FIFA World Cup,True,international_results
+400021529,a,history_csv_line_45790,2022-11-28,Portugal,Uruguay,2,0,3,FIFA World Cup,True,international_results
+400021529,a,history_csv_line_45806,2022-12-02,Portugal,South Korea,1,2,0,FIFA World Cup,True,international_results
+400021529,a,history_csv_line_45814,2022-12-06,Portugal,Switzerland,6,1,3,FIFA World Cup,True,international_results
+400021529,a,history_csv_line_45818,2022-12-10,Portugal,Morocco,0,1,0,FIFA World Cup,True,international_results
+400021529,b,history_csv_line_37884,2014-06-13,Spain,Netherlands,1,5,0,FIFA World Cup,True,international_results
+400021529,b,history_csv_line_37901,2014-06-18,Spain,Chile,0,2,0,FIFA World Cup,True,international_results
+400021529,b,history_csv_line_37916,2014-06-23,Spain,Australia,3,0,3,FIFA World Cup,True,international_results
+400021529,b,history_csv_line_41662,2018-06-15,Spain,Portugal,3,3,1,FIFA World Cup,True,international_results
+400021529,b,history_csv_line_41678,2018-06-20,Spain,Iran,1,0,3,FIFA World Cup,True,international_results
+400021529,b,history_csv_line_41693,2018-06-25,Spain,Morocco,2,2,1,FIFA World Cup,True,international_results
+400021529,b,history_csv_line_41709,2018-07-01,Spain,Russia,1,1,1,FIFA World Cup,True,international_results
+400021529,b,history_csv_line_45768,2022-11-23,Spain,Costa Rica,7,0,3,FIFA World Cup,True,international_results
+400021529,b,history_csv_line_45784,2022-11-27,Spain,Germany,1,1,1,FIFA World Cup,True,international_results
+400021529,b,history_csv_line_45799,2022-12-01,Spain,Japan,1,2,0,FIFA World Cup,True,international_results
+400021529,b,history_csv_line_45813,2022-12-06,Spain,Morocco,0,0,1,FIFA World Cup,True,international_results
+400021534,a,history_csv_line_37893,2014-06-16,United States,Ghana,2,1,3,FIFA World Cup,True,international_results
+400021534,a,history_csv_line_37915,2014-06-22,United States,Portugal,2,2,1,FIFA World Cup,True,international_results
+400021534,a,history_csv_line_37932,2014-06-26,United States,Germany,0,1,0,FIFA World Cup,True,international_results
+400021534,a,history_csv_line_37941,2014-07-01,United States,Belgium,1,2,0,FIFA World Cup,True,international_results
+400021534,a,history_csv_line_45762,2022-11-21,United States,Wales,1,1,1,FIFA World Cup,True,international_results
+400021534,a,history_csv_line_45778,2022-11-25,United States,England,0,0,1,FIFA World Cup,True,international_results
+400021534,a,history_csv_line_45794,2022-11-29,United States,Iran,1,0,3,FIFA World Cup,True,international_results
+400021534,a,history_csv_line_45807,2022-12-03,United States,Netherlands,1,3,0,FIFA World Cup,True,international_results
+400021534,b,history_csv_line_37895,2014-06-17,Belgium,Algeria,2,1,3,FIFA World Cup,True,international_results
+400021534,b,history_csv_line_37912,2014-06-22,Belgium,Russia,1,0,3,FIFA World Cup,True,international_results
+400021534,b,history_csv_line_37930,2014-06-26,Belgium,South Korea,1,0,3,FIFA World Cup,True,international_results
+400021534,b,history_csv_line_37941,2014-07-01,Belgium,United States,2,1,3,FIFA World Cup,True,international_results
+400021534,b,history_csv_line_37945,2014-07-05,Belgium,Argentina,0,1,0,FIFA World Cup,True,international_results
+400021534,b,history_csv_line_41671,2018-06-18,Belgium,Panama,3,0,3,FIFA World Cup,True,international_results
+400021534,b,history_csv_line_41685,2018-06-23,Belgium,Tunisia,5,2,3,FIFA World Cup,True,international_results
+400021534,b,history_csv_line_41706,2018-06-28,Belgium,England,1,0,3,FIFA World Cup,True,international_results
+400021534,b,history_csv_line_41712,2018-07-02,Belgium,Japan,3,2,3,FIFA World Cup,True,international_results
+400021534,b,history_csv_line_41717,2018-07-06,Belgium,Brazil,2,1,3,FIFA World Cup,True,international_results
+400021534,b,history_csv_line_41720,2018-07-10,Belgium,France,0,1,0,FIFA World Cup,True,international_results
+400021534,b,history_csv_line_41722,2018-07-14,Belgium,England,2,0,3,FIFA World Cup,True,international_results
+400021534,b,history_csv_line_45770,2022-11-23,Belgium,Canada,1,0,3,FIFA World Cup,True,international_results
+400021534,b,history_csv_line_45785,2022-11-27,Belgium,Morocco,0,2,0,FIFA World Cup,True,international_results
+400021534,b,history_csv_line_45801,2022-12-01,Belgium,Croatia,0,0,1,FIFA World Cup,True,international_results
+400021528,a,history_csv_line_37889,2014-06-15,Argentina,Bosnia and Herzegovina,2,1,3,FIFA World Cup,True,international_results
+400021528,a,history_csv_line_37908,2014-06-21,Argentina,Iran,1,0,3,FIFA World Cup,True,international_results
+400021528,a,history_csv_line_37928,2014-06-25,Argentina,Nigeria,3,2,3,FIFA World Cup,True,international_results
+400021528,a,history_csv_line_37940,2014-07-01,Argentina,Switzerland,1,0,3,FIFA World Cup,True,international_results
+400021528,a,history_csv_line_37945,2014-07-05,Argentina,Belgium,1,0,3,FIFA World Cup,True,international_results
+400021528,a,history_csv_line_37949,2014-07-09,Argentina,Netherlands,0,0,1,FIFA World Cup,True,international_results
+400021528,a,history_csv_line_37953,2014-07-13,Argentina,Germany,0,1,0,FIFA World Cup,True,international_results
+400021528,a,history_csv_line_41664,2018-06-16,Argentina,Iceland,1,1,1,FIFA World Cup,True,international_results
+400021528,a,history_csv_line_41681,2018-06-21,Argentina,Croatia,0,3,0,FIFA World Cup,True,international_results
+400021528,a,history_csv_line_41697,2018-06-26,Argentina,Nigeria,2,1,3,FIFA World Cup,True,international_results
+400021528,a,history_csv_line_41707,2018-06-30,Argentina,France,3,4,0,FIFA World Cup,True,international_results
+400021528,a,history_csv_line_45763,2022-11-22,Argentina,Saudi Arabia,1,2,0,FIFA World Cup,True,international_results
+400021528,a,history_csv_line_45780,2022-11-26,Argentina,Mexico,2,0,3,FIFA World Cup,True,international_results
+400021528,a,history_csv_line_45795,2022-11-30,Argentina,Poland,2,0,3,FIFA World Cup,True,international_results
+400021528,a,history_csv_line_45808,2022-12-03,Argentina,Australia,2,1,3,FIFA World Cup,True,international_results
+400021528,a,history_csv_line_45816,2022-12-09,Argentina,Netherlands,2,2,1,FIFA World Cup,True,international_results
+400021528,a,history_csv_line_45821,2022-12-13,Argentina,Croatia,3,0,3,FIFA World Cup,True,international_results
+400021528,a,history_csv_line_45828,2022-12-18,Argentina,France,3,3,1,FIFA World Cup,True,international_results
+400021528,b,history_csv_line_41660,2018-06-15,Egypt,Uruguay,0,1,0,FIFA World Cup,True,international_results
+400021528,b,history_csv_line_41675,2018-06-19,Egypt,Russia,1,3,0,FIFA World Cup,True,international_results
+400021528,b,history_csv_line_41692,2018-06-25,Egypt,Saudi Arabia,1,2,0,FIFA World Cup,True,international_results
+400021535,a,history_csv_line_37891,2014-06-15,Switzerland,Ecuador,2,1,3,FIFA World Cup,True,international_results
+400021535,a,history_csv_line_37907,2014-06-20,Switzerland,France,2,5,0,FIFA World Cup,True,international_results
+400021535,a,history_csv_line_37926,2014-06-25,Switzerland,Honduras,3,0,3,FIFA World Cup,True,international_results
+400021535,a,history_csv_line_37940,2014-07-01,Switzerland,Argentina,0,1,0,FIFA World Cup,True,international_results
+400021535,a,history_csv_line_41669,2018-06-17,Switzerland,Brazil,1,1,1,FIFA World Cup,True,international_results
+400021535,a,history_csv_line_41684,2018-06-22,Switzerland,Serbia,2,1,3,FIFA World Cup,True,international_results
+400021535,a,history_csv_line_41702,2018-06-27,Switzerland,Costa Rica,2,2,1,FIFA World Cup,True,international_results
+400021535,a,history_csv_line_41713,2018-07-03,Switzerland,Sweden,0,1,0,FIFA World Cup,True,international_results
+400021535,a,history_csv_line_45771,2022-11-24,Switzerland,Cameroon,1,0,3,FIFA World Cup,True,international_results
+400021535,a,history_csv_line_45788,2022-11-28,Switzerland,Brazil,0,1,0,FIFA World Cup,True,international_results
+400021535,a,history_csv_line_45803,2022-12-02,Switzerland,Serbia,3,2,3,FIFA World Cup,True,international_results
+400021535,a,history_csv_line_45814,2022-12-06,Switzerland,Portugal,1,6,0,FIFA World Cup,True,international_results
+400021535,b,history_csv_line_37885,2014-06-14,Colombia,Greece,3,0,3,FIFA World Cup,True,international_results
+400021535,b,history_csv_line_37902,2014-06-19,Colombia,Ivory Coast,2,1,3,FIFA World Cup,True,international_results
+400021535,b,history_csv_line_37923,2014-06-24,Colombia,Japan,4,1,3,FIFA World Cup,True,international_results
+400021535,b,history_csv_line_37934,2014-06-28,Colombia,Uruguay,2,0,3,FIFA World Cup,True,international_results
+400021535,b,history_csv_line_37943,2014-07-04,Colombia,Brazil,1,2,0,FIFA World Cup,True,international_results
+400021535,b,history_csv_line_41673,2018-06-19,Colombia,Japan,1,2,0,FIFA World Cup,True,international_results
+400021535,b,history_csv_line_41690,2018-06-24,Colombia,Poland,3,0,3,FIFA World Cup,True,international_results
+400021535,b,history_csv_line_41704,2018-06-28,Colombia,Senegal,1,0,3,FIFA World Cup,True,international_results
+400021535,b,history_csv_line_41714,2018-07-03,Colombia,England,1,1,1,FIFA World Cup,True,international_results
+400021536,a,history_csv_line_37890,2014-06-15,France,Honduras,3,0,3,FIFA World Cup,True,international_results
+400021536,a,history_csv_line_37907,2014-06-20,France,Switzerland,5,2,3,FIFA World Cup,True,international_results
+400021536,a,history_csv_line_37925,2014-06-25,France,Ecuador,0,0,1,FIFA World Cup,True,international_results
+400021536,a,history_csv_line_37938,2014-06-30,France,Nigeria,2,0,3,FIFA World Cup,True,international_results
+400021536,a,history_csv_line_37944,2014-07-04,France,Germany,0,1,0,FIFA World Cup,True,international_results
+400021536,a,history_csv_line_41663,2018-06-16,France,Australia,2,1,3,FIFA World Cup,True,international_results
+400021536,a,history_csv_line_41680,2018-06-21,France,Peru,1,0,3,FIFA World Cup,True,international_results
+400021536,a,history_csv_line_41696,2018-06-26,France,Denmark,0,0,1,FIFA World Cup,True,international_results
+400021536,a,history_csv_line_41707,2018-06-30,France,Argentina,4,3,3,FIFA World Cup,True,international_results
+400021536,a,history_csv_line_41716,2018-07-06,France,Uruguay,2,0,3,FIFA World Cup,True,international_results
+400021536,a,history_csv_line_41720,2018-07-10,France,Belgium,1,0,3,FIFA World Cup,True,international_results
+400021536,a,history_csv_line_41723,2018-07-15,France,Croatia,4,2,3,FIFA World Cup,True,international_results
+400021536,a,history_csv_line_45766,2022-11-22,France,Australia,4,1,3,FIFA World Cup,True,international_results
+400021536,a,history_csv_line_45782,2022-11-26,France,Denmark,2,1,3,FIFA World Cup,True,international_results
+400021536,a,history_csv_line_45798,2022-11-30,France,Tunisia,0,1,0,FIFA World Cup,True,international_results
+400021536,a,history_csv_line_45809,2022-12-04,France,Poland,3,1,3,FIFA World Cup,True,international_results
+400021536,a,history_csv_line_45819,2022-12-10,France,England,2,1,3,FIFA World Cup,True,international_results
+400021536,a,history_csv_line_45822,2022-12-14,France,Morocco,2,0,3,FIFA World Cup,True,international_results
+400021536,a,history_csv_line_45828,2022-12-18,France,Argentina,3,3,1,FIFA World Cup,True,international_results
+400021536,b,history_csv_line_41661,2018-06-15,Morocco,Iran,0,1,0,FIFA World Cup,True,international_results
+400021536,b,history_csv_line_41676,2018-06-20,Morocco,Portugal,0,1,0,FIFA World Cup,True,international_results
+400021536,b,history_csv_line_41693,2018-06-25,Morocco,Spain,2,2,1,FIFA World Cup,True,international_results
+400021536,b,history_csv_line_45769,2022-11-23,Morocco,Croatia,0,0,1,FIFA World Cup,True,international_results
+400021536,b,history_csv_line_45785,2022-11-27,Morocco,Belgium,2,0,3,FIFA World Cup,True,international_results
+400021536,b,history_csv_line_45802,2022-12-01,Morocco,Canada,2,1,3,FIFA World Cup,True,international_results
+400021536,b,history_csv_line_45813,2022-12-06,Morocco,Spain,0,0,1,FIFA World Cup,True,international_results
+400021536,b,history_csv_line_45818,2022-12-10,Morocco,Portugal,1,0,3,FIFA World Cup,True,international_results
+400021536,b,history_csv_line_45822,2022-12-14,Morocco,France,0,2,0,FIFA World Cup,True,international_results
+400021536,b,history_csv_line_45826,2022-12-17,Morocco,Croatia,1,2,0,FIFA World Cup,True,international_results
+400021538,a,history_csv_line_37884,2014-06-13,Spain,Netherlands,1,5,0,FIFA World Cup,True,international_results
+400021538,a,history_csv_line_37901,2014-06-18,Spain,Chile,0,2,0,FIFA World Cup,True,international_results
+400021538,a,history_csv_line_37916,2014-06-23,Spain,Australia,3,0,3,FIFA World Cup,True,international_results
+400021538,a,history_csv_line_41662,2018-06-15,Spain,Portugal,3,3,1,FIFA World Cup,True,international_results
+400021538,a,history_csv_line_41678,2018-06-20,Spain,Iran,1,0,3,FIFA World Cup,True,international_results
+400021538,a,history_csv_line_41693,2018-06-25,Spain,Morocco,2,2,1,FIFA World Cup,True,international_results
+400021538,a,history_csv_line_41709,2018-07-01,Spain,Russia,1,1,1,FIFA World Cup,True,international_results
+400021538,a,history_csv_line_45768,2022-11-23,Spain,Costa Rica,7,0,3,FIFA World Cup,True,international_results
+400021538,a,history_csv_line_45784,2022-11-27,Spain,Germany,1,1,1,FIFA World Cup,True,international_results
+400021538,a,history_csv_line_45799,2022-12-01,Spain,Japan,1,2,0,FIFA World Cup,True,international_results
+400021538,a,history_csv_line_45813,2022-12-06,Spain,Morocco,0,0,1,FIFA World Cup,True,international_results
+400021538,b,history_csv_line_37895,2014-06-17,Belgium,Algeria,2,1,3,FIFA World Cup,True,international_results
+400021538,b,history_csv_line_37912,2014-06-22,Belgium,Russia,1,0,3,FIFA World Cup,True,international_results
+400021538,b,history_csv_line_37930,2014-06-26,Belgium,South Korea,1,0,3,FIFA World Cup,True,international_results
+400021538,b,history_csv_line_37941,2014-07-01,Belgium,United States,2,1,3,FIFA World Cup,True,international_results
+400021538,b,history_csv_line_37945,2014-07-05,Belgium,Argentina,0,1,0,FIFA World Cup,True,international_results
+400021538,b,history_csv_line_41671,2018-06-18,Belgium,Panama,3,0,3,FIFA World Cup,True,international_results
+400021538,b,history_csv_line_41685,2018-06-23,Belgium,Tunisia,5,2,3,FIFA World Cup,True,international_results
+400021538,b,history_csv_line_41706,2018-06-28,Belgium,England,1,0,3,FIFA World Cup,True,international_results
+400021538,b,history_csv_line_41712,2018-07-02,Belgium,Japan,3,2,3,FIFA World Cup,True,international_results
+400021538,b,history_csv_line_41717,2018-07-06,Belgium,Brazil,2,1,3,FIFA World Cup,True,international_results
+400021538,b,history_csv_line_41720,2018-07-10,Belgium,France,0,1,0,FIFA World Cup,True,international_results
+400021538,b,history_csv_line_41722,2018-07-14,Belgium,England,2,0,3,FIFA World Cup,True,international_results
+400021538,b,history_csv_line_45770,2022-11-23,Belgium,Canada,1,0,3,FIFA World Cup,True,international_results
+400021538,b,history_csv_line_45785,2022-11-27,Belgium,Morocco,0,2,0,FIFA World Cup,True,international_results
+400021538,b,history_csv_line_45801,2022-12-01,Belgium,Croatia,0,0,1,FIFA World Cup,True,international_results
+400021539,b,history_csv_line_37886,2014-06-14,England,Italy,1,2,0,FIFA World Cup,True,international_results
+400021539,b,history_csv_line_37904,2014-06-19,England,Uruguay,1,2,0,FIFA World Cup,True,international_results
+400021539,b,history_csv_line_37920,2014-06-24,England,Costa Rica,0,0,1,FIFA World Cup,True,international_results
+400021539,b,history_csv_line_41672,2018-06-18,England,Tunisia,2,1,3,FIFA World Cup,True,international_results
+400021539,b,history_csv_line_41688,2018-06-24,England,Panama,6,1,3,FIFA World Cup,True,international_results
+400021539,b,history_csv_line_41706,2018-06-28,England,Belgium,0,1,0,FIFA World Cup,True,international_results
+400021539,b,history_csv_line_41714,2018-07-03,England,Colombia,1,1,1,FIFA World Cup,True,international_results
+400021539,b,history_csv_line_41718,2018-07-07,England,Sweden,2,0,3,FIFA World Cup,True,international_results
+400021539,b,history_csv_line_41721,2018-07-11,England,Croatia,1,2,0,FIFA World Cup,True,international_results
+400021539,b,history_csv_line_41722,2018-07-14,England,Belgium,0,2,0,FIFA World Cup,True,international_results
+400021539,b,history_csv_line_45761,2022-11-21,England,Iran,6,2,3,FIFA World Cup,True,international_results
+400021539,b,history_csv_line_45778,2022-11-25,England,United States,0,0,1,FIFA World Cup,True,international_results
+400021539,b,history_csv_line_45793,2022-11-29,England,Wales,3,0,3,FIFA World Cup,True,international_results
+400021539,b,history_csv_line_45810,2022-12-04,England,Senegal,3,0,3,FIFA World Cup,True,international_results
+400021539,b,history_csv_line_45819,2022-12-10,England,France,1,2,0,FIFA World Cup,True,international_results
+400021537,a,history_csv_line_37889,2014-06-15,Argentina,Bosnia and Herzegovina,2,1,3,FIFA World Cup,True,international_results
+400021537,a,history_csv_line_37908,2014-06-21,Argentina,Iran,1,0,3,FIFA World Cup,True,international_results
+400021537,a,history_csv_line_37928,2014-06-25,Argentina,Nigeria,3,2,3,FIFA World Cup,True,international_results
+400021537,a,history_csv_line_37940,2014-07-01,Argentina,Switzerland,1,0,3,FIFA World Cup,True,international_results
+400021537,a,history_csv_line_37945,2014-07-05,Argentina,Belgium,1,0,3,FIFA World Cup,True,international_results
+400021537,a,history_csv_line_37949,2014-07-09,Argentina,Netherlands,0,0,1,FIFA World Cup,True,international_results
+400021537,a,history_csv_line_37953,2014-07-13,Argentina,Germany,0,1,0,FIFA World Cup,True,international_results
+400021537,a,history_csv_line_41664,2018-06-16,Argentina,Iceland,1,1,1,FIFA World Cup,True,international_results
+400021537,a,history_csv_line_41681,2018-06-21,Argentina,Croatia,0,3,0,FIFA World Cup,True,international_results
+400021537,a,history_csv_line_41697,2018-06-26,Argentina,Nigeria,2,1,3,FIFA World Cup,True,international_results
+400021537,a,history_csv_line_41707,2018-06-30,Argentina,France,3,4,0,FIFA World Cup,True,international_results
+400021537,a,history_csv_line_45763,2022-11-22,Argentina,Saudi Arabia,1,2,0,FIFA World Cup,True,international_results
+400021537,a,history_csv_line_45780,2022-11-26,Argentina,Mexico,2,0,3,FIFA World Cup,True,international_results
+400021537,a,history_csv_line_45795,2022-11-30,Argentina,Poland,2,0,3,FIFA World Cup,True,international_results
+400021537,a,history_csv_line_45808,2022-12-03,Argentina,Australia,2,1,3,FIFA World Cup,True,international_results
+400021537,a,history_csv_line_45816,2022-12-09,Argentina,Netherlands,2,2,1,FIFA World Cup,True,international_results
+400021537,a,history_csv_line_45821,2022-12-13,Argentina,Croatia,3,0,3,FIFA World Cup,True,international_results
+400021537,a,history_csv_line_45828,2022-12-18,Argentina,France,3,3,1,FIFA World Cup,True,international_results
+400021537,b,history_csv_line_37891,2014-06-15,Switzerland,Ecuador,2,1,3,FIFA World Cup,True,international_results
+400021537,b,history_csv_line_37907,2014-06-20,Switzerland,France,2,5,0,FIFA World Cup,True,international_results
+400021537,b,history_csv_line_37926,2014-06-25,Switzerland,Honduras,3,0,3,FIFA World Cup,True,international_results
+400021537,b,history_csv_line_37940,2014-07-01,Switzerland,Argentina,0,1,0,FIFA World Cup,True,international_results
+400021537,b,history_csv_line_41669,2018-06-17,Switzerland,Brazil,1,1,1,FIFA World Cup,True,international_results
+400021537,b,history_csv_line_41684,2018-06-22,Switzerland,Serbia,2,1,3,FIFA World Cup,True,international_results
+400021537,b,history_csv_line_41702,2018-06-27,Switzerland,Costa Rica,2,2,1,FIFA World Cup,True,international_results
+400021537,b,history_csv_line_41713,2018-07-03,Switzerland,Sweden,0,1,0,FIFA World Cup,True,international_results
+400021537,b,history_csv_line_45771,2022-11-24,Switzerland,Cameroon,1,0,3,FIFA World Cup,True,international_results
+400021537,b,history_csv_line_45788,2022-11-28,Switzerland,Brazil,0,1,0,FIFA World Cup,True,international_results
+400021537,b,history_csv_line_45803,2022-12-02,Switzerland,Serbia,3,2,3,FIFA World Cup,True,international_results
+400021537,b,history_csv_line_45814,2022-12-06,Switzerland,Portugal,1,6,0,FIFA World Cup,True,international_results
+400021541,a,history_csv_line_37890,2014-06-15,France,Honduras,3,0,3,FIFA World Cup,True,international_results
+400021541,a,history_csv_line_37907,2014-06-20,France,Switzerland,5,2,3,FIFA World Cup,True,international_results
+400021541,a,history_csv_line_37925,2014-06-25,France,Ecuador,0,0,1,FIFA World Cup,True,international_results
+400021541,a,history_csv_line_37938,2014-06-30,France,Nigeria,2,0,3,FIFA World Cup,True,international_results
+400021541,a,history_csv_line_37944,2014-07-04,France,Germany,0,1,0,FIFA World Cup,True,international_results
+400021541,a,history_csv_line_41663,2018-06-16,France,Australia,2,1,3,FIFA World Cup,True,international_results
+400021541,a,history_csv_line_41680,2018-06-21,France,Peru,1,0,3,FIFA World Cup,True,international_results
+400021541,a,history_csv_line_41696,2018-06-26,France,Denmark,0,0,1,FIFA World Cup,True,international_results
+400021541,a,history_csv_line_41707,2018-06-30,France,Argentina,4,3,3,FIFA World Cup,True,international_results
+400021541,a,history_csv_line_41716,2018-07-06,France,Uruguay,2,0,3,FIFA World Cup,True,international_results
+400021541,a,history_csv_line_41720,2018-07-10,France,Belgium,1,0,3,FIFA World Cup,True,international_results
+400021541,a,history_csv_line_41723,2018-07-15,France,Croatia,4,2,3,FIFA World Cup,True,international_results
+400021541,a,history_csv_line_45766,2022-11-22,France,Australia,4,1,3,FIFA World Cup,True,international_results
+400021541,a,history_csv_line_45782,2022-11-26,France,Denmark,2,1,3,FIFA World Cup,True,international_results
+400021541,a,history_csv_line_45798,2022-11-30,France,Tunisia,0,1,0,FIFA World Cup,True,international_results
+400021541,a,history_csv_line_45809,2022-12-04,France,Poland,3,1,3,FIFA World Cup,True,international_results
+400021541,a,history_csv_line_45819,2022-12-10,France,England,2,1,3,FIFA World Cup,True,international_results
+400021541,a,history_csv_line_45822,2022-12-14,France,Morocco,2,0,3,FIFA World Cup,True,international_results
+400021541,a,history_csv_line_45828,2022-12-18,France,Argentina,3,3,1,FIFA World Cup,True,international_results
+400021541,b,history_csv_line_37884,2014-06-13,Spain,Netherlands,1,5,0,FIFA World Cup,True,international_results
+400021541,b,history_csv_line_37901,2014-06-18,Spain,Chile,0,2,0,FIFA World Cup,True,international_results
+400021541,b,history_csv_line_37916,2014-06-23,Spain,Australia,3,0,3,FIFA World Cup,True,international_results
+400021541,b,history_csv_line_41662,2018-06-15,Spain,Portugal,3,3,1,FIFA World Cup,True,international_results
+400021541,b,history_csv_line_41678,2018-06-20,Spain,Iran,1,0,3,FIFA World Cup,True,international_results
+400021541,b,history_csv_line_41693,2018-06-25,Spain,Morocco,2,2,1,FIFA World Cup,True,international_results
+400021541,b,history_csv_line_41709,2018-07-01,Spain,Russia,1,1,1,FIFA World Cup,True,international_results
+400021541,b,history_csv_line_45768,2022-11-23,Spain,Costa Rica,7,0,3,FIFA World Cup,True,international_results
+400021541,b,history_csv_line_45784,2022-11-27,Spain,Germany,1,1,1,FIFA World Cup,True,international_results
+400021541,b,history_csv_line_45799,2022-12-01,Spain,Japan,1,2,0,FIFA World Cup,True,international_results
+400021541,b,history_csv_line_45813,2022-12-06,Spain,Morocco,0,0,1,FIFA World Cup,True,international_results
+400021540,a,history_csv_line_37886,2014-06-14,England,Italy,1,2,0,FIFA World Cup,True,international_results
+400021540,a,history_csv_line_37904,2014-06-19,England,Uruguay,1,2,0,FIFA World Cup,True,international_results
+400021540,a,history_csv_line_37920,2014-06-24,England,Costa Rica,0,0,1,FIFA World Cup,True,international_results
+400021540,a,history_csv_line_41672,2018-06-18,England,Tunisia,2,1,3,FIFA World Cup,True,international_results
+400021540,a,history_csv_line_41688,2018-06-24,England,Panama,6,1,3,FIFA World Cup,True,international_results
+400021540,a,history_csv_line_41706,2018-06-28,England,Belgium,0,1,0,FIFA World Cup,True,international_results
+400021540,a,history_csv_line_41714,2018-07-03,England,Colombia,1,1,1,FIFA World Cup,True,international_results
+400021540,a,history_csv_line_41718,2018-07-07,England,Sweden,2,0,3,FIFA World Cup,True,international_results
+400021540,a,history_csv_line_41721,2018-07-11,England,Croatia,1,2,0,FIFA World Cup,True,international_results
+400021540,a,history_csv_line_41722,2018-07-14,England,Belgium,0,2,0,FIFA World Cup,True,international_results
+400021540,a,history_csv_line_45761,2022-11-21,England,Iran,6,2,3,FIFA World Cup,True,international_results
+400021540,a,history_csv_line_45778,2022-11-25,England,United States,0,0,1,FIFA World Cup,True,international_results
+400021540,a,history_csv_line_45793,2022-11-29,England,Wales,3,0,3,FIFA World Cup,True,international_results
+400021540,a,history_csv_line_45810,2022-12-04,England,Senegal,3,0,3,FIFA World Cup,True,international_results
+400021540,a,history_csv_line_45819,2022-12-10,England,France,1,2,0,FIFA World Cup,True,international_results
+400021540,b,history_csv_line_37889,2014-06-15,Argentina,Bosnia and Herzegovina,2,1,3,FIFA World Cup,True,international_results
+400021540,b,history_csv_line_37908,2014-06-21,Argentina,Iran,1,0,3,FIFA World Cup,True,international_results
+400021540,b,history_csv_line_37928,2014-06-25,Argentina,Nigeria,3,2,3,FIFA World Cup,True,international_results
+400021540,b,history_csv_line_37940,2014-07-01,Argentina,Switzerland,1,0,3,FIFA World Cup,True,international_results
+400021540,b,history_csv_line_37945,2014-07-05,Argentina,Belgium,1,0,3,FIFA World Cup,True,international_results
+400021540,b,history_csv_line_37949,2014-07-09,Argentina,Netherlands,0,0,1,FIFA World Cup,True,international_results
+400021540,b,history_csv_line_37953,2014-07-13,Argentina,Germany,0,1,0,FIFA World Cup,True,international_results
+400021540,b,history_csv_line_41664,2018-06-16,Argentina,Iceland,1,1,1,FIFA World Cup,True,international_results
+400021540,b,history_csv_line_41681,2018-06-21,Argentina,Croatia,0,3,0,FIFA World Cup,True,international_results
+400021540,b,history_csv_line_41697,2018-06-26,Argentina,Nigeria,2,1,3,FIFA World Cup,True,international_results
+400021540,b,history_csv_line_41707,2018-06-30,Argentina,France,3,4,0,FIFA World Cup,True,international_results
+400021540,b,history_csv_line_45763,2022-11-22,Argentina,Saudi Arabia,1,2,0,FIFA World Cup,True,international_results
+400021540,b,history_csv_line_45780,2022-11-26,Argentina,Mexico,2,0,3,FIFA World Cup,True,international_results
+400021540,b,history_csv_line_45795,2022-11-30,Argentina,Poland,2,0,3,FIFA World Cup,True,international_results
+400021540,b,history_csv_line_45808,2022-12-03,Argentina,Australia,2,1,3,FIFA World Cup,True,international_results
+400021540,b,history_csv_line_45816,2022-12-09,Argentina,Netherlands,2,2,1,FIFA World Cup,True,international_results
+400021540,b,history_csv_line_45821,2022-12-13,Argentina,Croatia,3,0,3,FIFA World Cup,True,international_results
+400021540,b,history_csv_line_45828,2022-12-18,Argentina,France,3,3,1,FIFA World Cup,True,international_results
+400021542,a,history_csv_line_37890,2014-06-15,France,Honduras,3,0,3,FIFA World Cup,True,international_results
+400021542,a,history_csv_line_37907,2014-06-20,France,Switzerland,5,2,3,FIFA World Cup,True,international_results
+400021542,a,history_csv_line_37925,2014-06-25,France,Ecuador,0,0,1,FIFA World Cup,True,international_results
+400021542,a,history_csv_line_37938,2014-06-30,France,Nigeria,2,0,3,FIFA World Cup,True,international_results
+400021542,a,history_csv_line_37944,2014-07-04,France,Germany,0,1,0,FIFA World Cup,True,international_results
+400021542,a,history_csv_line_41663,2018-06-16,France,Australia,2,1,3,FIFA World Cup,True,international_results
+400021542,a,history_csv_line_41680,2018-06-21,France,Peru,1,0,3,FIFA World Cup,True,international_results
+400021542,a,history_csv_line_41696,2018-06-26,France,Denmark,0,0,1,FIFA World Cup,True,international_results
+400021542,a,history_csv_line_41707,2018-06-30,France,Argentina,4,3,3,FIFA World Cup,True,international_results
+400021542,a,history_csv_line_41716,2018-07-06,France,Uruguay,2,0,3,FIFA World Cup,True,international_results
+400021542,a,history_csv_line_41720,2018-07-10,France,Belgium,1,0,3,FIFA World Cup,True,international_results
+400021542,a,history_csv_line_41723,2018-07-15,France,Croatia,4,2,3,FIFA World Cup,True,international_results
+400021542,a,history_csv_line_45766,2022-11-22,France,Australia,4,1,3,FIFA World Cup,True,international_results
+400021542,a,history_csv_line_45782,2022-11-26,France,Denmark,2,1,3,FIFA World Cup,True,international_results
+400021542,a,history_csv_line_45798,2022-11-30,France,Tunisia,0,1,0,FIFA World Cup,True,international_results
+400021542,a,history_csv_line_45809,2022-12-04,France,Poland,3,1,3,FIFA World Cup,True,international_results
+400021542,a,history_csv_line_45819,2022-12-10,France,England,2,1,3,FIFA World Cup,True,international_results
+400021542,a,history_csv_line_45822,2022-12-14,France,Morocco,2,0,3,FIFA World Cup,True,international_results
+400021542,a,history_csv_line_45828,2022-12-18,France,Argentina,3,3,1,FIFA World Cup,True,international_results
+400021542,b,history_csv_line_37886,2014-06-14,England,Italy,1,2,0,FIFA World Cup,True,international_results
+400021542,b,history_csv_line_37904,2014-06-19,England,Uruguay,1,2,0,FIFA World Cup,True,international_results
+400021542,b,history_csv_line_37920,2014-06-24,England,Costa Rica,0,0,1,FIFA World Cup,True,international_results
+400021542,b,history_csv_line_41672,2018-06-18,England,Tunisia,2,1,3,FIFA World Cup,True,international_results
+400021542,b,history_csv_line_41688,2018-06-24,England,Panama,6,1,3,FIFA World Cup,True,international_results
+400021542,b,history_csv_line_41706,2018-06-28,England,Belgium,0,1,0,FIFA World Cup,True,international_results
+400021542,b,history_csv_line_41714,2018-07-03,England,Colombia,1,1,1,FIFA World Cup,True,international_results
+400021542,b,history_csv_line_41718,2018-07-07,England,Sweden,2,0,3,FIFA World Cup,True,international_results
+400021542,b,history_csv_line_41721,2018-07-11,England,Croatia,1,2,0,FIFA World Cup,True,international_results
+400021542,b,history_csv_line_41722,2018-07-14,England,Belgium,0,2,0,FIFA World Cup,True,international_results
+400021542,b,history_csv_line_45761,2022-11-21,England,Iran,6,2,3,FIFA World Cup,True,international_results
+400021542,b,history_csv_line_45778,2022-11-25,England,United States,0,0,1,FIFA World Cup,True,international_results
+400021542,b,history_csv_line_45793,2022-11-29,England,Wales,3,0,3,FIFA World Cup,True,international_results
+400021542,b,history_csv_line_45810,2022-12-04,England,Senegal,3,0,3,FIFA World Cup,True,international_results
+400021542,b,history_csv_line_45819,2022-12-10,England,France,1,2,0,FIFA World Cup,True,international_results
+400021543,a,history_csv_line_37884,2014-06-13,Spain,Netherlands,1,5,0,FIFA World Cup,True,international_results
+400021543,a,history_csv_line_37901,2014-06-18,Spain,Chile,0,2,0,FIFA World Cup,True,international_results
+400021543,a,history_csv_line_37916,2014-06-23,Spain,Australia,3,0,3,FIFA World Cup,True,international_results
+400021543,a,history_csv_line_41662,2018-06-15,Spain,Portugal,3,3,1,FIFA World Cup,True,international_results
+400021543,a,history_csv_line_41678,2018-06-20,Spain,Iran,1,0,3,FIFA World Cup,True,international_results
+400021543,a,history_csv_line_41693,2018-06-25,Spain,Morocco,2,2,1,FIFA World Cup,True,international_results
+400021543,a,history_csv_line_41709,2018-07-01,Spain,Russia,1,1,1,FIFA World Cup,True,international_results
+400021543,a,history_csv_line_45768,2022-11-23,Spain,Costa Rica,7,0,3,FIFA World Cup,True,international_results
+400021543,a,history_csv_line_45784,2022-11-27,Spain,Germany,1,1,1,FIFA World Cup,True,international_results
+400021543,a,history_csv_line_45799,2022-12-01,Spain,Japan,1,2,0,FIFA World Cup,True,international_results
+400021543,a,history_csv_line_45813,2022-12-06,Spain,Morocco,0,0,1,FIFA World Cup,True,international_results
+400021543,b,history_csv_line_37889,2014-06-15,Argentina,Bosnia and Herzegovina,2,1,3,FIFA World Cup,True,international_results
+400021543,b,history_csv_line_37908,2014-06-21,Argentina,Iran,1,0,3,FIFA World Cup,True,international_results
+400021543,b,history_csv_line_37928,2014-06-25,Argentina,Nigeria,3,2,3,FIFA World Cup,True,international_results
+400021543,b,history_csv_line_37940,2014-07-01,Argentina,Switzerland,1,0,3,FIFA World Cup,True,international_results
+400021543,b,history_csv_line_37945,2014-07-05,Argentina,Belgium,1,0,3,FIFA World Cup,True,international_results
+400021543,b,history_csv_line_37949,2014-07-09,Argentina,Netherlands,0,0,1,FIFA World Cup,True,international_results
+400021543,b,history_csv_line_37953,2014-07-13,Argentina,Germany,0,1,0,FIFA World Cup,True,international_results
+400021543,b,history_csv_line_41664,2018-06-16,Argentina,Iceland,1,1,1,FIFA World Cup,True,international_results
+400021543,b,history_csv_line_41681,2018-06-21,Argentina,Croatia,0,3,0,FIFA World Cup,True,international_results
+400021543,b,history_csv_line_41697,2018-06-26,Argentina,Nigeria,2,1,3,FIFA World Cup,True,international_results
+400021543,b,history_csv_line_41707,2018-06-30,Argentina,France,3,4,0,FIFA World Cup,True,international_results
+400021543,b,history_csv_line_45763,2022-11-22,Argentina,Saudi Arabia,1,2,0,FIFA World Cup,True,international_results
+400021543,b,history_csv_line_45780,2022-11-26,Argentina,Mexico,2,0,3,FIFA World Cup,True,international_results
+400021543,b,history_csv_line_45795,2022-11-30,Argentina,Poland,2,0,3,FIFA World Cup,True,international_results
+400021543,b,history_csv_line_45808,2022-12-03,Argentina,Australia,2,1,3,FIFA World Cup,True,international_results
+400021543,b,history_csv_line_45816,2022-12-09,Argentina,Netherlands,2,2,1,FIFA World Cup,True,international_results
+400021543,b,history_csv_line_45821,2022-12-13,Argentina,Croatia,3,0,3,FIFA World Cup,True,international_results
+400021543,b,history_csv_line_45828,2022-12-18,Argentina,France,3,3,1,FIFA World Cup,True,international_results

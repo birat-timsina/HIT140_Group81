@@ -1,0 +1,18 @@
+[
+  {
+    "file": "fifa_matches.json",
+    "source_url": "https://api.fifa.com/api/v3/calendar/matches?idSeason=285023&count=200&language=en",
+    "bytes": 459453,
+    "sha256": "a79a299b6bd6931ab2da94f16659d32ac2c35de000f24025f6905c1c1aba4c9b",
+    "snapshot_recorded_utc": "2026-10-09T01:10:47.052657+00:00",
+    "timestamp_note": "Local packaging record; not the source publication time or a pre-kickoff archive."
+  },
+  {
+    "file": "international_results.csv",
+    "source_url": "https://raw.githubusercontent.com/martj42/international_results/master/results.csv",
+    "bytes": 3764601,
+    "sha256": "b38434f8f74cd9faacb269eb1c97760fc2dfac43fcb211779e0bd2cbb48f89e3",
+    "snapshot_recorded_utc": "2026-10-09T01:10:47.055995+00:00",
+    "timestamp_note": "Local packaging record; not the source publication time or a pre-kickoff archive."
+  }
+]

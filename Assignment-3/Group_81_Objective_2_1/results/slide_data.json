@@ -1,0 +1,198 @@
+{
+  "summary": {
+    "matches": 104,
+    "features": 8,
+    "train_n": 82,
+    "later_n": 22,
+    "cv": {
+      "MAE": 1.2144001488075928,
+      "RMSE": 1.624623641721846,
+      "R2": 0.31811583364761287
+    },
+    "later": {
+      "MAE": 1.4195750143301729,
+      "RMSE": 1.5915397414034618,
+      "R2": 0.054763766956180904
+    },
+    "zero_baseline": {
+      "MAE": 1.4090909090909092,
+      "RMSE": 1.6376257758774382,
+      "R2": -0.0007710100231304029
+    },
+    "sequential_n": 64,
+    "sequential": {
+      "MAE": 1.2542976083645738,
+      "RMSE": 1.5741159464592798,
+      "R2": 0.28921935788026276
+    },
+    "sequential_zero": {
+      "MAE": 1.484375,
+      "RMSE": 1.875,
+      "R2": -0.0084739827719027
+    },
+    "evaluation_status": "Retrospective redesign; final dates were seen in version 1",
+    "overlap_status": "Pending teammate final eight definitions"
+  },
+  "metrics": [
+    {
+      "model": "Eight feature OLS",
+      "split": "training",
+      "MAE": 1.26277868628,
+      "RMSE": 1.67380658465,
+      "R2": 0.35337418328
+    },
+    {
+      "model": "Eight feature OLS",
+      "split": "later matches",
+      "MAE": 1.41957501433,
+      "RMSE": 1.5915397414,
+      "R2": 0.0547637669562
+    },
+    {
+      "model": "Always zero",
+      "split": "later matches",
+      "MAE": 1.40909090909,
+      "RMSE": 1.63762577588,
+      "R2": -0.00077101002313
+    },
+    {
+      "model": "Training mean",
+      "split": "later matches",
+      "MAE": 1.46563192905,
+      "RMSE": 1.76781857701,
+      "R2": -0.166220771221
+    }
+  ],
+  "ablation": [
+    {
+      "feature": "competitive_form_gap",
+      "label": "Competitive form",
+      "full_cv_MAE": 1.21440014881,
+      "removed_cv_MAE": 1.15074785454,
+      "delta_MAE": -0.0636522942721,
+      "fold_1_delta": -0.136720873658,
+      "fold_2_delta": 0.0550841472306
+    },
+    {
+      "feature": "clean_sheet_gap",
+      "label": "Clean sheets",
+      "full_cv_MAE": 1.21440014881,
+      "removed_cv_MAE": 1.20928526877,
+      "delta_MAE": -0.00511488003558,
+      "fold_1_delta": -0.0199755853568,
+      "fold_2_delta": 0.0190337661114
+    },
+    {
+      "feature": "scoring_failure_gap",
+      "label": "Scoring failure",
+      "full_cv_MAE": 1.21440014881,
+      "removed_cv_MAE": 1.24333809818,
+      "delta_MAE": 0.0289379493685,
+      "fold_1_delta": 0.038134438984,
+      "fold_2_delta": 0.0139936537433
+    },
+    {
+      "feature": "margin_volatility_gap",
+      "label": "Margin volatility",
+      "full_cv_MAE": 1.21440014881,
+      "removed_cv_MAE": 1.1867669054,
+      "delta_MAE": -0.0276332434088,
+      "fold_1_delta": -0.0506678612105,
+      "fold_2_delta": 0.00979801051896
+    },
+    {
+      "feature": "form_momentum_gap",
+      "label": "Form momentum",
+      "full_cv_MAE": 1.21440014881,
+      "removed_cv_MAE": 1.13770549921,
+      "delta_MAE": -0.0766946495964,
+      "fold_1_delta": -0.126131387697,
+      "fold_2_delta": 0.00364004981679
+    },
+    {
+      "feature": "schedule_strength_gap",
+      "label": "Past opponent strength",
+      "full_cv_MAE": 1.21440014881,
+      "removed_cv_MAE": 1.20376071427,
+      "delta_MAE": -0.0106394345338,
+      "fold_1_delta": -4.53117206249e-05,
+      "fold_2_delta": -0.0278548841052
+    },
+    {
+      "feature": "workload_30d_gap",
+      "label": "30 day workload",
+      "full_cv_MAE": 1.21440014881,
+      "removed_cv_MAE": 1.18756007987,
+      "delta_MAE": -0.0268400689359,
+      "fold_1_delta": -0.0285155611939,
+      "fold_2_delta": -0.0241173940167
+    },
+    {
+      "feature": "world_cup_experience_gap",
+      "label": "World Cup experience",
+      "full_cv_MAE": 1.21440014881,
+      "removed_cv_MAE": 1.33673809645,
+      "delta_MAE": 0.122337947638,
+      "fold_1_delta": 0.367766325191,
+      "fold_2_delta": -0.276483165886
+    }
+  ],
+  "features": [
+    {
+      "name": "Competitive form",
+      "feature": "competitive_form_gap",
+      "construction": "Average result points from the previous ten selected competitive internationals. Award 3 for a win, 1 for a draw and 0 for a loss, regardless of competition format.",
+      "reason": "Summarises recent competitive success without requiring a large winning margin. Higher values for A are expected to favour A.",
+      "limitation": "Points ignore the margin of victory and remain sensitive to opponent quality. A draw followed by a shootout win still earns one synthetic result point."
+    },
+    {
+      "name": "Clean sheet rate",
+      "feature": "clean_sheet_gap",
+      "construction": "Fraction of the previous ten competitive matches in which the team conceded zero goals.",
+      "reason": "Measures how often a defence completely prevents scoring. This can distinguish teams with similar average concession totals.",
+      "limitation": "It discards the difference between conceding one and several goals. Opponents and tactical choices affect the rate."
+    },
+    {
+      "name": "Scoring failure rate",
+      "feature": "scoring_failure_gap",
+      "construction": "Fraction of the previous ten competitive matches in which the team scored zero goals.",
+      "reason": "Measures attacking reliability. A higher failure rate for A is expected to lower its goal difference.",
+      "limitation": "A scoreless match can reflect poor finishing or strong opposition. This is an observed event rate, not shot-based expected goals."
+    },
+    {
+      "name": "Margin volatility",
+      "feature": "margin_volatility_gap",
+      "construction": "Sample standard deviation of goals scored minus goals conceded over the previous ten competitive games, using n minus 1 in the variance denominator.",
+      "reason": "Tests whether inconsistency adds information beyond form. Large wins and losses can distinguish unstable performance.",
+      "limitation": "There is no definite expected coefficient sign. Volatility may affect uncertainty more than the expected margin, so this is deliberately an exploratory feature."
+    },
+    {
+      "name": "Form momentum",
+      "feature": "form_momentum_gap",
+      "construction": "Mean result points in the most recent five competitive games minus the mean in the preceding five. Then subtract the two teams' momentum values.",
+      "reason": "Tests whether a recent improvement adds information beyond the ten-match average.",
+      "limitation": "A short run can be random or reflect easier opponents. The feature shares information with competitive form; usefulness must be tested conditionally."
+    },
+    {
+      "name": "Past opponent strength",
+      "feature": "schedule_strength_gap",
+      "construction": "For each of the ten previous competitive opponents, calculate its points per game in its own ten competitive games BEFORE that historical meeting. Average those ten opponent values.",
+      "reason": "Adds context to the schedule behind a team's form. Similar results against stronger opponents may mean something different.",
+      "limitation": "This is a simple schedule proxy, not an Elo rating or a complete strength adjustment. Strong teams in weak confederations can still have high points rates."
+    },
+    {
+      "name": "Recent workload",
+      "feature": "workload_30d_gap",
+      "construction": "Count all recorded internationals in the interval from 30 days before the prediction date up to, but excluding, that date. Include friendlies for this feature.",
+      "reason": "Tests a scheduling and recovery hypothesis. More recent matches may mean more fatigue, but could also improve preparation.",
+      "limitation": "The count does not measure player minutes, club workload, travel or rotation. Fixture-congestion evidence is mixed, and a 30-day count is a coarse proxy (Julian et al., 2021)."
+    },
+    {
+      "name": "World Cup experience",
+      "feature": "world_cup_experience_gap",
+      "construction": "Count matches played in the 2014, 2018 and 2022 World Cups and apply the natural logarithm of one plus that count. Subtract B from A.",
+      "reason": "Tests whether recent national-team tournament experience adds context. The logarithm limits the influence of highly experienced nations and handles zero appearances.",
+      "limitation": "This measures national-team history, not the current players' experience. It also reflects prior qualification and strength; no causal interpretation is justified."
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+feature,label,raw_coefficient,scaled_coefficient,VIF
+competitive_form_gap,Competitive form,0.698345876197,0.43560433314,2.75411387712
+clean_sheet_gap,Clean sheets,-0.772949374747,-0.193510740335,2.03436256021
+scoring_failure_gap,Scoring failure,-1.49284337076,-0.277702582876,1.87406001794
+margin_volatility_gap,Margin volatility,-0.148085656628,-0.140777707459,1.3518610903
+form_momentum_gap,Form momentum,0.0420762676684,0.0469789604539,1.16356573642
+schedule_strength_gap,Past opponent strength,-0.465486108565,-0.130965008939,1.12805928483
+workload_30d_gap,30 day workload,-0.334266471459,-0.254572371365,1.09377710312
+world_cup_experience_gap,World Cup experience,0.652898321438,1.08500463915,1.11497932113

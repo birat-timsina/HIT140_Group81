@@ -1,0 +1,17 @@
+test_competitive_history_and_cutoff (__main__.IntegrityTests.test_competitive_history_and_cutoff) ... ok
+test_equation_reproduces_predictions (__main__.IntegrityTests.test_equation_reproduces_predictions) ... ok
+test_exact_shape_and_unique_matches (__main__.IntegrityTests.test_exact_shape_and_unique_matches) ... ok
+test_first_row_direct_arithmetic (__main__.IntegrityTests.test_first_row_direct_arithmetic) ... ok
+test_future_results_do_not_change_earlier_inputs (__main__.IntegrityTests.test_future_results_do_not_change_earlier_inputs) ... ok
+test_nested_opponent_history_cutoff (__main__.IntegrityTests.test_nested_opponent_history_cutoff) ... ok
+test_no_missing_or_infinite_values (__main__.IntegrityTests.test_no_missing_or_infinite_values) ... ok
+test_signed_target (__main__.IntegrityTests.test_signed_target) ... ok
+test_swapping_teams_negates_inputs_and_prediction (__main__.IntegrityTests.test_swapping_teams_negates_inputs_and_prediction) ... ok
+test_temporal_splits (__main__.IntegrityTests.test_temporal_splits) ... ok
+test_workload_date_interval (__main__.IntegrityTests.test_workload_date_interval) ... ok
+test_world_cup_experience_is_prior_tournaments (__main__.IntegrityTests.test_world_cup_experience_is_prior_tournaments) ... ok
+
+----------------------------------------------------------------------
+Ran 12 tests in 2.611s
+
+OK
