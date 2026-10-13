@@ -2,15 +2,6 @@
 
 Owner: Birat Timsina. Revised project: competitive form and match context.
 
-## Open these first
-
-1. `deliverables/Objective_2_1_Report.docx` explains the question, every feature and the actual results.
-2. `deliverables/Objective_2_1_Presentation.pptx` contains six main slides and two backup slides.
-3. `WALKTHROUGH.ipynb` contains executed explanatory cells and saved outputs.
-4. `data/model_dataset_104.csv` is the assignment model table: match_id + exactly eight inputs + goal_difference.
-5. `PRESENTATION_SCRIPT.md` has a short speaking script and questions to practise.
-
-## Reproduce the analysis
 
 Extract this entire folder. In a terminal inside it:
 
