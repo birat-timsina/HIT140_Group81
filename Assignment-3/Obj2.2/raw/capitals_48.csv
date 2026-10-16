@@ -1,0 +1,49 @@
+fifa_code,team_name,capital,capital_altitude_m,source_url
+USA,United States,Washington,12,https://api.open-meteo.com/v1/elevation?latitude=38.89511&longitude=-77.03637
+ALG,Algeria,Algiers,116,https://api.open-meteo.com/v1/elevation?latitude=36.73225&longitude=3.08746
+ARG,Argentina,Buenos Aires,19,https://api.open-meteo.com/v1/elevation?latitude=-34.61315&longitude=-58.37723
+AUS,Australia,Canberra,568,https://api.open-meteo.com/v1/elevation?latitude=-35.28346&longitude=149.12807
+AUT,Austria,Vienna,196,https://api.open-meteo.com/v1/elevation?latitude=48.20849&longitude=16.37208
+BEL,Belgium,Brussels,27,https://api.open-meteo.com/v1/elevation?latitude=50.85045&longitude=4.34878
+BIH,Bosnia and Herzegovina,Sarajevo,509,https://api.open-meteo.com/v1/elevation?latitude=43.84864&longitude=18.35644
+BRA,Brazil,Brasília,1134,https://api.open-meteo.com/v1/elevation?latitude=-15.77972&longitude=-47.92972
+CPV,Cabo Verde,Praia,21,https://api.open-meteo.com/v1/elevation?latitude=14.93152&longitude=-23.51254
+CAN,Canada,Ottawa,74,https://api.open-meteo.com/v1/elevation?latitude=45.41117&longitude=-75.69812
+COL,Colombia,Bogotá,2582,https://api.open-meteo.com/v1/elevation?latitude=4.60971&longitude=-74.08175
+COD,Congo DR,Kinshasa,283,https://api.open-meteo.com/v1/elevation?latitude=-4.32758&longitude=15.31357
+CIV,Côte d'Ivoire,Yamoussoukro,212,https://api.open-meteo.com/v1/elevation?latitude=6.82055&longitude=-5.27674
+CRO,Croatia,Zagreb,137,https://api.open-meteo.com/v1/elevation?latitude=45.81444&longitude=15.97798
+CUW,Curaçao,Willemstad,26,https://api.open-meteo.com/v1/elevation?latitude=12.12246&longitude=-68.88641
+CZE,Czechia,Prague,205,https://api.open-meteo.com/v1/elevation?latitude=50.08804&longitude=14.42076
+ECU,Ecuador,Quito,2858,https://api.open-meteo.com/v1/elevation?latitude=-0.22985&longitude=-78.52495
+ENG,England,London,23,https://api.open-meteo.com/v1/elevation?latitude=51.50853&longitude=-0.12574
+EGY,Egypt,Cairo,28,https://api.open-meteo.com/v1/elevation?latitude=30.06263&longitude=31.24967
+FRA,France,Paris,43,https://api.open-meteo.com/v1/elevation?latitude=48.85341&longitude=2.3488
+GER,Germany,Berlin,46,https://api.open-meteo.com/v1/elevation?latitude=52.52437&longitude=13.41053
+GHA,Ghana,Accra,28,https://api.open-meteo.com/v1/elevation?latitude=5.55602&longitude=-0.1969
+HAI,Haiti,Port-au-Prince,19,https://api.open-meteo.com/v1/elevation?latitude=18.54349&longitude=-72.33881
+IRN,IR Iran,Tehran,1183,https://api.open-meteo.com/v1/elevation?latitude=35.69439&longitude=51.42151
+IRQ,Iraq,Baghdad,42,https://api.open-meteo.com/v1/elevation?latitude=33.34058&longitude=44.40088
+JPN,Japan,Tokyo,40,https://api.open-meteo.com/v1/elevation?latitude=35.6895&longitude=139.69171
+JOR,Jordan,Amman,780,https://api.open-meteo.com/v1/elevation?latitude=31.95522&longitude=35.94503
+KOR,Korea Republic,Seoul,27,https://api.open-meteo.com/v1/elevation?latitude=37.566&longitude=126.9784
+MEX,Mexico,Mexico City,2233,https://api.open-meteo.com/v1/elevation?latitude=19.42847&longitude=-99.12766
+MAR,Morocco,Rabat,41,https://api.open-meteo.com/v1/elevation?latitude=34.01325&longitude=-6.83255
+NED,Netherlands,Amsterdam,14,https://api.open-meteo.com/v1/elevation?latitude=52.37403&longitude=4.88969
+NZL,New Zealand,Wellington,29,https://api.open-meteo.com/v1/elevation?latitude=-41.28664&longitude=174.77557
+NOR,Norway,Oslo,27,https://api.open-meteo.com/v1/elevation?latitude=59.91273&longitude=10.74609
+PAN,Panama,Panama City,15,https://api.open-meteo.com/v1/elevation?latitude=8.9936&longitude=-79.51973
+PAR,Paraguay,Asunción,105,https://api.open-meteo.com/v1/elevation?latitude=-25.28646&longitude=-57.647
+POR,Portugal,Lisbon,54,https://api.open-meteo.com/v1/elevation?latitude=38.72509&longitude=-9.1498
+QAT,Qatar,Doha,2,https://api.open-meteo.com/v1/elevation?latitude=25.28545&longitude=51.53096
+KSA,Saudi Arabia,Riyadh,611,https://api.open-meteo.com/v1/elevation?latitude=24.68773&longitude=46.72185
+SCO,Scotland,Edinburgh,74,https://api.open-meteo.com/v1/elevation?latitude=55.95206&longitude=-3.19648
+SEN,Senegal,Dakar,10,https://api.open-meteo.com/v1/elevation?latitude=14.6937&longitude=-17.44406
+RSA,South Africa,Pretoria,1321,https://api.open-meteo.com/v1/elevation?latitude=-25.74486&longitude=28.18783
+ESP,Spain,Madrid,651,https://api.open-meteo.com/v1/elevation?latitude=40.4165&longitude=-3.70256
+SWE,Sweden,Stockholm,24,https://api.open-meteo.com/v1/elevation?latitude=59.32938&longitude=18.06871
+SUI,Switzerland,Bern,554,https://api.open-meteo.com/v1/elevation?latitude=46.94809&longitude=7.44744
+TUN,Tunisia,Tunis,26,https://api.open-meteo.com/v1/elevation?latitude=36.81897&longitude=10.16579
+TUR,Türkiye,Ankara,869,https://api.open-meteo.com/v1/elevation?latitude=39.91987&longitude=32.85427
+URU,Uruguay,Montevideo,31,https://api.open-meteo.com/v1/elevation?latitude=-34.90328&longitude=-56.18816
+UZB,Uzbekistan,Tashkent,426,https://api.open-meteo.com/v1/elevation?latitude=41.26465&longitude=69.21627
