@@ -1,9 +1,5 @@
 """Group 81 Objective 2.1. Run: python project.py
 
-Eight signed Team A minus Team B features. All temporal cutoffs are exclusive.
-No feature selection uses the final 22 matches. That block was seen in an earlier
-project version, so results are explicitly retrospective, not an untouched test.
-"""
 from pathlib import Path
 import hashlib
 import json
