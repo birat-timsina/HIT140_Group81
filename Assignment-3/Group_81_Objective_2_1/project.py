@@ -262,7 +262,7 @@ def evaluate(matches, frame, long):
              'sequential_n':len(back),'sequential':scores(back.actual,back.prediction),
              'sequential_zero':scores(back.actual,back.zero_prediction),
              'evaluation_status':'Retrospective redesign; final dates were seen in version 1',
-             'overlap_status':'Pending teammate final eight definitions'}
+             'overlap_status':'Audited: 0 exact overlaps; 2 related concepts in 2.2 candidate 8, 1 related in selected 4'}
     (ROOT/'results/summary.json').write_text(json.dumps(summary,indent=2))
     draw(pd.DataFrame(output),pd.DataFrame(ab),predictions,corr)
     print(json.dumps(summary,indent=2))
